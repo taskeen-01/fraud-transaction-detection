@@ -1,0 +1,3001 @@
+Transaction_ID,Customer_ID,Transaction_Amount,Transaction_Hour,Location,Merchant_Category,Payment_Method,Device_Type,Is_Fraud
+T1,1102,2623.2,4,Hyderabad,Entertainment,UPI,Mobile,0
+T2,1179,4112.53,22,Hyderabad,Grocery,Card,Mobile,0
+T3,1092,268.21,18,Bangalore,Electronics,Card,Tablet,0
+T4,1014,3469.85,19,Nagpur,Fashion,UPI,Mobile,0
+T5,1106,3297.44,13,Bangalore,Grocery,UPI,Mobile,0
+T6,1071,3289.93,16,Kolkata,Fashion,Net Banking,Mobile,0
+T7,1188,3700.19,17,Pune,Grocery,Card,Tablet,0
+T8,1020,4513.83,20,Nagpur,Grocery,Card,Mobile,0
+T9,1102,6538.8,2,Pune,Fashion,UPI,Laptop,0
+T10,1121,1257.86,1,Bangalore,Food,UPI,Laptop,0
+T11,1074,6973.01,0,Chennai,Fashion,Card,Mobile,1
+T12,1087,2758.66,9,Hyderabad,Fashion,UPI,Mobile,0
+T13,1116,320.76,18,Pune,Grocery,UPI,Laptop,0
+T14,1099,241.34,16,Nagpur,Electronics,Net Banking,Tablet,0
+T15,1103,1627.29,11,Kolkata,Grocery,Net Banking,Laptop,0
+T16,1151,6146.55,0,Nagpur,Travel,Card,Mobile,1
+T17,1130,4919.64,11,Pune,Fashion,UPI,Laptop,0
+T18,1149,6216.3,16,Nagpur,Entertainment,Card,Mobile,0
+T19,1052,2913.18,23,Kolkata,Fashion,UPI,Mobile,0
+T20,1001,2320.7,2,Hyderabad,Food,UPI,Laptop,0
+T21,1087,638.11,10,Chennai,Entertainment,Net Banking,Mobile,0
+T22,1157,1591.14,16,Hyderabad,Grocery,UPI,Laptop,0
+T23,1037,2276.78,22,Nagpur,Food,Net Banking,Mobile,0
+T24,1129,371.1,2,Kolkata,Fashion,UPI,Laptop,0
+T25,1191,996.98,7,Kolkata,Grocery,Net Banking,Mobile,0
+T26,1187,3647.46,19,Pune,Grocery,UPI,Mobile,0
+T27,1020,5322.12,3,Bangalore,Travel,UPI,Laptop,0
+T28,1160,25621.89,20,Nagpur,Travel,Card,Mobile,1
+T29,1057,10819.02,21,Nagpur,Electronics,Card,Mobile,0
+T30,1021,4115.21,6,Nagpur,Travel,Card,Tablet,0
+T31,1088,2187.53,13,Nagpur,Entertainment,UPI,Mobile,0
+T32,1048,4044.36,13,Pune,Grocery,UPI,Tablet,0
+T33,1058,6160.61,3,Bangalore,Travel,UPI,Mobile,0
+T34,1169,503.78,15,Bangalore,Electronics,Net Banking,Mobile,0
+T35,1187,2109.89,23,Delhi,Fashion,Net Banking,Laptop,0
+T36,1014,7325.39,21,Nagpur,Entertainment,Card,Laptop,0
+T37,1189,1936.95,0,Nagpur,Travel,Card,Mobile,1
+T38,1189,3393.33,16,Delhi,Grocery,Card,Mobile,0
+T39,1174,3544.69,9,Bangalore,Fashion,Card,Laptop,0
+T40,1189,815.7,21,Kolkata,Grocery,UPI,Mobile,0
+T41,1050,1799.14,15,Kolkata,Fashion,UPI,Mobile,0
+T42,1107,1628.93,15,Mumbai,Entertainment,UPI,Mobile,0
+T43,1054,106.18,7,Hyderabad,Grocery,Net Banking,Mobile,0
+T44,1063,97.96,6,Mumbai,Travel,UPI,Mobile,0
+T45,1130,7127.96,5,Bangalore,Travel,Card,Mobile,0
+T46,1050,1275.7,15,Chennai,Electronics,UPI,Mobile,0
+T47,1134,2919.9,19,Nagpur,Fashion,Card,Mobile,0
+T48,1020,1419.42,15,Mumbai,Electronics,Card,Mobile,0
+T49,1072,11299.18,6,Pune,Food,Card,Laptop,0
+T50,1166,1200.62,8,Kolkata,Travel,UPI,Mobile,0
+T51,1017,2246.07,13,Pune,Fashion,Card,Laptop,0
+T52,1131,8245.79,10,Delhi,Entertainment,Card,Laptop,0
+T53,1088,7378.96,13,Bangalore,Electronics,UPI,Mobile,0
+T54,1059,823.68,6,Bangalore,Entertainment,UPI,Mobile,0
+T55,1013,6490.97,0,Mumbai,Entertainment,Card,Mobile,1
+T56,1008,2451.34,12,Nagpur,Entertainment,Card,Laptop,0
+T57,1089,2638.61,19,Bangalore,Electronics,UPI,Tablet,0
+T58,1052,573.08,2,Mumbai,Food,Card,Mobile,1
+T59,1129,336.14,19,Mumbai,Electronics,Net Banking,Laptop,0
+T60,1083,5206.92,3,Hyderabad,Grocery,UPI,Mobile,0
+T61,1091,2744.38,10,Hyderabad,Travel,Card,Mobile,0
+T62,1110,2296.84,1,Bangalore,Electronics,Card,Laptop,1
+T63,1187,5230.05,13,Mumbai,Electronics,Card,Mobile,0
+T64,1198,5801.42,11,Delhi,Food,Card,Mobile,0
+T65,1171,692.22,16,Delhi,Grocery,Card,Mobile,0
+T66,1007,3768.74,11,Hyderabad,Electronics,UPI,Laptop,0
+T67,1174,581.74,11,Bangalore,Travel,Card,Mobile,0
+T68,1034,5567.24,0,Kolkata,Travel,UPI,Tablet,0
+T69,1080,4279.58,12,Nagpur,Electronics,UPI,Mobile,0
+T70,1163,12550.53,13,Chennai,Entertainment,Card,Mobile,0
+T71,1049,285.8,23,Kolkata,Entertainment,Card,Laptop,0
+T72,1103,234.99,1,Delhi,Grocery,Card,Mobile,1
+T73,1131,1326.19,11,Delhi,Travel,Card,Laptop,0
+T74,1001,1213.65,20,Kolkata,Entertainment,UPI,Mobile,0
+T75,1133,1134.65,15,Hyderabad,Travel,Card,Mobile,0
+T76,1053,9468.69,3,Hyderabad,Grocery,UPI,Mobile,0
+T77,1105,1148.31,7,Bangalore,Grocery,Card,Tablet,0
+T78,1003,1269.54,1,Hyderabad,Entertainment,UPI,Mobile,0
+T79,1053,5698.45,9,Pune,Electronics,UPI,Laptop,0
+T80,1190,2389.46,8,Chennai,Fashion,UPI,Mobile,0
+T81,1145,5997.15,22,Kolkata,Food,Card,Mobile,0
+T82,1043,270.4,14,Kolkata,Fashion,Card,Mobile,0
+T83,1161,2674.37,12,Mumbai,Fashion,UPI,Tablet,0
+T84,1189,136.77,22,Delhi,Travel,Card,Laptop,0
+T85,1013,258.81,16,Kolkata,Grocery,Card,Laptop,0
+T86,1094,9476.5,15,Pune,Travel,UPI,Mobile,0
+T87,1047,599.78,1,Kolkata,Entertainment,UPI,Mobile,0
+T88,1014,3040.75,19,Nagpur,Food,UPI,Mobile,0
+T89,1199,2117.97,19,Pune,Entertainment,UPI,Tablet,0
+T90,1189,1706.82,13,Bangalore,Electronics,UPI,Mobile,0
+T91,1039,9203.68,2,Nagpur,Food,UPI,Mobile,0
+T92,1081,88.26,22,Nagpur,Travel,UPI,Mobile,0
+T93,1110,4360.07,11,Kolkata,Travel,UPI,Mobile,0
+T94,1052,13230.22,7,Hyderabad,Entertainment,Net Banking,Mobile,0
+T95,1023,3285.45,1,Kolkata,Travel,Card,Laptop,1
+T96,1153,11047.23,3,Pune,Travel,Card,Mobile,1
+T97,1187,214.69,13,Bangalore,Fashion,UPI,Laptop,0
+T98,1123,2170.6,15,Delhi,Electronics,UPI,Laptop,0
+T99,1040,1205.27,18,Chennai,Fashion,Card,Mobile,0
+T100,1156,5249.51,1,Hyderabad,Travel,Net Banking,Mobile,0
+T101,1014,15916.3,11,Pune,Grocery,Card,Mobile,0
+T102,1044,1185.71,13,Delhi,Fashion,UPI,Tablet,0
+T103,1064,4247.29,5,Pune,Travel,UPI,Mobile,0
+T104,1088,883.07,12,Hyderabad,Travel,Net Banking,Mobile,0
+T105,1070,3332.67,3,Delhi,Electronics,Card,Mobile,1
+T106,1008,2493.98,21,Hyderabad,Entertainment,UPI,Mobile,0
+T107,1087,14302.96,17,Pune,Food,Card,Mobile,0
+T108,1128,3751.36,11,Nagpur,Fashion,Card,Mobile,0
+T109,1135,1720.1,19,Chennai,Fashion,Card,Laptop,0
+T110,1062,484.59,21,Mumbai,Fashion,UPI,Laptop,0
+T111,1138,655.95,20,Chennai,Travel,UPI,Mobile,0
+T112,1080,1021.21,18,Nagpur,Electronics,Card,Mobile,0
+T113,1135,1155.89,7,Hyderabad,Travel,UPI,Laptop,0
+T114,1162,7604.94,6,Chennai,Travel,UPI,Mobile,0
+T115,1162,3295.05,15,Hyderabad,Entertainment,UPI,Laptop,0
+T116,1032,2964.23,18,Hyderabad,Grocery,Net Banking,Mobile,0
+T117,1122,487.63,5,Delhi,Electronics,Card,Laptop,0
+T118,1004,7868.44,19,Bangalore,Fashion,Net Banking,Mobile,0
+T119,1040,5132.27,20,Hyderabad,Food,Net Banking,Mobile,0
+T120,1027,280.27,10,Chennai,Fashion,Card,Laptop,0
+T121,1134,4921.75,4,Chennai,Travel,Card,Mobile,0
+T122,1071,3137.0,15,Chennai,Electronics,Card,Mobile,0
+T123,1011,341.03,6,Nagpur,Electronics,Card,Mobile,0
+T124,1161,2452.18,4,Mumbai,Electronics,UPI,Laptop,0
+T125,1032,2652.0,10,Hyderabad,Grocery,UPI,Mobile,0
+T126,1047,725.01,14,Kolkata,Fashion,UPI,Laptop,0
+T127,1150,11652.79,2,Hyderabad,Grocery,UPI,Mobile,0
+T128,1061,7587.82,4,Hyderabad,Entertainment,Card,Mobile,0
+T129,1036,4422.82,22,Kolkata,Food,Net Banking,Laptop,0
+T130,1098,2481.78,20,Delhi,Entertainment,Card,Mobile,0
+T131,1171,2122.52,4,Hyderabad,Travel,Net Banking,Mobile,0
+T132,1103,4210.43,8,Nagpur,Grocery,Card,Mobile,0
+T133,1034,3153.63,14,Pune,Grocery,Net Banking,Mobile,0
+T134,1192,257.19,2,Bangalore,Entertainment,Card,Mobile,1
+T135,1100,2873.88,5,Chennai,Travel,Card,Mobile,0
+T136,1174,6567.92,16,Hyderabad,Electronics,Card,Mobile,0
+T137,1130,2459.12,20,Delhi,Travel,UPI,Mobile,0
+T138,1000,213.42,7,Nagpur,Fashion,Net Banking,Mobile,0
+T139,1004,6172.32,20,Hyderabad,Entertainment,Card,Mobile,0
+T140,1141,899.4,10,Kolkata,Travel,Net Banking,Tablet,0
+T141,1102,1196.97,5,Delhi,Electronics,UPI,Laptop,0
+T142,1026,719.89,7,Pune,Travel,UPI,Mobile,0
+T143,1136,1603.19,9,Mumbai,Grocery,UPI,Mobile,0
+T144,1014,5654.69,23,Hyderabad,Food,Card,Tablet,0
+T145,1089,2930.76,2,Nagpur,Grocery,Card,Mobile,1
+T146,1041,917.06,22,Delhi,Food,Net Banking,Mobile,0
+T147,1123,8409.37,13,Kolkata,Travel,Net Banking,Laptop,0
+T148,1178,8467.14,22,Delhi,Fashion,Net Banking,Mobile,0
+T149,1062,8178.72,13,Hyderabad,Travel,Net Banking,Mobile,0
+T150,1095,1091.42,9,Delhi,Electronics,Card,Tablet,0
+T151,1051,2400.37,11,Mumbai,Travel,UPI,Laptop,0
+T152,1095,16796.06,5,Delhi,Food,Card,Mobile,0
+T153,1131,5913.86,11,Chennai,Grocery,Net Banking,Mobile,0
+T154,1150,110.17,22,Bangalore,Fashion,UPI,Mobile,0
+T155,1142,269.71,13,Chennai,Travel,UPI,Laptop,0
+T156,1170,2493.97,1,Bangalore,Travel,UPI,Mobile,0
+T157,1028,9597.27,8,Delhi,Grocery,Card,Mobile,0
+T158,1035,3094.84,9,Kolkata,Fashion,Card,Tablet,0
+T159,1012,2755.13,16,Kolkata,Entertainment,Net Banking,Mobile,0
+T160,1159,445.84,16,Hyderabad,Travel,UPI,Mobile,0
+T161,1070,4277.54,2,Kolkata,Travel,Card,Mobile,1
+T162,1186,6906.21,18,Bangalore,Entertainment,UPI,Mobile,0
+T163,1085,1914.85,0,Nagpur,Food,UPI,Mobile,0
+T164,1027,5977.51,11,Bangalore,Food,Card,Tablet,0
+T165,1065,13350.26,6,Chennai,Electronics,Card,Laptop,0
+T166,1169,911.45,3,Delhi,Grocery,Net Banking,Mobile,0
+T167,1044,2963.72,9,Hyderabad,Fashion,UPI,Mobile,0
+T168,1061,1353.87,12,Pune,Travel,UPI,Mobile,0
+T169,1184,6297.33,1,Hyderabad,Travel,UPI,Mobile,0
+T170,1133,3447.15,9,Hyderabad,Electronics,Card,Mobile,0
+T171,1027,4026.86,20,Hyderabad,Travel,UPI,Tablet,0
+T172,1027,6396.25,21,Nagpur,Grocery,Card,Mobile,0
+T173,1107,2016.53,3,Mumbai,Electronics,Card,Mobile,1
+T174,1043,9864.66,17,Chennai,Grocery,UPI,Mobile,0
+T175,1083,3045.95,4,Delhi,Electronics,Net Banking,Mobile,0
+T176,1029,687.69,18,Mumbai,Travel,Card,Mobile,0
+T177,1189,4761.58,1,Pune,Electronics,Card,Mobile,1
+T178,1074,6305.2,11,Mumbai,Food,UPI,Mobile,0
+T179,1127,1523.65,16,Delhi,Fashion,Net Banking,Laptop,0
+T180,1091,7784.66,9,Chennai,Travel,UPI,Mobile,0
+T181,1189,9463.94,1,Chennai,Entertainment,Net Banking,Mobile,0
+T182,1128,1296.86,5,Delhi,Fashion,UPI,Mobile,0
+T183,1120,16422.79,7,Pune,Travel,UPI,Laptop,1
+T184,1026,606.6,18,Delhi,Fashion,Card,Mobile,0
+T185,1189,902.67,10,Pune,Food,Card,Mobile,0
+T186,1120,814.47,11,Pune,Fashion,Card,Mobile,0
+T187,1115,8976.88,8,Delhi,Electronics,UPI,Laptop,0
+T188,1002,4248.65,1,Bangalore,Fashion,Net Banking,Mobile,0
+T189,1102,659.99,7,Chennai,Travel,Net Banking,Mobile,0
+T190,1197,2321.58,10,Pune,Entertainment,Card,Mobile,0
+T191,1199,3821.15,20,Delhi,Entertainment,Card,Mobile,0
+T192,1154,348.62,3,Kolkata,Grocery,Card,Mobile,1
+T193,1136,8562.42,9,Bangalore,Fashion,Card,Mobile,0
+T194,1061,6510.48,20,Chennai,Entertainment,UPI,Laptop,0
+T195,1164,2814.46,19,Pune,Fashion,Net Banking,Mobile,0
+T196,1050,13660.37,15,Chennai,Entertainment,Net Banking,Mobile,0
+T197,1171,2163.5,7,Bangalore,Fashion,UPI,Mobile,0
+T198,1151,16568.34,3,Chennai,Travel,UPI,Mobile,0
+T199,1058,4409.52,9,Nagpur,Fashion,UPI,Mobile,0
+T200,1117,4027.83,11,Hyderabad,Travel,Card,Laptop,0
+T201,1159,725.87,13,Nagpur,Travel,UPI,Tablet,0
+T202,1095,8545.83,15,Bangalore,Grocery,UPI,Mobile,0
+T203,1179,2230.9,21,Pune,Entertainment,UPI,Mobile,0
+T204,1112,708.06,17,Delhi,Electronics,Card,Mobile,0
+T205,1061,50.75,20,Mumbai,Travel,Card,Laptop,0
+T206,1185,3281.7,21,Delhi,Entertainment,Card,Laptop,0
+T207,1051,2998.02,20,Chennai,Food,Net Banking,Laptop,0
+T208,1011,5082.64,11,Mumbai,Fashion,Card,Laptop,0
+T209,1038,8838.49,17,Mumbai,Food,UPI,Mobile,0
+T210,1129,330.95,6,Chennai,Fashion,UPI,Mobile,0
+T211,1130,5259.57,19,Chennai,Grocery,Card,Laptop,0
+T212,1112,830.12,23,Pune,Travel,UPI,Mobile,0
+T213,1100,7812.7,22,Bangalore,Electronics,Net Banking,Mobile,0
+T214,1112,6838.44,6,Kolkata,Travel,UPI,Mobile,0
+T215,1183,3113.02,8,Delhi,Fashion,Net Banking,Mobile,0
+T216,1080,4954.85,0,Bangalore,Electronics,Card,Mobile,1
+T217,1186,1509.55,5,Nagpur,Travel,Card,Mobile,0
+T218,1112,2548.34,5,Pune,Electronics,Net Banking,Laptop,0
+T219,1001,6895.74,21,Pune,Fashion,UPI,Mobile,0
+T220,1129,2459.31,11,Kolkata,Grocery,Net Banking,Mobile,0
+T221,1053,1771.41,21,Nagpur,Grocery,UPI,Laptop,0
+T222,1086,2726.55,11,Delhi,Travel,Net Banking,Mobile,0
+T223,1128,7046.84,9,Hyderabad,Food,UPI,Mobile,0
+T224,1146,1633.12,22,Nagpur,Fashion,UPI,Mobile,0
+T225,1125,763.49,5,Delhi,Travel,UPI,Mobile,0
+T226,1129,4979.37,16,Mumbai,Travel,Card,Mobile,0
+T227,1052,6994.3,18,Chennai,Grocery,Net Banking,Tablet,0
+T228,1171,424.28,17,Pune,Electronics,Card,Mobile,0
+T229,1159,1097.08,5,Delhi,Fashion,UPI,Mobile,0
+T230,1197,612.47,23,Bangalore,Electronics,Card,Mobile,0
+T231,1159,1710.48,18,Kolkata,Entertainment,UPI,Mobile,0
+T232,1067,2393.9,9,Chennai,Entertainment,UPI,Laptop,0
+T233,1182,5526.44,23,Bangalore,Fashion,Card,Mobile,0
+T234,1183,4212.43,7,Chennai,Food,Net Banking,Mobile,0
+T235,1122,3880.12,20,Pune,Entertainment,Card,Laptop,0
+T236,1144,1737.77,23,Nagpur,Grocery,UPI,Mobile,0
+T237,1037,7366.68,5,Hyderabad,Food,Card,Laptop,0
+T238,1023,2549.24,20,Nagpur,Travel,Card,Mobile,0
+T239,1068,15472.97,6,Delhi,Entertainment,Card,Mobile,0
+T240,1115,4022.04,23,Kolkata,Grocery,UPI,Laptop,0
+T241,1097,539.91,0,Nagpur,Travel,Card,Laptop,1
+T242,1197,4510.24,17,Pune,Food,Net Banking,Mobile,0
+T243,1138,1572.79,23,Kolkata,Fashion,Card,Mobile,0
+T244,1143,4637.62,19,Delhi,Travel,Card,Mobile,0
+T245,1096,288.74,11,Mumbai,Electronics,Card,Mobile,0
+T246,1123,768.91,15,Nagpur,Fashion,Card,Tablet,0
+T247,1186,7744.48,9,Nagpur,Fashion,UPI,Mobile,0
+T248,1069,1030.83,9,Hyderabad,Food,Net Banking,Mobile,0
+T249,1092,7257.03,13,Delhi,Food,UPI,Laptop,0
+T250,1002,1310.0,19,Bangalore,Grocery,Card,Mobile,0
+T251,1147,4118.76,9,Nagpur,Grocery,Card,Mobile,0
+T252,1186,4738.65,9,Pune,Electronics,UPI,Tablet,0
+T253,1163,2875.13,10,Nagpur,Fashion,Net Banking,Laptop,0
+T254,1146,1457.16,22,Hyderabad,Electronics,Card,Laptop,0
+T255,1089,956.3,1,Mumbai,Electronics,UPI,Mobile,0
+T256,1194,135.01,19,Hyderabad,Food,Card,Laptop,0
+T257,1146,1449.31,7,Nagpur,Electronics,Card,Mobile,0
+T258,1147,4235.6,22,Kolkata,Electronics,UPI,Mobile,0
+T259,1095,11142.2,6,Bangalore,Travel,Card,Tablet,0
+T260,1198,8198.12,7,Chennai,Grocery,UPI,Mobile,0
+T261,1051,5810.84,0,Nagpur,Grocery,Card,Laptop,1
+T262,1160,6213.13,20,Delhi,Fashion,UPI,Mobile,0
+T263,1167,4374.32,1,Nagpur,Grocery,Card,Mobile,1
+T264,1127,1205.97,17,Bangalore,Entertainment,Net Banking,Laptop,0
+T265,1038,9509.02,14,Delhi,Fashion,Card,Mobile,0
+T266,1081,4443.54,0,Pune,Travel,Net Banking,Mobile,0
+T267,1103,3287.93,4,Kolkata,Grocery,UPI,Mobile,0
+T268,1128,470.58,1,Delhi,Travel,Net Banking,Tablet,0
+T269,1010,2369.99,19,Hyderabad,Grocery,UPI,Mobile,0
+T270,1184,2467.4,2,Mumbai,Grocery,UPI,Mobile,0
+T271,1177,7997.01,18,Hyderabad,Travel,Card,Mobile,0
+T272,1150,3164.35,17,Chennai,Electronics,Card,Tablet,0
+T273,1158,1914.73,21,Delhi,Electronics,Card,Laptop,0
+T274,1041,15054.47,17,Pune,Electronics,Card,Laptop,1
+T275,1098,469.38,13,Nagpur,Entertainment,Net Banking,Mobile,0
+T276,1006,2196.52,23,Kolkata,Electronics,Card,Mobile,0
+T277,1143,171.73,7,Delhi,Grocery,UPI,Mobile,0
+T278,1089,5386.82,11,Hyderabad,Food,UPI,Mobile,0
+T279,1111,10007.88,20,Delhi,Travel,UPI,Mobile,0
+T280,1059,1314.22,9,Delhi,Food,UPI,Tablet,0
+T281,1112,7817.35,22,Delhi,Entertainment,Card,Laptop,0
+T282,1001,1382.48,19,Pune,Food,UPI,Mobile,0
+T283,1128,9666.16,16,Kolkata,Fashion,Card,Mobile,0
+T284,1047,5609.08,10,Bangalore,Electronics,Net Banking,Laptop,0
+T285,1139,6537.11,1,Bangalore,Entertainment,UPI,Mobile,0
+T286,1196,72.68,3,Delhi,Grocery,Net Banking,Mobile,0
+T287,1036,13166.9,0,Pune,Electronics,Card,Mobile,1
+T288,1159,5188.32,14,Pune,Electronics,Card,Mobile,0
+T289,1008,1453.94,12,Chennai,Food,Card,Laptop,0
+T290,1098,7073.61,7,Delhi,Fashion,Card,Mobile,0
+T291,1146,1322.48,3,Hyderabad,Electronics,Card,Mobile,1
+T292,1047,8246.53,9,Hyderabad,Travel,UPI,Mobile,0
+T293,1130,477.75,18,Mumbai,Travel,Card,Laptop,0
+T294,1147,4865.34,17,Kolkata,Electronics,UPI,Mobile,0
+T295,1151,3112.19,4,Delhi,Food,Net Banking,Mobile,0
+T296,1053,406.07,18,Mumbai,Food,UPI,Tablet,0
+T297,1119,1107.73,22,Hyderabad,Grocery,Card,Tablet,0
+T298,1160,49.93,21,Hyderabad,Entertainment,Card,Tablet,0
+T299,1151,2530.23,15,Delhi,Entertainment,UPI,Laptop,0
+T300,1115,1433.94,0,Mumbai,Entertainment,Card,Mobile,1
+T301,1074,3648.77,11,Mumbai,Fashion,UPI,Mobile,0
+T302,1112,1410.95,23,Delhi,Food,Card,Mobile,0
+T303,1199,1426.24,1,Kolkata,Grocery,Net Banking,Mobile,0
+T304,1163,5437.72,20,Chennai,Travel,UPI,Tablet,0
+T305,1165,197.36,7,Mumbai,Entertainment,UPI,Laptop,0
+T306,1103,9327.85,17,Chennai,Travel,Card,Laptop,0
+T307,1083,7649.31,15,Nagpur,Travel,Card,Mobile,0
+T308,1111,4408.13,4,Kolkata,Electronics,UPI,Tablet,0
+T309,1098,3597.95,21,Hyderabad,Fashion,UPI,Laptop,0
+T310,1152,8913.72,12,Bangalore,Grocery,Card,Mobile,0
+T311,1092,819.89,18,Kolkata,Fashion,Card,Laptop,0
+T312,1145,329.05,2,Chennai,Electronics,Card,Mobile,1
+T313,1127,1095.17,7,Chennai,Grocery,UPI,Mobile,0
+T314,1109,6330.76,11,Chennai,Grocery,Card,Laptop,0
+T315,1081,141.14,1,Pune,Food,UPI,Laptop,0
+T316,1193,3496.82,10,Kolkata,Fashion,UPI,Mobile,0
+T317,1053,21559.55,11,Mumbai,Fashion,UPI,Mobile,1
+T318,1162,7743.33,17,Mumbai,Food,Net Banking,Tablet,0
+T319,1188,2947.94,12,Pune,Travel,Net Banking,Laptop,0
+T320,1168,263.02,4,Mumbai,Electronics,UPI,Laptop,0
+T321,1160,7120.28,21,Pune,Fashion,Card,Mobile,0
+T322,1067,3654.96,11,Chennai,Food,Card,Mobile,0
+T323,1032,488.37,1,Delhi,Grocery,UPI,Mobile,0
+T324,1141,394.23,4,Kolkata,Entertainment,UPI,Mobile,0
+T325,1020,9615.23,6,Nagpur,Food,UPI,Mobile,0
+T326,1047,4424.97,23,Chennai,Entertainment,Card,Mobile,0
+T327,1147,7071.08,11,Nagpur,Travel,UPI,Mobile,0
+T328,1127,8447.16,15,Hyderabad,Electronics,Card,Mobile,0
+T329,1135,3392.4,22,Chennai,Entertainment,UPI,Laptop,0
+T330,1134,2914.65,7,Bangalore,Travel,Card,Mobile,0
+T331,1194,2251.48,8,Mumbai,Entertainment,UPI,Mobile,0
+T332,1144,1524.73,14,Bangalore,Grocery,Card,Mobile,0
+T333,1127,2280.86,4,Delhi,Grocery,Card,Mobile,0
+T334,1032,5946.75,12,Nagpur,Grocery,UPI,Mobile,0
+T335,1175,3684.44,4,Kolkata,Grocery,Card,Tablet,0
+T336,1186,8921.92,10,Chennai,Food,UPI,Laptop,0
+T337,1114,2343.49,9,Kolkata,Grocery,UPI,Mobile,0
+T338,1118,3736.69,19,Delhi,Grocery,UPI,Mobile,0
+T339,1021,3991.17,12,Delhi,Food,Card,Mobile,0
+T340,1157,3582.98,8,Mumbai,Grocery,UPI,Laptop,0
+T341,1037,4851.16,20,Delhi,Travel,UPI,Mobile,0
+T342,1108,1084.26,13,Chennai,Travel,UPI,Mobile,0
+T343,1050,2872.74,17,Chennai,Fashion,UPI,Laptop,0
+T344,1181,440.26,14,Kolkata,Travel,Card,Laptop,0
+T345,1007,1941.35,9,Kolkata,Electronics,Card,Laptop,0
+T346,1026,2675.12,23,Nagpur,Electronics,Card,Laptop,0
+T347,1026,4224.79,6,Chennai,Electronics,Card,Tablet,0
+T348,1020,12025.64,7,Bangalore,Food,Card,Mobile,0
+T349,1029,3671.68,2,Nagpur,Travel,UPI,Mobile,0
+T350,1096,5443.97,14,Mumbai,Electronics,UPI,Laptop,0
+T351,1027,2823.03,15,Nagpur,Fashion,Card,Laptop,0
+T352,1110,4021.62,3,Pune,Food,Net Banking,Tablet,0
+T353,1191,294.29,20,Kolkata,Fashion,UPI,Mobile,0
+T354,1196,1174.22,5,Bangalore,Travel,Net Banking,Mobile,0
+T355,1060,1796.75,0,Kolkata,Grocery,UPI,Mobile,0
+T356,1047,2558.38,3,Pune,Fashion,UPI,Mobile,0
+T357,1146,186.89,10,Pune,Grocery,Card,Mobile,0
+T358,1003,603.4,11,Hyderabad,Food,Card,Laptop,0
+T359,1034,1296.36,4,Chennai,Fashion,Card,Mobile,0
+T360,1191,14236.0,22,Mumbai,Fashion,UPI,Laptop,0
+T361,1048,1609.96,20,Delhi,Entertainment,Card,Laptop,0
+T362,1016,2631.44,15,Pune,Food,UPI,Mobile,0
+T363,1171,873.11,12,Nagpur,Food,Card,Mobile,0
+T364,1157,3774.44,12,Delhi,Electronics,UPI,Mobile,0
+T365,1045,1317.81,16,Nagpur,Travel,Card,Laptop,0
+T366,1116,927.69,6,Kolkata,Fashion,Card,Laptop,0
+T367,1005,2907.42,7,Nagpur,Fashion,Card,Laptop,0
+T368,1098,22.08,12,Delhi,Food,Card,Tablet,0
+T369,1123,30.77,22,Delhi,Food,Card,Mobile,0
+T370,1036,989.07,15,Chennai,Travel,UPI,Tablet,0
+T371,1023,149.65,3,Nagpur,Food,Card,Laptop,1
+T372,1092,457.27,7,Mumbai,Grocery,Card,Laptop,0
+T373,1045,1655.16,15,Chennai,Grocery,UPI,Mobile,0
+T374,1180,6489.8,20,Bangalore,Entertainment,Card,Tablet,0
+T375,1094,3394.98,9,Hyderabad,Grocery,Net Banking,Mobile,0
+T376,1098,2875.24,11,Bangalore,Grocery,Net Banking,Laptop,0
+T377,1187,1389.67,11,Mumbai,Travel,Card,Mobile,0
+T378,1115,10738.53,4,Chennai,Fashion,Card,Mobile,0
+T379,1190,2023.45,15,Hyderabad,Grocery,Card,Mobile,0
+T380,1159,364.48,0,Chennai,Entertainment,UPI,Mobile,0
+T381,1160,3839.58,8,Delhi,Food,UPI,Mobile,0
+T382,1066,483.42,11,Hyderabad,Grocery,UPI,Laptop,0
+T383,1127,1693.84,4,Kolkata,Entertainment,UPI,Mobile,0
+T384,1017,2832.33,21,Nagpur,Travel,Card,Mobile,0
+T385,1024,8292.96,19,Bangalore,Food,UPI,Mobile,0
+T386,1053,2721.29,21,Hyderabad,Entertainment,UPI,Mobile,0
+T387,1057,4846.12,23,Nagpur,Grocery,UPI,Mobile,0
+T388,1066,19744.06,2,Chennai,Fashion,Net Banking,Mobile,0
+T389,1103,563.9,4,Mumbai,Food,UPI,Mobile,0
+T390,1173,1284.85,1,Hyderabad,Food,Card,Laptop,1
+T391,1023,2007.31,13,Nagpur,Fashion,Card,Mobile,0
+T392,1113,2191.54,1,Chennai,Food,UPI,Mobile,0
+T393,1031,2117.46,12,Chennai,Grocery,Card,Mobile,0
+T394,1174,9526.99,6,Chennai,Food,Net Banking,Tablet,0
+T395,1085,5007.51,9,Mumbai,Grocery,Card,Mobile,0
+T396,1150,3745.01,12,Delhi,Fashion,UPI,Mobile,0
+T397,1193,1480.62,15,Mumbai,Electronics,UPI,Mobile,0
+T398,1126,6944.32,13,Mumbai,Fashion,Card,Mobile,0
+T399,1154,12409.75,10,Kolkata,Grocery,Net Banking,Mobile,0
+T400,1129,6885.91,9,Bangalore,Travel,Net Banking,Mobile,0
+T401,1016,6.27,5,Chennai,Fashion,UPI,Mobile,0
+T402,1103,4046.82,3,Nagpur,Travel,Card,Mobile,1
+T403,1160,209.96,20,Hyderabad,Travel,Card,Mobile,0
+T404,1136,1191.51,0,Bangalore,Grocery,Card,Laptop,1
+T405,1042,245.48,6,Chennai,Grocery,Card,Tablet,0
+T406,1175,3703.3,23,Pune,Electronics,UPI,Mobile,0
+T407,1038,4640.97,8,Mumbai,Entertainment,Net Banking,Mobile,0
+T408,1169,486.36,7,Pune,Food,UPI,Tablet,0
+T409,1025,1936.99,4,Chennai,Fashion,Net Banking,Laptop,0
+T410,1098,2436.96,18,Bangalore,Grocery,UPI,Mobile,0
+T411,1049,1842.13,9,Nagpur,Fashion,UPI,Laptop,0
+T412,1152,516.0,10,Bangalore,Entertainment,Net Banking,Mobile,0
+T413,1151,2171.66,14,Kolkata,Entertainment,UPI,Mobile,0
+T414,1012,5564.07,5,Nagpur,Travel,Net Banking,Mobile,0
+T415,1059,294.62,14,Nagpur,Food,Card,Mobile,0
+T416,1134,334.31,4,Chennai,Electronics,Card,Mobile,0
+T417,1056,1752.6,18,Delhi,Fashion,Net Banking,Mobile,0
+T418,1035,11370.38,21,Chennai,Food,UPI,Laptop,0
+T419,1172,4417.39,18,Mumbai,Electronics,Net Banking,Mobile,0
+T420,1019,4541.15,9,Bangalore,Fashion,Net Banking,Mobile,0
+T421,1064,1797.17,11,Nagpur,Food,Card,Mobile,0
+T422,1007,3602.27,21,Chennai,Grocery,UPI,Mobile,0
+T423,1143,40.73,3,Chennai,Fashion,Card,Mobile,1
+T424,1141,4043.46,17,Bangalore,Food,UPI,Tablet,0
+T425,1114,9780.6,15,Bangalore,Entertainment,UPI,Mobile,0
+T426,1142,3792.92,7,Kolkata,Electronics,Card,Mobile,0
+T427,1091,8276.34,3,Nagpur,Food,UPI,Laptop,0
+T428,1097,5149.03,22,Hyderabad,Grocery,UPI,Mobile,0
+T429,1065,513.87,11,Kolkata,Fashion,Card,Laptop,0
+T430,1031,9309.7,1,Pune,Fashion,UPI,Mobile,0
+T431,1190,275.02,3,Mumbai,Fashion,UPI,Mobile,0
+T432,1085,3054.0,4,Mumbai,Grocery,Net Banking,Mobile,0
+T433,1050,613.24,2,Hyderabad,Electronics,Card,Mobile,1
+T434,1152,47.1,8,Delhi,Fashion,Card,Mobile,0
+T435,1185,2192.96,20,Kolkata,Electronics,UPI,Laptop,0
+T436,1062,1398.46,17,Hyderabad,Food,Card,Laptop,0
+T437,1189,2662.13,10,Delhi,Entertainment,Net Banking,Laptop,0
+T438,1124,3443.42,2,Delhi,Entertainment,Card,Laptop,1
+T439,1149,178.9,22,Hyderabad,Electronics,UPI,Mobile,0
+T440,1057,525.01,1,Mumbai,Electronics,UPI,Mobile,0
+T441,1057,3271.6,8,Pune,Entertainment,Card,Mobile,0
+T442,1085,1681.3,13,Mumbai,Fashion,Card,Laptop,0
+T443,1048,5225.11,3,Chennai,Travel,UPI,Mobile,0
+T444,1179,4225.56,8,Mumbai,Travel,UPI,Mobile,0
+T445,1169,7472.95,12,Mumbai,Grocery,Card,Laptop,0
+T446,1069,4717.03,17,Kolkata,Entertainment,Net Banking,Mobile,0
+T447,1014,2247.99,14,Hyderabad,Entertainment,Card,Mobile,0
+T448,1053,4470.77,9,Hyderabad,Grocery,Card,Mobile,0
+T449,1187,1288.44,15,Chennai,Travel,UPI,Mobile,0
+T450,1100,1462.94,11,Chennai,Food,Card,Laptop,0
+T451,1007,6223.31,19,Kolkata,Fashion,Net Banking,Tablet,0
+T452,1052,2365.39,4,Hyderabad,Fashion,Card,Mobile,0
+T453,1059,6405.49,1,Mumbai,Food,Card,Mobile,1
+T454,1107,6913.39,9,Pune,Food,Card,Laptop,0
+T455,1004,7795.4,0,Delhi,Travel,UPI,Mobile,0
+T456,1102,9938.12,6,Bangalore,Grocery,UPI,Mobile,0
+T457,1195,2255.4,16,Delhi,Food,UPI,Tablet,0
+T458,1005,1535.99,15,Chennai,Grocery,Card,Laptop,0
+T459,1108,3491.0,23,Chennai,Electronics,Card,Mobile,0
+T460,1115,1855.59,2,Delhi,Fashion,UPI,Mobile,0
+T461,1093,3675.92,13,Bangalore,Travel,Card,Laptop,0
+T462,1046,4891.07,9,Mumbai,Fashion,Net Banking,Laptop,0
+T463,1098,4664.2,21,Pune,Travel,Card,Laptop,0
+T464,1054,1877.15,6,Pune,Electronics,UPI,Mobile,0
+T465,1167,730.22,16,Delhi,Fashion,Card,Tablet,0
+T466,1051,2252.19,5,Bangalore,Electronics,UPI,Mobile,0
+T467,1143,615.38,22,Kolkata,Travel,Card,Laptop,0
+T468,1012,8832.63,21,Chennai,Food,Card,Mobile,0
+T469,1113,1697.84,3,Nagpur,Fashion,Card,Mobile,1
+T470,1123,671.12,16,Mumbai,Electronics,Card,Tablet,0
+T471,1105,103.11,8,Kolkata,Entertainment,Card,Mobile,0
+T472,1157,4151.83,3,Delhi,Fashion,UPI,Mobile,0
+T473,1146,4052.33,6,Pune,Fashion,UPI,Laptop,0
+T474,1144,1665.73,22,Chennai,Fashion,UPI,Mobile,0
+T475,1119,297.65,1,Kolkata,Grocery,UPI,Laptop,0
+T476,1062,2108.02,16,Kolkata,Electronics,UPI,Mobile,0
+T477,1018,1491.32,23,Hyderabad,Electronics,Card,Mobile,0
+T478,1091,4521.91,7,Hyderabad,Fashion,UPI,Tablet,0
+T479,1057,3723.38,22,Bangalore,Food,Card,Mobile,0
+T480,1182,1813.96,14,Bangalore,Fashion,UPI,Laptop,0
+T481,1089,983.05,14,Delhi,Grocery,Card,Mobile,0
+T482,1116,17703.4,7,Kolkata,Travel,Card,Laptop,1
+T483,1061,2420.56,15,Nagpur,Grocery,UPI,Mobile,0
+T484,1022,4662.53,18,Pune,Food,Card,Mobile,0
+T485,1126,605.86,10,Delhi,Fashion,Net Banking,Laptop,0
+T486,1136,2658.94,1,Nagpur,Electronics,Net Banking,Mobile,0
+T487,1139,111.69,22,Chennai,Entertainment,Card,Laptop,0
+T488,1128,2816.47,23,Bangalore,Fashion,Card,Laptop,0
+T489,1057,13298.88,16,Hyderabad,Food,UPI,Laptop,0
+T490,1121,1939.38,15,Mumbai,Electronics,UPI,Tablet,0
+T491,1000,159.11,14,Kolkata,Grocery,Card,Mobile,0
+T492,1033,125.78,12,Chennai,Travel,UPI,Mobile,0
+T493,1095,1964.01,14,Hyderabad,Travel,UPI,Mobile,0
+T494,1125,697.53,3,Pune,Fashion,Card,Mobile,1
+T495,1117,94.52,15,Pune,Grocery,Card,Mobile,0
+T496,1047,5645.85,11,Hyderabad,Entertainment,UPI,Mobile,0
+T497,1088,2453.82,3,Chennai,Entertainment,Card,Mobile,1
+T498,1116,1365.71,2,Hyderabad,Food,UPI,Mobile,0
+T499,1128,9213.67,21,Nagpur,Travel,Card,Mobile,0
+T500,1015,493.82,16,Delhi,Grocery,UPI,Laptop,0
+T501,1188,12486.89,21,Bangalore,Fashion,Net Banking,Mobile,0
+T502,1191,1507.32,17,Nagpur,Electronics,Net Banking,Mobile,0
+T503,1190,8771.47,17,Mumbai,Fashion,Card,Laptop,0
+T504,1068,3694.7,22,Hyderabad,Fashion,Card,Mobile,0
+T505,1021,7011.09,16,Mumbai,Grocery,UPI,Tablet,0
+T506,1092,16543.96,11,Mumbai,Travel,Card,Mobile,0
+T507,1194,1360.99,22,Nagpur,Grocery,Card,Mobile,0
+T508,1075,12990.69,20,Bangalore,Electronics,Net Banking,Laptop,0
+T509,1153,1973.79,23,Chennai,Grocery,Card,Laptop,0
+T510,1143,1947.86,3,Pune,Food,Card,Mobile,1
+T511,1178,1664.41,11,Delhi,Fashion,Card,Laptop,0
+T512,1085,3118.37,22,Kolkata,Travel,UPI,Mobile,0
+T513,1184,669.63,21,Pune,Entertainment,UPI,Mobile,0
+T514,1028,3227.16,20,Bangalore,Electronics,Card,Mobile,0
+T515,1068,3120.97,19,Kolkata,Entertainment,Card,Mobile,0
+T516,1046,5740.29,14,Pune,Fashion,Card,Mobile,0
+T517,1093,7174.64,22,Hyderabad,Grocery,UPI,Tablet,0
+T518,1189,2322.43,15,Hyderabad,Entertainment,Card,Mobile,0
+T519,1196,1440.05,4,Nagpur,Food,Net Banking,Mobile,0
+T520,1143,1200.83,20,Mumbai,Grocery,Card,Mobile,0
+T521,1175,865.78,14,Kolkata,Fashion,Net Banking,Laptop,0
+T522,1084,237.5,16,Bangalore,Entertainment,Card,Tablet,0
+T523,1038,1676.93,17,Bangalore,Electronics,UPI,Laptop,0
+T524,1099,1260.2,4,Pune,Entertainment,Card,Tablet,0
+T525,1032,13574.99,12,Nagpur,Entertainment,Card,Laptop,0
+T526,1100,3263.15,18,Pune,Travel,Net Banking,Tablet,0
+T527,1022,1706.41,12,Pune,Entertainment,Net Banking,Laptop,0
+T528,1009,3474.46,17,Bangalore,Fashion,Card,Mobile,0
+T529,1068,599.56,13,Pune,Electronics,UPI,Mobile,0
+T530,1099,2348.26,3,Mumbai,Fashion,UPI,Mobile,0
+T531,1033,3936.5,3,Pune,Food,Net Banking,Mobile,0
+T532,1179,2684.74,19,Kolkata,Grocery,Card,Mobile,0
+T533,1137,2055.18,19,Mumbai,Entertainment,UPI,Mobile,0
+T534,1146,20364.17,18,Bangalore,Travel,UPI,Tablet,1
+T535,1185,8491.56,12,Nagpur,Electronics,Card,Mobile,0
+T536,1095,3906.35,11,Hyderabad,Travel,Net Banking,Laptop,0
+T537,1000,3370.09,6,Kolkata,Travel,Card,Laptop,0
+T538,1068,3877.29,11,Mumbai,Travel,Card,Tablet,0
+T539,1003,899.14,20,Nagpur,Entertainment,UPI,Tablet,0
+T540,1015,2011.02,3,Nagpur,Electronics,UPI,Laptop,0
+T541,1023,161.04,1,Mumbai,Electronics,Card,Mobile,1
+T542,1079,2581.59,1,Bangalore,Travel,Card,Mobile,1
+T543,1001,3132.5,4,Delhi,Grocery,Net Banking,Mobile,0
+T544,1127,1033.79,22,Nagpur,Entertainment,Card,Laptop,0
+T545,1159,13300.15,9,Nagpur,Entertainment,UPI,Laptop,0
+T546,1083,9607.62,9,Bangalore,Fashion,UPI,Laptop,0
+T547,1151,5122.6,8,Bangalore,Entertainment,Card,Mobile,0
+T548,1139,3049.02,12,Pune,Travel,Net Banking,Mobile,0
+T549,1177,8159.93,6,Bangalore,Food,UPI,Mobile,0
+T550,1162,560.05,4,Nagpur,Travel,UPI,Mobile,0
+T551,1123,6252.31,9,Mumbai,Electronics,UPI,Mobile,0
+T552,1032,533.31,9,Delhi,Entertainment,UPI,Mobile,0
+T553,1160,6323.61,5,Chennai,Entertainment,UPI,Laptop,0
+T554,1188,1290.57,18,Pune,Fashion,Net Banking,Mobile,0
+T555,1178,8385.23,20,Chennai,Food,Card,Mobile,0
+T556,1170,11532.62,7,Mumbai,Entertainment,Card,Tablet,0
+T557,1100,644.41,0,Delhi,Fashion,Card,Mobile,1
+T558,1011,2484.61,16,Delhi,Fashion,Card,Mobile,0
+T559,1066,15850.61,6,Delhi,Food,Card,Mobile,0
+T560,1064,2642.0,13,Hyderabad,Travel,Net Banking,Mobile,0
+T561,1160,7967.12,20,Mumbai,Travel,UPI,Mobile,0
+T562,1167,3554.04,20,Kolkata,Travel,UPI,Mobile,0
+T563,1073,1882.13,16,Pune,Grocery,UPI,Mobile,0
+T564,1042,1346.28,8,Pune,Travel,UPI,Mobile,0
+T565,1043,908.72,16,Delhi,Food,UPI,Mobile,0
+T566,1028,5738.55,4,Mumbai,Grocery,Net Banking,Laptop,0
+T567,1140,1954.56,19,Hyderabad,Travel,Card,Mobile,0
+T568,1011,2863.83,7,Delhi,Grocery,Net Banking,Tablet,0
+T569,1094,2711.66,5,Bangalore,Food,UPI,Mobile,0
+T570,1045,3444.17,10,Kolkata,Travel,Card,Mobile,0
+T571,1129,8027.06,18,Chennai,Electronics,UPI,Laptop,0
+T572,1034,15798.76,3,Pune,Entertainment,UPI,Mobile,0
+T573,1080,2094.19,17,Chennai,Food,Card,Mobile,0
+T574,1089,7029.87,0,Nagpur,Fashion,UPI,Laptop,0
+T575,1007,5784.65,12,Delhi,Fashion,Card,Mobile,0
+T576,1092,3408.84,13,Bangalore,Food,Card,Laptop,0
+T577,1153,12498.55,23,Pune,Fashion,Net Banking,Tablet,0
+T578,1089,894.95,0,Chennai,Food,UPI,Mobile,0
+T579,1161,462.83,10,Kolkata,Electronics,Net Banking,Mobile,0
+T580,1114,7695.55,16,Hyderabad,Food,UPI,Mobile,0
+T581,1104,2313.21,3,Mumbai,Travel,Card,Tablet,1
+T582,1134,7508.46,11,Pune,Travel,UPI,Laptop,0
+T583,1195,8943.08,9,Kolkata,Grocery,UPI,Tablet,0
+T584,1057,257.97,5,Chennai,Fashion,Net Banking,Mobile,0
+T585,1113,8598.25,0,Mumbai,Entertainment,Card,Laptop,1
+T586,1074,2379.14,6,Chennai,Fashion,Net Banking,Mobile,0
+T587,1156,2856.93,20,Mumbai,Food,Net Banking,Mobile,0
+T588,1119,3940.34,15,Hyderabad,Entertainment,UPI,Tablet,0
+T589,1163,10435.5,23,Hyderabad,Entertainment,Net Banking,Mobile,0
+T590,1020,77.2,13,Delhi,Fashion,Card,Tablet,0
+T591,1163,2591.5,22,Delhi,Entertainment,Net Banking,Mobile,0
+T592,1137,4655.45,19,Pune,Entertainment,UPI,Laptop,0
+T593,1100,5130.72,19,Hyderabad,Travel,Card,Mobile,0
+T594,1151,4717.54,5,Bangalore,Electronics,Net Banking,Mobile,0
+T595,1191,577.49,21,Chennai,Food,UPI,Mobile,0
+T596,1176,1423.25,4,Chennai,Fashion,UPI,Mobile,0
+T597,1098,1777.13,23,Chennai,Travel,UPI,Mobile,0
+T598,1035,6527.5,20,Pune,Grocery,Card,Laptop,0
+T599,1095,1307.13,17,Chennai,Entertainment,UPI,Mobile,0
+T600,1151,946.46,14,Nagpur,Entertainment,UPI,Mobile,0
+T601,1150,12628.12,5,Mumbai,Fashion,Card,Mobile,0
+T602,1189,35.61,18,Chennai,Electronics,Card,Mobile,0
+T603,1036,24515.29,0,Kolkata,Electronics,Card,Laptop,1
+T604,1011,4518.2,0,Mumbai,Fashion,Card,Laptop,1
+T605,1112,7051.97,12,Delhi,Fashion,UPI,Mobile,0
+T606,1182,1396.07,2,Chennai,Travel,UPI,Mobile,0
+T607,1012,57.67,9,Kolkata,Fashion,Net Banking,Laptop,0
+T608,1022,5355.65,20,Bangalore,Grocery,UPI,Mobile,0
+T609,1098,7186.56,2,Kolkata,Travel,Card,Mobile,1
+T610,1104,5395.63,8,Hyderabad,Entertainment,Net Banking,Mobile,0
+T611,1029,616.57,7,Hyderabad,Entertainment,UPI,Mobile,0
+T612,1016,5600.4,2,Delhi,Entertainment,UPI,Mobile,0
+T613,1112,5860.01,12,Nagpur,Entertainment,UPI,Mobile,0
+T614,1061,4298.1,5,Pune,Food,Net Banking,Mobile,0
+T615,1083,5811.72,12,Pune,Grocery,UPI,Mobile,0
+T616,1111,7481.17,22,Bangalore,Travel,Card,Mobile,0
+T617,1085,3803.57,19,Delhi,Travel,UPI,Mobile,0
+T618,1140,371.11,19,Delhi,Entertainment,Card,Mobile,0
+T619,1186,2674.82,11,Nagpur,Electronics,Card,Mobile,0
+T620,1018,323.32,12,Chennai,Travel,Card,Tablet,0
+T621,1176,2093.91,1,Pune,Grocery,Card,Mobile,1
+T622,1099,2090.96,20,Chennai,Fashion,Card,Laptop,0
+T623,1139,273.16,23,Delhi,Grocery,Card,Mobile,0
+T624,1188,1715.88,22,Chennai,Entertainment,UPI,Laptop,0
+T625,1146,470.62,15,Hyderabad,Entertainment,UPI,Mobile,0
+T626,1075,6605.94,22,Bangalore,Food,Net Banking,Mobile,0
+T627,1008,11802.12,5,Pune,Travel,Card,Laptop,0
+T628,1198,300.26,18,Nagpur,Travel,UPI,Mobile,0
+T629,1027,12414.62,20,Bangalore,Travel,Net Banking,Laptop,0
+T630,1127,2957.41,12,Mumbai,Entertainment,Card,Mobile,0
+T631,1051,1424.22,16,Hyderabad,Travel,UPI,Tablet,0
+T632,1082,319.91,22,Nagpur,Electronics,UPI,Laptop,0
+T633,1110,2777.59,8,Kolkata,Electronics,Card,Tablet,0
+T634,1143,6329.54,16,Bangalore,Fashion,Net Banking,Mobile,0
+T635,1116,4911.51,1,Delhi,Travel,UPI,Mobile,0
+T636,1068,206.12,18,Mumbai,Food,Card,Laptop,0
+T637,1098,302.78,18,Nagpur,Fashion,Card,Laptop,0
+T638,1139,2062.5,23,Delhi,Entertainment,Card,Tablet,0
+T639,1024,1399.88,6,Hyderabad,Travel,Card,Mobile,0
+T640,1179,1057.86,21,Kolkata,Electronics,UPI,Laptop,0
+T641,1122,1319.6,9,Mumbai,Food,UPI,Mobile,0
+T642,1052,6508.02,9,Pune,Fashion,Card,Mobile,0
+T643,1150,10593.17,19,Kolkata,Food,Net Banking,Mobile,0
+T644,1143,2077.47,8,Delhi,Travel,Card,Mobile,0
+T645,1056,9462.57,16,Bangalore,Grocery,Card,Tablet,0
+T646,1038,1551.46,14,Chennai,Food,Card,Mobile,0
+T647,1108,2588.39,1,Nagpur,Food,UPI,Mobile,0
+T648,1180,1024.88,3,Mumbai,Entertainment,Card,Mobile,1
+T649,1041,4091.9,18,Delhi,Electronics,Card,Mobile,0
+T650,1185,15449.34,16,Pune,Travel,Card,Mobile,0
+T651,1166,3700.25,4,Chennai,Food,UPI,Mobile,0
+T652,1141,1771.51,6,Nagpur,Travel,Net Banking,Mobile,0
+T653,1121,4174.42,17,Nagpur,Electronics,Card,Laptop,0
+T654,1132,524.63,20,Delhi,Entertainment,Card,Tablet,0
+T655,1162,8780.63,21,Pune,Travel,UPI,Mobile,0
+T656,1074,2797.34,6,Hyderabad,Electronics,UPI,Mobile,0
+T657,1145,2386.62,16,Chennai,Electronics,Card,Mobile,0
+T658,1075,3526.25,6,Hyderabad,Fashion,Net Banking,Laptop,0
+T659,1008,3921.01,3,Mumbai,Entertainment,UPI,Mobile,0
+T660,1073,297.93,7,Delhi,Entertainment,UPI,Mobile,0
+T661,1185,4590.59,12,Chennai,Travel,UPI,Mobile,0
+T662,1144,1107.93,3,Mumbai,Grocery,Net Banking,Tablet,0
+T663,1006,5006.39,5,Kolkata,Fashion,UPI,Mobile,0
+T664,1173,6915.92,4,Hyderabad,Entertainment,Card,Mobile,0
+T665,1140,6517.72,11,Kolkata,Electronics,Card,Tablet,0
+T666,1167,3216.32,3,Kolkata,Entertainment,UPI,Laptop,0
+T667,1169,2937.29,23,Chennai,Grocery,Card,Laptop,0
+T668,1136,616.69,8,Nagpur,Food,UPI,Mobile,0
+T669,1177,5972.78,3,Mumbai,Food,UPI,Tablet,0
+T670,1026,1266.57,18,Kolkata,Entertainment,UPI,Laptop,0
+T671,1121,2746.24,23,Pune,Entertainment,Net Banking,Laptop,0
+T672,1193,1337.83,13,Bangalore,Fashion,Card,Laptop,0
+T673,1004,574.69,4,Hyderabad,Entertainment,Net Banking,Laptop,0
+T674,1028,3972.23,17,Hyderabad,Grocery,UPI,Mobile,0
+T675,1164,223.46,9,Pune,Entertainment,Card,Mobile,0
+T676,1165,5523.56,18,Chennai,Travel,UPI,Laptop,0
+T677,1082,1528.48,11,Chennai,Grocery,Card,Mobile,0
+T678,1135,0.54,17,Chennai,Fashion,UPI,Mobile,0
+T679,1108,2862.63,16,Mumbai,Travel,UPI,Mobile,0
+T680,1064,191.94,23,Delhi,Travel,Card,Laptop,0
+T681,1085,1292.79,10,Kolkata,Food,UPI,Mobile,0
+T682,1144,4910.01,2,Nagpur,Grocery,UPI,Laptop,0
+T683,1070,258.96,22,Bangalore,Travel,Card,Mobile,0
+T684,1044,7313.82,16,Delhi,Fashion,Card,Mobile,0
+T685,1131,15.31,0,Delhi,Food,Card,Mobile,1
+T686,1035,1133.82,14,Pune,Travel,UPI,Mobile,0
+T687,1069,5402.23,8,Mumbai,Grocery,Net Banking,Mobile,0
+T688,1158,1520.77,14,Hyderabad,Food,Net Banking,Mobile,0
+T689,1018,429.86,23,Hyderabad,Grocery,UPI,Mobile,0
+T690,1188,1786.61,2,Pune,Grocery,UPI,Tablet,0
+T691,1107,1261.0,21,Mumbai,Grocery,Card,Mobile,0
+T692,1181,7398.7,18,Pune,Food,UPI,Laptop,0
+T693,1166,1503.71,12,Hyderabad,Travel,Card,Mobile,0
+T694,1090,6222.31,11,Delhi,Entertainment,Card,Mobile,0
+T695,1089,8897.76,19,Nagpur,Electronics,UPI,Mobile,0
+T696,1018,2275.35,0,Kolkata,Travel,Card,Laptop,1
+T697,1038,9629.26,20,Chennai,Food,UPI,Laptop,0
+T698,1125,1894.88,16,Mumbai,Electronics,UPI,Laptop,0
+T699,1194,13305.67,12,Kolkata,Electronics,Card,Mobile,0
+T700,1172,374.12,0,Bangalore,Electronics,Card,Laptop,1
+T701,1140,4646.45,9,Bangalore,Entertainment,Net Banking,Mobile,0
+T702,1125,2723.4,14,Delhi,Fashion,UPI,Mobile,0
+T703,1057,1961.8,6,Pune,Food,Card,Mobile,0
+T704,1147,4006.43,21,Pune,Entertainment,Card,Mobile,0
+T705,1199,4867.65,17,Hyderabad,Entertainment,UPI,Mobile,0
+T706,1060,17.49,15,Delhi,Fashion,UPI,Laptop,0
+T707,1126,730.66,13,Hyderabad,Electronics,Card,Mobile,0
+T708,1104,4993.73,17,Hyderabad,Fashion,Card,Mobile,0
+T709,1166,4391.08,6,Bangalore,Fashion,Net Banking,Mobile,0
+T710,1000,13531.17,16,Hyderabad,Entertainment,UPI,Laptop,0
+T711,1130,5725.8,17,Kolkata,Food,Net Banking,Mobile,0
+T712,1091,12045.23,11,Chennai,Grocery,UPI,Mobile,0
+T713,1189,4849.91,7,Hyderabad,Fashion,Net Banking,Laptop,0
+T714,1190,1415.58,21,Bangalore,Fashion,Card,Mobile,0
+T715,1112,445.36,1,Chennai,Electronics,UPI,Mobile,0
+T716,1152,6089.81,6,Pune,Electronics,Card,Mobile,0
+T717,1055,4132.98,3,Mumbai,Entertainment,UPI,Mobile,0
+T718,1160,197.54,17,Nagpur,Electronics,UPI,Laptop,0
+T719,1165,1785.46,5,Hyderabad,Travel,Card,Mobile,0
+T720,1116,12567.64,8,Kolkata,Fashion,Net Banking,Mobile,0
+T721,1133,2775.8,8,Chennai,Electronics,Net Banking,Mobile,0
+T722,1057,2267.67,13,Mumbai,Food,Card,Mobile,0
+T723,1043,2447.74,7,Bangalore,Travel,UPI,Laptop,0
+T724,1172,937.24,18,Mumbai,Entertainment,Card,Mobile,0
+T725,1159,1839.94,2,Nagpur,Grocery,Card,Mobile,1
+T726,1172,1846.96,17,Kolkata,Fashion,UPI,Laptop,0
+T727,1060,215.1,4,Mumbai,Fashion,Card,Laptop,0
+T728,1046,5836.62,13,Kolkata,Food,Net Banking,Laptop,0
+T729,1148,2154.87,3,Chennai,Grocery,Card,Mobile,1
+T730,1079,6907.93,6,Mumbai,Grocery,UPI,Laptop,0
+T731,1117,7597.77,19,Kolkata,Entertainment,UPI,Mobile,0
+T732,1163,953.0,11,Mumbai,Entertainment,Card,Mobile,0
+T733,1146,4284.22,1,Mumbai,Travel,Card,Mobile,1
+T734,1019,2556.77,10,Delhi,Fashion,UPI,Laptop,0
+T735,1184,8486.28,13,Hyderabad,Electronics,UPI,Mobile,0
+T736,1145,972.06,21,Bangalore,Entertainment,Card,Mobile,0
+T737,1046,4530.5,22,Nagpur,Food,UPI,Mobile,0
+T738,1048,3743.45,15,Bangalore,Food,Card,Mobile,0
+T739,1013,1399.94,19,Delhi,Food,Card,Laptop,0
+T740,1142,587.51,5,Delhi,Entertainment,UPI,Mobile,0
+T741,1158,4218.07,22,Chennai,Entertainment,Card,Mobile,0
+T742,1000,5366.78,3,Delhi,Food,UPI,Laptop,0
+T743,1116,1517.01,14,Hyderabad,Entertainment,UPI,Mobile,0
+T744,1053,4140.66,23,Delhi,Electronics,Net Banking,Laptop,0
+T745,1117,2010.97,0,Mumbai,Electronics,UPI,Laptop,0
+T746,1002,4995.98,6,Bangalore,Travel,Net Banking,Tablet,0
+T747,1143,888.65,11,Pune,Fashion,UPI,Laptop,0
+T748,1184,8836.93,9,Nagpur,Electronics,UPI,Mobile,0
+T749,1011,1355.39,4,Delhi,Travel,Net Banking,Mobile,0
+T750,1073,1834.11,11,Bangalore,Grocery,UPI,Mobile,0
+T751,1015,239.39,17,Chennai,Fashion,Card,Mobile,0
+T752,1199,472.94,9,Delhi,Electronics,UPI,Mobile,0
+T753,1101,2901.54,5,Hyderabad,Grocery,Net Banking,Mobile,0
+T754,1151,1245.67,11,Delhi,Travel,UPI,Laptop,0
+T755,1155,7218.9,6,Delhi,Electronics,UPI,Mobile,0
+T756,1116,59.21,17,Kolkata,Electronics,UPI,Mobile,0
+T757,1007,1906.3,1,Kolkata,Entertainment,Net Banking,Mobile,0
+T758,1121,1646.01,9,Delhi,Grocery,Card,Mobile,0
+T759,1091,78.07,14,Chennai,Electronics,UPI,Tablet,0
+T760,1163,531.24,11,Kolkata,Food,Card,Mobile,0
+T761,1089,2135.3,16,Delhi,Entertainment,UPI,Mobile,0
+T762,1135,2715.91,3,Nagpur,Entertainment,UPI,Mobile,0
+T763,1185,2072.0,6,Bangalore,Electronics,Card,Mobile,0
+T764,1059,3028.08,8,Kolkata,Entertainment,Card,Mobile,0
+T765,1177,3616.77,18,Kolkata,Fashion,UPI,Laptop,0
+T766,1027,39.89,22,Hyderabad,Grocery,Card,Mobile,0
+T767,1100,2495.19,6,Delhi,Fashion,Card,Mobile,0
+T768,1040,13241.69,22,Delhi,Travel,UPI,Mobile,0
+T769,1191,2927.82,1,Delhi,Fashion,Card,Laptop,1
+T770,1154,4527.13,5,Delhi,Food,UPI,Laptop,0
+T771,1190,1495.07,17,Kolkata,Entertainment,Net Banking,Mobile,0
+T772,1144,5948.73,5,Mumbai,Entertainment,Card,Mobile,0
+T773,1160,5929.84,12,Mumbai,Food,Card,Laptop,0
+T774,1156,2946.69,18,Pune,Entertainment,UPI,Laptop,0
+T775,1140,14921.11,1,Delhi,Fashion,UPI,Laptop,0
+T776,1045,536.64,11,Pune,Travel,Net Banking,Laptop,0
+T777,1034,68.37,14,Nagpur,Electronics,Net Banking,Mobile,0
+T778,1133,5881.46,13,Pune,Food,UPI,Mobile,0
+T779,1081,6583.49,5,Bangalore,Fashion,Card,Laptop,0
+T780,1114,512.28,17,Mumbai,Fashion,Card,Tablet,0
+T781,1196,1234.71,4,Mumbai,Fashion,Card,Mobile,0
+T782,1046,70.83,17,Delhi,Electronics,Card,Mobile,0
+T783,1152,1388.64,2,Kolkata,Grocery,UPI,Tablet,0
+T784,1193,5933.72,2,Delhi,Entertainment,UPI,Mobile,0
+T785,1009,2918.92,21,Nagpur,Entertainment,Card,Laptop,0
+T786,1055,1711.43,21,Hyderabad,Travel,UPI,Mobile,0
+T787,1029,1859.2,9,Nagpur,Grocery,Card,Mobile,0
+T788,1108,5.42,18,Bangalore,Entertainment,Card,Mobile,0
+T789,1004,1425.56,2,Delhi,Travel,UPI,Mobile,0
+T790,1118,4159.02,11,Delhi,Travel,Card,Mobile,0
+T791,1032,14628.66,15,Nagpur,Fashion,Card,Mobile,0
+T792,1117,7510.86,16,Nagpur,Food,Card,Laptop,0
+T793,1064,95.51,6,Nagpur,Fashion,Card,Tablet,0
+T794,1145,9153.17,12,Mumbai,Electronics,UPI,Mobile,0
+T795,1176,6115.09,23,Pune,Entertainment,Net Banking,Mobile,0
+T796,1010,6063.36,1,Pune,Travel,Card,Mobile,1
+T797,1084,2449.93,3,Delhi,Food,Card,Mobile,1
+T798,1025,2030.03,9,Mumbai,Entertainment,UPI,Mobile,0
+T799,1062,1443.4,6,Nagpur,Travel,Net Banking,Mobile,0
+T800,1085,271.81,23,Delhi,Travel,Card,Mobile,0
+T801,1058,1036.3,16,Mumbai,Fashion,Card,Mobile,0
+T802,1026,1132.66,19,Bangalore,Food,UPI,Mobile,0
+T803,1176,2647.19,5,Hyderabad,Food,UPI,Laptop,0
+T804,1160,5504.5,18,Mumbai,Entertainment,Card,Mobile,0
+T805,1097,2568.37,4,Chennai,Travel,UPI,Laptop,0
+T806,1104,238.34,9,Delhi,Food,Card,Tablet,0
+T807,1098,12660.37,8,Kolkata,Food,UPI,Tablet,0
+T808,1128,11439.52,12,Pune,Entertainment,UPI,Tablet,0
+T809,1148,6152.0,18,Chennai,Fashion,Net Banking,Mobile,0
+T810,1054,18990.58,20,Nagpur,Grocery,UPI,Mobile,0
+T811,1005,3145.28,23,Hyderabad,Electronics,Card,Mobile,0
+T812,1196,13162.38,5,Kolkata,Grocery,Card,Laptop,0
+T813,1094,314.46,3,Bangalore,Food,Net Banking,Laptop,0
+T814,1132,1820.81,23,Kolkata,Travel,Card,Laptop,0
+T815,1101,1021.54,2,Hyderabad,Electronics,Card,Mobile,1
+T816,1002,871.79,2,Kolkata,Electronics,Card,Laptop,1
+T817,1180,607.03,3,Hyderabad,Travel,UPI,Mobile,0
+T818,1022,3895.82,4,Mumbai,Electronics,UPI,Mobile,0
+T819,1052,6080.62,7,Delhi,Travel,Card,Laptop,0
+T820,1164,3453.83,15,Kolkata,Electronics,Card,Mobile,0
+T821,1082,635.81,21,Kolkata,Entertainment,Net Banking,Tablet,0
+T822,1144,6666.65,2,Delhi,Entertainment,UPI,Mobile,0
+T823,1084,4041.91,23,Hyderabad,Grocery,UPI,Laptop,0
+T824,1077,1965.18,11,Nagpur,Electronics,Net Banking,Mobile,0
+T825,1109,4485.03,7,Delhi,Fashion,Net Banking,Laptop,0
+T826,1000,1203.91,12,Hyderabad,Travel,Card,Laptop,0
+T827,1050,1693.65,3,Delhi,Electronics,Net Banking,Tablet,0
+T828,1172,9979.14,13,Nagpur,Entertainment,Card,Mobile,0
+T829,1003,1372.8,13,Bangalore,Entertainment,Card,Tablet,0
+T830,1189,2539.42,12,Chennai,Travel,Net Banking,Mobile,0
+T831,1192,8834.24,5,Hyderabad,Fashion,Card,Mobile,0
+T832,1112,4920.19,16,Pune,Electronics,Card,Mobile,0
+T833,1031,256.89,3,Pune,Electronics,Card,Laptop,1
+T834,1033,637.4,7,Hyderabad,Fashion,UPI,Mobile,0
+T835,1091,31.49,16,Mumbai,Fashion,Card,Laptop,0
+T836,1094,3986.99,2,Bangalore,Fashion,UPI,Laptop,0
+T837,1071,2374.46,16,Mumbai,Entertainment,Net Banking,Mobile,0
+T838,1038,576.75,8,Chennai,Travel,UPI,Tablet,0
+T839,1153,12674.07,1,Pune,Fashion,Card,Mobile,1
+T840,1161,3017.2,12,Nagpur,Travel,Net Banking,Laptop,0
+T841,1181,1107.72,19,Hyderabad,Grocery,Card,Mobile,0
+T842,1117,2777.42,1,Chennai,Electronics,Card,Mobile,1
+T843,1002,4552.99,19,Kolkata,Electronics,Card,Mobile,0
+T844,1122,317.21,10,Kolkata,Food,UPI,Mobile,0
+T845,1049,1284.7,21,Delhi,Grocery,Card,Mobile,0
+T846,1011,6579.55,14,Pune,Fashion,Card,Mobile,0
+T847,1192,2462.26,10,Bangalore,Fashion,Card,Mobile,0
+T848,1053,3163.72,22,Pune,Entertainment,Card,Mobile,0
+T849,1132,2268.29,2,Bangalore,Grocery,UPI,Mobile,0
+T850,1056,179.57,2,Bangalore,Fashion,UPI,Laptop,0
+T851,1144,724.89,11,Hyderabad,Food,UPI,Mobile,0
+T852,1111,2359.05,23,Bangalore,Travel,Card,Laptop,0
+T853,1046,938.77,4,Mumbai,Electronics,Card,Mobile,0
+T854,1150,205.08,19,Kolkata,Grocery,Net Banking,Laptop,0
+T855,1084,7422.62,6,Chennai,Electronics,Card,Laptop,0
+T856,1141,15894.0,6,Nagpur,Travel,Net Banking,Mobile,0
+T857,1065,6302.91,12,Pune,Grocery,Card,Laptop,0
+T858,1074,7690.71,8,Nagpur,Travel,Net Banking,Mobile,0
+T859,1178,1108.17,20,Chennai,Fashion,Card,Laptop,0
+T860,1102,12938.7,12,Delhi,Fashion,Card,Laptop,0
+T861,1165,877.23,11,Chennai,Fashion,UPI,Mobile,0
+T862,1191,12098.98,12,Pune,Travel,UPI,Laptop,0
+T863,1037,21051.26,23,Kolkata,Travel,Card,Mobile,1
+T864,1049,4975.33,9,Nagpur,Travel,UPI,Mobile,0
+T865,1097,15883.64,0,Nagpur,Electronics,UPI,Mobile,0
+T866,1081,3371.6,7,Hyderabad,Travel,Card,Laptop,0
+T867,1029,1201.94,21,Hyderabad,Fashion,Card,Laptop,0
+T868,1078,2297.87,15,Chennai,Food,UPI,Laptop,0
+T869,1090,3601.29,12,Chennai,Travel,Card,Mobile,0
+T870,1178,303.56,2,Delhi,Food,UPI,Mobile,0
+T871,1190,3895.08,2,Bangalore,Fashion,Card,Laptop,1
+T872,1051,15890.88,23,Pune,Travel,Card,Mobile,0
+T873,1165,843.42,4,Hyderabad,Electronics,Card,Mobile,0
+T874,1078,6292.33,10,Pune,Electronics,UPI,Mobile,0
+T875,1029,9539.47,6,Delhi,Food,Card,Mobile,0
+T876,1105,11508.36,20,Hyderabad,Entertainment,Card,Mobile,0
+T877,1050,12889.09,23,Hyderabad,Electronics,Card,Laptop,0
+T878,1080,2948.06,9,Bangalore,Electronics,Net Banking,Mobile,0
+T879,1132,15142.96,9,Pune,Electronics,Card,Mobile,0
+T880,1028,5663.88,19,Kolkata,Fashion,UPI,Mobile,0
+T881,1131,705.38,1,Pune,Electronics,Card,Mobile,1
+T882,1137,2591.93,2,Pune,Grocery,Card,Mobile,1
+T883,1183,5068.09,7,Bangalore,Travel,UPI,Mobile,0
+T884,1144,1136.57,10,Hyderabad,Electronics,UPI,Laptop,0
+T885,1073,4093.45,12,Delhi,Entertainment,Net Banking,Mobile,0
+T886,1016,4393.65,6,Pune,Entertainment,Net Banking,Laptop,0
+T887,1083,710.29,12,Nagpur,Electronics,UPI,Laptop,0
+T888,1068,3330.42,1,Kolkata,Electronics,UPI,Mobile,0
+T889,1033,5907.1,5,Kolkata,Grocery,UPI,Mobile,0
+T890,1005,2763.76,8,Bangalore,Electronics,Card,Laptop,0
+T891,1052,48.71,19,Mumbai,Electronics,Net Banking,Mobile,0
+T892,1193,36.32,1,Delhi,Travel,UPI,Mobile,0
+T893,1125,1766.62,17,Nagpur,Entertainment,UPI,Mobile,0
+T894,1042,10425.26,15,Pune,Grocery,Card,Mobile,0
+T895,1114,1038.59,11,Mumbai,Entertainment,Card,Mobile,0
+T896,1110,4024.46,6,Delhi,Grocery,Net Banking,Tablet,0
+T897,1150,1004.51,6,Bangalore,Entertainment,Card,Laptop,0
+T898,1182,1552.49,16,Mumbai,Electronics,Card,Mobile,0
+T899,1079,7536.61,12,Hyderabad,Entertainment,Card,Mobile,0
+T900,1094,5220.5,10,Chennai,Entertainment,UPI,Mobile,0
+T901,1117,401.05,5,Mumbai,Grocery,Card,Mobile,0
+T902,1143,2239.38,22,Chennai,Food,UPI,Mobile,0
+T903,1007,118.41,13,Kolkata,Grocery,Card,Mobile,0
+T904,1131,2622.56,5,Nagpur,Grocery,Net Banking,Mobile,0
+T905,1103,4343.98,5,Delhi,Grocery,UPI,Mobile,0
+T906,1131,504.53,1,Nagpur,Fashion,Card,Mobile,1
+T907,1183,1363.68,21,Nagpur,Fashion,UPI,Tablet,0
+T908,1024,2028.91,19,Pune,Fashion,Card,Mobile,0
+T909,1194,10079.53,14,Bangalore,Grocery,Card,Tablet,0
+T910,1095,19995.82,16,Mumbai,Food,Net Banking,Mobile,0
+T911,1194,183.8,7,Delhi,Grocery,Card,Mobile,0
+T912,1154,5725.3,4,Kolkata,Electronics,Card,Mobile,0
+T913,1092,1859.1,16,Hyderabad,Food,Card,Mobile,0
+T914,1159,1993.34,19,Bangalore,Fashion,Card,Mobile,0
+T915,1177,5614.01,0,Bangalore,Entertainment,Net Banking,Tablet,0
+T916,1060,10025.0,21,Delhi,Entertainment,Card,Tablet,0
+T917,1121,12057.92,17,Bangalore,Travel,Net Banking,Mobile,0
+T918,1050,3442.69,14,Pune,Food,Net Banking,Mobile,0
+T919,1146,1767.2,4,Bangalore,Fashion,Card,Mobile,0
+T920,1020,6196.18,6,Kolkata,Food,Card,Mobile,0
+T921,1004,1156.07,17,Kolkata,Food,Net Banking,Mobile,0
+T922,1091,3321.13,5,Pune,Entertainment,Card,Mobile,0
+T923,1169,1776.27,21,Mumbai,Grocery,Card,Mobile,0
+T924,1060,4275.8,20,Mumbai,Electronics,Card,Mobile,0
+T925,1021,1099.85,4,Nagpur,Travel,UPI,Mobile,0
+T926,1148,850.76,18,Kolkata,Fashion,UPI,Mobile,0
+T927,1069,10015.82,9,Pune,Food,Card,Mobile,0
+T928,1000,429.47,14,Hyderabad,Travel,Card,Tablet,0
+T929,1132,2820.54,9,Mumbai,Food,Net Banking,Mobile,0
+T930,1011,998.22,15,Bangalore,Entertainment,UPI,Laptop,0
+T931,1089,158.83,11,Delhi,Electronics,UPI,Laptop,0
+T932,1045,146.73,17,Delhi,Entertainment,UPI,Tablet,0
+T933,1033,770.56,22,Chennai,Travel,Card,Laptop,0
+T934,1176,8062.72,0,Kolkata,Fashion,UPI,Laptop,0
+T935,1077,1327.81,15,Pune,Food,Card,Laptop,0
+T936,1044,12019.83,21,Hyderabad,Electronics,Card,Mobile,0
+T937,1154,3485.48,5,Nagpur,Entertainment,UPI,Mobile,0
+T938,1072,2295.16,2,Bangalore,Travel,Card,Tablet,1
+T939,1025,3470.85,1,Pune,Entertainment,Net Banking,Laptop,0
+T940,1046,2908.46,1,Chennai,Food,Card,Tablet,1
+T941,1120,5688.12,12,Delhi,Food,Net Banking,Laptop,0
+T942,1055,1327.91,8,Pune,Fashion,Net Banking,Laptop,0
+T943,1093,1741.95,15,Bangalore,Electronics,Card,Laptop,0
+T944,1106,8980.82,4,Hyderabad,Grocery,UPI,Laptop,0
+T945,1062,11709.04,22,Kolkata,Entertainment,Card,Mobile,0
+T946,1047,8923.22,20,Hyderabad,Food,Net Banking,Tablet,0
+T947,1060,2175.1,6,Mumbai,Travel,UPI,Laptop,0
+T948,1080,6063.16,12,Bangalore,Entertainment,UPI,Laptop,0
+T949,1025,2587.62,19,Chennai,Fashion,UPI,Laptop,0
+T950,1035,2752.96,23,Mumbai,Fashion,Card,Mobile,0
+T951,1000,916.04,12,Mumbai,Food,Card,Mobile,0
+T952,1007,3577.44,6,Mumbai,Food,Card,Tablet,0
+T953,1112,823.85,9,Pune,Food,UPI,Mobile,0
+T954,1098,1611.26,14,Chennai,Grocery,UPI,Mobile,0
+T955,1179,7724.92,20,Delhi,Food,UPI,Mobile,0
+T956,1046,928.11,5,Hyderabad,Entertainment,Card,Laptop,0
+T957,1126,295.27,4,Kolkata,Entertainment,UPI,Laptop,0
+T958,1055,286.02,22,Pune,Electronics,Card,Laptop,0
+T959,1013,11306.29,1,Delhi,Travel,UPI,Mobile,0
+T960,1027,2828.34,20,Hyderabad,Food,Net Banking,Mobile,0
+T961,1077,2106.55,14,Kolkata,Entertainment,Card,Mobile,0
+T962,1129,6661.46,15,Chennai,Entertainment,Card,Mobile,0
+T963,1108,7227.31,18,Kolkata,Entertainment,Card,Laptop,0
+T964,1153,1615.01,8,Chennai,Grocery,UPI,Mobile,0
+T965,1013,4731.69,21,Bangalore,Travel,UPI,Mobile,0
+T966,1186,5898.28,18,Kolkata,Fashion,UPI,Mobile,0
+T967,1055,4252.8,6,Hyderabad,Entertainment,Card,Mobile,0
+T968,1114,657.59,3,Hyderabad,Food,UPI,Tablet,0
+T969,1006,8346.13,2,Chennai,Entertainment,UPI,Mobile,0
+T970,1002,3098.25,23,Hyderabad,Travel,Card,Laptop,0
+T971,1110,1327.78,19,Nagpur,Fashion,UPI,Mobile,0
+T972,1150,2215.13,10,Bangalore,Grocery,Card,Mobile,0
+T973,1106,153.18,0,Pune,Electronics,UPI,Mobile,0
+T974,1017,547.25,5,Kolkata,Food,Net Banking,Mobile,0
+T975,1037,5802.0,10,Pune,Electronics,Card,Laptop,0
+T976,1114,0.05,0,Delhi,Grocery,UPI,Mobile,0
+T977,1014,2155.29,20,Pune,Travel,UPI,Mobile,0
+T978,1191,2956.85,6,Mumbai,Travel,Card,Mobile,0
+T979,1118,224.73,5,Hyderabad,Grocery,UPI,Mobile,0
+T980,1027,14459.27,13,Pune,Entertainment,UPI,Laptop,0
+T981,1038,1025.38,1,Delhi,Grocery,Card,Mobile,1
+T982,1184,1450.76,3,Delhi,Food,Card,Mobile,1
+T983,1016,1449.29,10,Mumbai,Fashion,Card,Laptop,0
+T984,1085,1047.62,14,Delhi,Electronics,Card,Mobile,0
+T985,1125,5.9,17,Chennai,Electronics,Card,Mobile,0
+T986,1043,5227.64,0,Nagpur,Travel,Card,Mobile,1
+T987,1024,13626.31,2,Chennai,Entertainment,Card,Mobile,1
+T988,1144,1015.92,2,Hyderabad,Travel,Net Banking,Laptop,0
+T989,1012,4351.25,6,Hyderabad,Food,Card,Mobile,0
+T990,1024,5417.58,0,Hyderabad,Grocery,UPI,Tablet,0
+T991,1067,7546.71,10,Bangalore,Electronics,UPI,Mobile,0
+T992,1137,2197.08,5,Pune,Food,UPI,Tablet,0
+T993,1066,1443.48,19,Nagpur,Travel,Card,Mobile,0
+T994,1108,1573.92,2,Pune,Travel,Net Banking,Laptop,0
+T995,1145,4987.82,18,Nagpur,Electronics,UPI,Mobile,0
+T996,1110,6788.26,1,Pune,Travel,UPI,Mobile,0
+T997,1110,801.68,17,Mumbai,Entertainment,Card,Laptop,0
+T998,1033,1854.12,11,Kolkata,Travel,Card,Laptop,0
+T999,1110,9288.71,9,Chennai,Fashion,UPI,Mobile,0
+T1000,1007,6573.91,4,Delhi,Grocery,Card,Mobile,0
+T1001,1167,16761.24,8,Delhi,Travel,UPI,Mobile,0
+T1002,1112,5613.73,1,Chennai,Fashion,Card,Tablet,1
+T1003,1082,1998.19,1,Mumbai,Food,UPI,Laptop,0
+T1004,1041,3572.62,5,Nagpur,Travel,Net Banking,Mobile,0
+T1005,1168,4327.19,9,Chennai,Entertainment,UPI,Laptop,0
+T1006,1100,326.82,17,Bangalore,Food,UPI,Tablet,0
+T1007,1005,3145.41,11,Nagpur,Travel,UPI,Mobile,0
+T1008,1179,4942.14,3,Delhi,Electronics,UPI,Laptop,0
+T1009,1025,732.43,21,Bangalore,Fashion,Net Banking,Mobile,0
+T1010,1063,6068.01,20,Pune,Fashion,Net Banking,Laptop,0
+T1011,1186,3506.1,16,Bangalore,Electronics,UPI,Mobile,0
+T1012,1183,12164.74,14,Nagpur,Grocery,Card,Mobile,0
+T1013,1058,173.39,5,Mumbai,Entertainment,UPI,Mobile,0
+T1014,1108,1233.31,15,Pune,Fashion,Card,Mobile,0
+T1015,1197,3680.73,16,Nagpur,Food,Card,Laptop,0
+T1016,1120,1407.09,2,Pune,Entertainment,UPI,Mobile,0
+T1017,1032,5012.99,9,Bangalore,Fashion,UPI,Mobile,0
+T1018,1180,5691.92,4,Delhi,Grocery,Net Banking,Laptop,0
+T1019,1149,432.64,13,Nagpur,Food,Card,Mobile,0
+T1020,1020,2884.99,20,Kolkata,Entertainment,Card,Mobile,0
+T1021,1197,2844.35,12,Mumbai,Food,Net Banking,Tablet,0
+T1022,1069,1843.58,5,Kolkata,Electronics,Card,Laptop,0
+T1023,1111,10807.77,11,Kolkata,Travel,UPI,Mobile,0
+T1024,1003,7029.58,7,Chennai,Electronics,Card,Mobile,0
+T1025,1093,4778.85,4,Bangalore,Entertainment,Card,Tablet,0
+T1026,1074,5011.62,14,Nagpur,Travel,Net Banking,Mobile,0
+T1027,1189,2477.48,15,Mumbai,Electronics,Card,Mobile,0
+T1028,1061,10152.95,0,Nagpur,Travel,Card,Mobile,1
+T1029,1093,4744.47,15,Bangalore,Fashion,Card,Mobile,0
+T1030,1094,5222.27,4,Nagpur,Food,Net Banking,Laptop,0
+T1031,1151,7913.06,2,Pune,Travel,Net Banking,Laptop,0
+T1032,1054,1281.22,19,Bangalore,Fashion,Card,Tablet,0
+T1033,1136,6581.73,14,Nagpur,Grocery,Card,Laptop,0
+T1034,1130,868.85,12,Chennai,Electronics,UPI,Mobile,0
+T1035,1030,1694.57,23,Delhi,Grocery,Card,Mobile,0
+T1036,1039,1635.55,15,Nagpur,Entertainment,UPI,Tablet,0
+T1037,1035,15363.55,22,Pune,Fashion,Card,Mobile,0
+T1038,1151,7766.72,10,Mumbai,Grocery,Card,Mobile,0
+T1039,1005,4831.52,20,Chennai,Grocery,UPI,Tablet,0
+T1040,1065,5193.97,1,Mumbai,Fashion,Card,Mobile,1
+T1041,1074,3302.81,21,Kolkata,Food,Net Banking,Mobile,0
+T1042,1003,11756.7,5,Chennai,Travel,Card,Laptop,0
+T1043,1078,2742.77,5,Mumbai,Entertainment,Card,Tablet,0
+T1044,1133,1915.48,13,Delhi,Entertainment,Net Banking,Mobile,0
+T1045,1117,711.89,10,Pune,Electronics,Card,Laptop,0
+T1046,1112,6170.96,7,Kolkata,Travel,UPI,Mobile,0
+T1047,1093,5303.72,7,Bangalore,Electronics,Card,Mobile,0
+T1048,1178,1940.34,0,Mumbai,Entertainment,UPI,Tablet,0
+T1049,1061,102.06,20,Chennai,Travel,UPI,Tablet,0
+T1050,1184,7305.34,6,Pune,Grocery,Card,Mobile,0
+T1051,1193,45.93,5,Nagpur,Food,UPI,Mobile,0
+T1052,1078,4865.53,20,Delhi,Grocery,UPI,Mobile,0
+T1053,1135,14060.66,7,Pune,Food,Card,Mobile,0
+T1054,1025,2302.6,18,Pune,Fashion,UPI,Mobile,0
+T1055,1178,1071.38,21,Bangalore,Electronics,UPI,Mobile,0
+T1056,1172,4881.37,20,Pune,Electronics,Card,Mobile,0
+T1057,1043,6795.88,23,Bangalore,Fashion,Card,Mobile,0
+T1058,1132,3162.43,19,Delhi,Travel,Card,Mobile,0
+T1059,1069,13649.27,7,Delhi,Fashion,Card,Laptop,0
+T1060,1153,212.21,13,Nagpur,Entertainment,UPI,Mobile,0
+T1061,1117,2811.14,17,Bangalore,Fashion,UPI,Mobile,0
+T1062,1067,5069.84,15,Bangalore,Food,Net Banking,Laptop,0
+T1063,1018,7940.61,8,Mumbai,Entertainment,Card,Laptop,0
+T1064,1019,790.17,14,Mumbai,Fashion,Card,Mobile,0
+T1065,1112,6437.82,9,Nagpur,Electronics,UPI,Mobile,0
+T1066,1139,3218.17,21,Delhi,Grocery,UPI,Laptop,0
+T1067,1046,2020.39,15,Hyderabad,Food,UPI,Mobile,0
+T1068,1000,564.94,3,Mumbai,Food,Card,Laptop,1
+T1069,1089,8018.69,19,Pune,Travel,Card,Mobile,0
+T1070,1141,684.45,12,Delhi,Grocery,Card,Mobile,0
+T1071,1063,1483.03,21,Hyderabad,Food,Net Banking,Mobile,0
+T1072,1037,1370.22,4,Kolkata,Fashion,Card,Laptop,0
+T1073,1036,8204.63,21,Pune,Food,Net Banking,Tablet,0
+T1074,1125,4467.55,6,Chennai,Food,UPI,Mobile,0
+T1075,1138,6371.92,22,Bangalore,Food,Card,Mobile,0
+T1076,1099,1153.22,8,Delhi,Travel,UPI,Mobile,0
+T1077,1076,3921.97,7,Chennai,Food,UPI,Mobile,0
+T1078,1002,3392.16,15,Nagpur,Food,Net Banking,Laptop,0
+T1079,1160,7154.99,5,Bangalore,Travel,Card,Mobile,0
+T1080,1133,9461.55,15,Bangalore,Entertainment,Card,Tablet,0
+T1081,1177,48.93,5,Pune,Grocery,Card,Mobile,0
+T1082,1009,4483.68,13,Chennai,Entertainment,Card,Tablet,0
+T1083,1004,212.91,20,Bangalore,Electronics,UPI,Laptop,0
+T1084,1150,3183.9,0,Mumbai,Travel,Net Banking,Mobile,0
+T1085,1137,1356.65,8,Delhi,Travel,Card,Mobile,0
+T1086,1171,1465.61,23,Mumbai,Food,UPI,Mobile,0
+T1087,1129,1741.38,12,Pune,Food,UPI,Mobile,0
+T1088,1012,3883.96,18,Hyderabad,Electronics,Card,Mobile,0
+T1089,1167,1626.16,16,Kolkata,Food,Card,Mobile,0
+T1090,1129,5277.52,10,Pune,Fashion,UPI,Tablet,0
+T1091,1083,2073.6,7,Delhi,Food,Net Banking,Mobile,0
+T1092,1064,283.21,22,Bangalore,Food,UPI,Laptop,0
+T1093,1062,6125.46,4,Chennai,Fashion,Card,Tablet,0
+T1094,1100,1346.14,9,Chennai,Electronics,Card,Laptop,0
+T1095,1072,2267.94,6,Nagpur,Fashion,Card,Mobile,0
+T1096,1016,4626.37,9,Pune,Travel,UPI,Mobile,0
+T1097,1008,1616.6,3,Delhi,Fashion,UPI,Mobile,0
+T1098,1142,233.0,8,Nagpur,Grocery,Card,Mobile,0
+T1099,1151,1873.12,13,Bangalore,Travel,UPI,Mobile,0
+T1100,1037,11561.78,1,Hyderabad,Food,UPI,Laptop,0
+T1101,1162,4105.92,8,Pune,Travel,UPI,Mobile,0
+T1102,1093,4452.62,20,Hyderabad,Electronics,Net Banking,Mobile,0
+T1103,1094,4001.76,0,Delhi,Electronics,Card,Tablet,1
+T1104,1048,887.54,22,Hyderabad,Fashion,Net Banking,Mobile,0
+T1105,1068,2167.43,9,Hyderabad,Travel,Card,Mobile,0
+T1106,1061,5560.24,9,Delhi,Food,Card,Laptop,0
+T1107,1187,427.55,19,Delhi,Electronics,Net Banking,Mobile,0
+T1108,1177,1302.1,21,Pune,Entertainment,Net Banking,Mobile,0
+T1109,1077,1293.62,2,Hyderabad,Food,UPI,Mobile,0
+T1110,1116,2262.67,5,Nagpur,Entertainment,UPI,Laptop,0
+T1111,1119,15722.53,5,Kolkata,Grocery,UPI,Mobile,0
+T1112,1136,279.56,20,Delhi,Entertainment,UPI,Mobile,0
+T1113,1161,2925.07,1,Bangalore,Electronics,Card,Mobile,1
+T1114,1075,790.71,17,Hyderabad,Fashion,UPI,Mobile,0
+T1115,1034,14117.47,22,Delhi,Grocery,UPI,Mobile,0
+T1116,1000,481.01,1,Nagpur,Travel,UPI,Mobile,0
+T1117,1039,2067.38,11,Chennai,Food,Card,Mobile,0
+T1118,1063,5355.89,21,Pune,Electronics,UPI,Mobile,0
+T1119,1149,4877.08,4,Hyderabad,Grocery,Net Banking,Mobile,0
+T1120,1059,2197.77,19,Chennai,Grocery,UPI,Mobile,0
+T1121,1063,1701.8,6,Delhi,Electronics,Net Banking,Laptop,0
+T1122,1092,2027.42,23,Delhi,Travel,Card,Mobile,0
+T1123,1071,1227.6,15,Bangalore,Travel,UPI,Mobile,0
+T1124,1010,919.33,19,Bangalore,Fashion,UPI,Laptop,0
+T1125,1104,2639.16,0,Hyderabad,Entertainment,UPI,Laptop,0
+T1126,1013,1250.82,0,Chennai,Travel,UPI,Mobile,0
+T1127,1059,1355.69,16,Kolkata,Fashion,UPI,Mobile,0
+T1128,1029,4277.26,0,Chennai,Entertainment,Net Banking,Mobile,0
+T1129,1034,13835.81,20,Delhi,Grocery,UPI,Mobile,0
+T1130,1164,3701.7,19,Kolkata,Electronics,Card,Laptop,0
+T1131,1004,320.42,12,Hyderabad,Travel,UPI,Mobile,0
+T1132,1082,314.37,8,Delhi,Fashion,Card,Laptop,0
+T1133,1122,12098.44,14,Bangalore,Grocery,Card,Mobile,0
+T1134,1077,1411.25,2,Nagpur,Travel,Net Banking,Mobile,0
+T1135,1153,386.34,13,Mumbai,Food,Card,Laptop,0
+T1136,1061,3655.62,22,Kolkata,Grocery,UPI,Mobile,0
+T1137,1131,3908.93,10,Mumbai,Travel,Card,Mobile,0
+T1138,1088,4182.24,23,Delhi,Grocery,Card,Tablet,0
+T1139,1041,1244.63,21,Chennai,Electronics,UPI,Laptop,0
+T1140,1088,60.9,11,Bangalore,Electronics,Card,Laptop,0
+T1141,1145,13411.39,12,Pune,Electronics,UPI,Mobile,0
+T1142,1039,1155.49,12,Pune,Entertainment,Card,Mobile,0
+T1143,1071,4508.37,0,Mumbai,Food,Card,Tablet,1
+T1144,1038,4905.28,23,Nagpur,Electronics,Card,Mobile,0
+T1145,1103,3766.51,9,Mumbai,Food,Card,Laptop,0
+T1146,1013,1501.14,2,Delhi,Electronics,UPI,Mobile,0
+T1147,1031,1264.85,23,Nagpur,Entertainment,Card,Mobile,0
+T1148,1178,3641.91,3,Pune,Grocery,UPI,Tablet,0
+T1149,1124,8042.52,15,Chennai,Travel,Net Banking,Mobile,0
+T1150,1165,11729.81,7,Bangalore,Travel,UPI,Mobile,0
+T1151,1096,447.78,15,Kolkata,Electronics,UPI,Mobile,0
+T1152,1022,672.86,16,Bangalore,Travel,Card,Mobile,0
+T1153,1062,11582.55,18,Delhi,Electronics,Card,Mobile,0
+T1154,1142,5335.34,21,Mumbai,Electronics,Net Banking,Mobile,0
+T1155,1152,8582.11,14,Delhi,Fashion,UPI,Mobile,0
+T1156,1144,905.76,15,Kolkata,Fashion,UPI,Laptop,0
+T1157,1193,3542.91,14,Bangalore,Fashion,UPI,Mobile,0
+T1158,1052,4831.11,1,Kolkata,Food,Card,Tablet,1
+T1159,1103,4559.14,10,Pune,Fashion,Card,Mobile,0
+T1160,1103,2098.02,0,Bangalore,Electronics,UPI,Mobile,0
+T1161,1178,62.06,14,Nagpur,Entertainment,UPI,Mobile,0
+T1162,1038,3497.97,18,Chennai,Entertainment,UPI,Laptop,0
+T1163,1178,1167.3,3,Kolkata,Grocery,Net Banking,Tablet,0
+T1164,1197,2393.2,10,Chennai,Fashion,Card,Laptop,0
+T1165,1133,12640.64,4,Hyderabad,Entertainment,Card,Mobile,0
+T1166,1066,2036.88,2,Bangalore,Fashion,Net Banking,Mobile,0
+T1167,1134,7325.37,12,Bangalore,Grocery,UPI,Laptop,0
+T1168,1178,835.68,9,Chennai,Entertainment,UPI,Tablet,0
+T1169,1199,4464.59,10,Hyderabad,Electronics,Card,Tablet,0
+T1170,1041,15090.25,17,Nagpur,Food,Card,Mobile,0
+T1171,1191,429.86,1,Mumbai,Fashion,UPI,Tablet,0
+T1172,1014,33.42,6,Kolkata,Entertainment,Card,Mobile,0
+T1173,1110,2273.7,8,Kolkata,Entertainment,UPI,Mobile,0
+T1174,1156,388.8,9,Bangalore,Grocery,Net Banking,Mobile,0
+T1175,1032,5519.41,17,Chennai,Electronics,UPI,Mobile,0
+T1176,1154,9839.23,22,Delhi,Travel,Card,Laptop,0
+T1177,1163,2276.79,6,Bangalore,Entertainment,UPI,Laptop,0
+T1178,1156,1197.46,6,Delhi,Food,Card,Laptop,0
+T1179,1037,2279.5,2,Nagpur,Grocery,Card,Mobile,1
+T1180,1184,5141.42,11,Bangalore,Entertainment,Card,Mobile,0
+T1181,1096,36.38,6,Kolkata,Entertainment,Card,Laptop,0
+T1182,1154,3561.07,16,Chennai,Grocery,Net Banking,Mobile,0
+T1183,1182,3800.34,0,Nagpur,Grocery,Card,Laptop,1
+T1184,1032,4061.0,4,Nagpur,Fashion,Card,Laptop,0
+T1185,1195,1108.4,15,Mumbai,Entertainment,Net Banking,Laptop,0
+T1186,1085,5007.79,14,Bangalore,Travel,Card,Mobile,0
+T1187,1065,383.36,1,Delhi,Food,UPI,Laptop,0
+T1188,1009,888.93,8,Delhi,Electronics,Card,Mobile,0
+T1189,1004,8397.6,6,Bangalore,Electronics,Card,Mobile,0
+T1190,1122,5368.7,3,Hyderabad,Travel,Net Banking,Laptop,0
+T1191,1073,55.36,19,Mumbai,Grocery,Card,Mobile,0
+T1192,1096,1142.08,17,Mumbai,Grocery,UPI,Laptop,0
+T1193,1117,965.26,20,Mumbai,Grocery,Card,Mobile,0
+T1194,1037,1263.26,3,Delhi,Entertainment,Card,Mobile,1
+T1195,1140,1137.73,12,Nagpur,Grocery,Card,Laptop,0
+T1196,1158,258.27,0,Chennai,Grocery,Card,Mobile,1
+T1197,1046,2456.9,23,Hyderabad,Entertainment,Card,Mobile,0
+T1198,1108,5278.04,2,Kolkata,Entertainment,UPI,Mobile,0
+T1199,1179,3733.05,15,Mumbai,Travel,UPI,Mobile,0
+T1200,1183,4469.61,21,Delhi,Fashion,Card,Laptop,0
+T1201,1014,338.53,3,Delhi,Entertainment,Card,Mobile,1
+T1202,1156,12104.0,22,Kolkata,Food,Net Banking,Laptop,0
+T1203,1135,7292.8,15,Nagpur,Grocery,Net Banking,Laptop,0
+T1204,1004,6540.88,18,Kolkata,Fashion,UPI,Mobile,0
+T1205,1156,6926.06,0,Bangalore,Electronics,Net Banking,Laptop,0
+T1206,1046,10795.0,4,Bangalore,Travel,Card,Mobile,0
+T1207,1067,3143.28,18,Chennai,Fashion,Card,Mobile,0
+T1208,1075,893.98,21,Kolkata,Entertainment,UPI,Mobile,0
+T1209,1172,3836.62,23,Chennai,Grocery,UPI,Mobile,0
+T1210,1129,5432.87,10,Mumbai,Grocery,UPI,Laptop,0
+T1211,1154,5356.38,12,Chennai,Grocery,Card,Mobile,0
+T1212,1094,2947.97,19,Mumbai,Fashion,Net Banking,Mobile,0
+T1213,1114,283.66,4,Hyderabad,Grocery,UPI,Laptop,0
+T1214,1163,1855.21,20,Chennai,Entertainment,Card,Laptop,0
+T1215,1035,10141.43,3,Nagpur,Fashion,UPI,Mobile,0
+T1216,1025,3512.6,3,Mumbai,Grocery,Card,Laptop,1
+T1217,1042,3091.64,3,Nagpur,Electronics,Card,Mobile,1
+T1218,1026,1252.57,3,Delhi,Electronics,Card,Laptop,1
+T1219,1068,1838.31,19,Mumbai,Food,Card,Mobile,0
+T1220,1147,9028.39,20,Delhi,Grocery,Card,Laptop,0
+T1221,1010,4392.01,17,Pune,Grocery,UPI,Mobile,0
+T1222,1073,6193.13,17,Nagpur,Fashion,Card,Mobile,0
+T1223,1103,2423.08,15,Pune,Fashion,UPI,Mobile,0
+T1224,1037,3979.68,8,Mumbai,Grocery,Card,Mobile,0
+T1225,1133,1142.12,17,Delhi,Food,Card,Laptop,0
+T1226,1199,4889.37,21,Mumbai,Grocery,Net Banking,Mobile,0
+T1227,1022,2231.68,1,Pune,Entertainment,UPI,Laptop,0
+T1228,1046,2337.5,20,Kolkata,Fashion,Net Banking,Laptop,0
+T1229,1089,4191.55,3,Kolkata,Grocery,Net Banking,Laptop,0
+T1230,1045,11013.07,11,Mumbai,Fashion,Card,Mobile,0
+T1231,1106,264.59,6,Hyderabad,Grocery,Card,Tablet,0
+T1232,1139,6966.01,14,Bangalore,Travel,Net Banking,Laptop,0
+T1233,1140,1383.41,6,Pune,Fashion,Net Banking,Laptop,0
+T1234,1103,2347.37,21,Mumbai,Food,UPI,Mobile,0
+T1235,1189,88.63,20,Delhi,Travel,UPI,Mobile,0
+T1236,1110,1432.68,16,Mumbai,Entertainment,UPI,Mobile,0
+T1237,1103,2793.69,15,Kolkata,Grocery,Card,Mobile,0
+T1238,1059,231.26,18,Delhi,Entertainment,UPI,Mobile,0
+T1239,1170,2701.98,8,Bangalore,Fashion,UPI,Mobile,0
+T1240,1099,10475.25,13,Mumbai,Travel,UPI,Mobile,0
+T1241,1067,445.48,16,Chennai,Entertainment,Card,Mobile,0
+T1242,1132,5783.17,4,Kolkata,Food,Card,Mobile,0
+T1243,1119,2108.3,1,Chennai,Fashion,Card,Laptop,1
+T1244,1036,4258.86,19,Bangalore,Travel,Card,Mobile,0
+T1245,1071,1205.7,15,Pune,Entertainment,Net Banking,Laptop,0
+T1246,1126,695.0,13,Delhi,Travel,Card,Mobile,0
+T1247,1105,699.62,13,Chennai,Travel,Card,Mobile,0
+T1248,1091,292.4,0,Hyderabad,Entertainment,Card,Mobile,1
+T1249,1030,821.44,2,Pune,Electronics,UPI,Laptop,0
+T1250,1121,4365.19,6,Delhi,Grocery,UPI,Mobile,0
+T1251,1136,8537.81,14,Kolkata,Fashion,Card,Laptop,0
+T1252,1050,6730.74,18,Kolkata,Fashion,Card,Mobile,0
+T1253,1028,4622.44,19,Kolkata,Fashion,Card,Mobile,0
+T1254,1039,468.08,1,Bangalore,Travel,UPI,Laptop,0
+T1255,1040,1365.39,18,Chennai,Entertainment,Card,Mobile,0
+T1256,1010,1483.14,8,Kolkata,Grocery,Net Banking,Laptop,0
+T1257,1150,1150.5,18,Nagpur,Food,UPI,Mobile,0
+T1258,1000,2894.47,4,Kolkata,Fashion,Card,Mobile,0
+T1259,1045,3067.64,17,Mumbai,Entertainment,UPI,Laptop,0
+T1260,1100,1765.73,15,Bangalore,Grocery,Card,Tablet,0
+T1261,1148,1746.52,3,Delhi,Grocery,UPI,Mobile,0
+T1262,1089,7053.99,11,Delhi,Electronics,Card,Laptop,0
+T1263,1109,6229.14,6,Delhi,Entertainment,UPI,Mobile,0
+T1264,1163,1471.5,13,Delhi,Fashion,UPI,Laptop,0
+T1265,1181,9803.8,22,Mumbai,Travel,Net Banking,Laptop,0
+T1266,1056,12214.72,11,Pune,Grocery,Card,Mobile,0
+T1267,1000,1582.51,2,Hyderabad,Grocery,Card,Mobile,1
+T1268,1062,1750.46,4,Nagpur,Food,UPI,Mobile,0
+T1269,1181,2817.92,16,Mumbai,Electronics,Net Banking,Mobile,0
+T1270,1054,11329.07,9,Delhi,Grocery,Net Banking,Mobile,0
+T1271,1114,8360.21,9,Mumbai,Grocery,Card,Mobile,0
+T1272,1167,432.87,10,Bangalore,Travel,Card,Tablet,0
+T1273,1142,1995.13,16,Hyderabad,Travel,UPI,Mobile,0
+T1274,1148,3224.11,4,Delhi,Food,Card,Mobile,0
+T1275,1174,2797.73,12,Nagpur,Entertainment,Card,Mobile,0
+T1276,1052,862.01,9,Delhi,Food,Card,Tablet,0
+T1277,1136,7830.79,8,Hyderabad,Food,UPI,Mobile,0
+T1278,1179,4519.68,16,Nagpur,Travel,Net Banking,Mobile,0
+T1279,1056,7278.37,0,Hyderabad,Entertainment,Net Banking,Mobile,0
+T1280,1116,7829.3,3,Nagpur,Travel,Card,Mobile,1
+T1281,1153,5518.96,3,Pune,Electronics,UPI,Mobile,0
+T1282,1168,2313.64,17,Chennai,Fashion,Net Banking,Mobile,0
+T1283,1034,3772.05,8,Pune,Fashion,Card,Mobile,0
+T1284,1062,699.15,17,Mumbai,Electronics,UPI,Mobile,0
+T1285,1024,4479.08,13,Mumbai,Fashion,Card,Mobile,0
+T1286,1089,790.16,14,Kolkata,Entertainment,Card,Mobile,0
+T1287,1074,4736.02,5,Nagpur,Travel,Card,Mobile,0
+T1288,1037,1043.37,23,Kolkata,Fashion,Card,Tablet,0
+T1289,1129,500.22,9,Kolkata,Entertainment,UPI,Laptop,0
+T1290,1134,722.66,14,Delhi,Travel,Card,Mobile,0
+T1291,1161,7.98,3,Chennai,Entertainment,Card,Mobile,1
+T1292,1090,5073.9,17,Bangalore,Electronics,Card,Mobile,0
+T1293,1016,5273.06,17,Bangalore,Food,Net Banking,Mobile,0
+T1294,1127,2893.88,16,Delhi,Electronics,UPI,Mobile,0
+T1295,1170,703.91,11,Delhi,Fashion,UPI,Mobile,0
+T1296,1186,349.01,6,Pune,Travel,UPI,Tablet,0
+T1297,1107,77.26,15,Bangalore,Entertainment,Card,Laptop,0
+T1298,1178,724.88,10,Nagpur,Fashion,Card,Mobile,0
+T1299,1181,8860.33,13,Hyderabad,Fashion,UPI,Mobile,0
+T1300,1151,1105.84,2,Kolkata,Food,Card,Tablet,1
+T1301,1024,1749.5,18,Mumbai,Fashion,Card,Tablet,0
+T1302,1198,445.27,17,Kolkata,Food,UPI,Tablet,0
+T1303,1179,1005.97,9,Kolkata,Travel,Card,Mobile,0
+T1304,1197,2929.42,5,Hyderabad,Travel,Card,Mobile,0
+T1305,1087,3743.45,12,Pune,Entertainment,UPI,Laptop,0
+T1306,1160,1126.02,9,Bangalore,Food,Card,Mobile,0
+T1307,1176,237.86,17,Kolkata,Electronics,UPI,Mobile,0
+T1308,1028,1983.96,19,Chennai,Travel,UPI,Mobile,0
+T1309,1062,1067.35,15,Delhi,Entertainment,UPI,Laptop,0
+T1310,1149,991.56,5,Chennai,Electronics,UPI,Laptop,0
+T1311,1153,12861.81,12,Chennai,Travel,Card,Mobile,0
+T1312,1155,3831.58,3,Bangalore,Travel,Card,Laptop,1
+T1313,1113,3255.64,22,Nagpur,Entertainment,Card,Mobile,0
+T1314,1048,2149.88,13,Pune,Entertainment,Card,Laptop,0
+T1315,1198,2241.07,0,Kolkata,Grocery,Net Banking,Mobile,0
+T1316,1080,3113.99,19,Kolkata,Fashion,UPI,Mobile,0
+T1317,1083,4768.57,4,Kolkata,Fashion,Card,Mobile,0
+T1318,1104,4844.61,7,Delhi,Electronics,Card,Mobile,0
+T1319,1176,753.49,11,Hyderabad,Fashion,Card,Mobile,0
+T1320,1147,2773.49,1,Nagpur,Electronics,Card,Mobile,1
+T1321,1117,2123.83,11,Hyderabad,Travel,Card,Tablet,0
+T1322,1085,8177.13,4,Mumbai,Grocery,UPI,Mobile,0
+T1323,1062,3992.38,21,Pune,Grocery,Net Banking,Mobile,0
+T1324,1188,3041.46,4,Nagpur,Travel,UPI,Mobile,0
+T1325,1103,490.45,12,Nagpur,Entertainment,Card,Mobile,0
+T1326,1048,3721.94,8,Kolkata,Food,Card,Mobile,0
+T1327,1070,498.64,9,Hyderabad,Food,UPI,Laptop,0
+T1328,1000,1645.17,0,Delhi,Fashion,UPI,Mobile,0
+T1329,1140,616.53,2,Mumbai,Entertainment,UPI,Mobile,0
+T1330,1178,4711.58,17,Kolkata,Electronics,Net Banking,Laptop,0
+T1331,1122,923.96,11,Kolkata,Grocery,UPI,Mobile,0
+T1332,1183,1989.4,2,Kolkata,Fashion,UPI,Mobile,0
+T1333,1061,9040.97,8,Hyderabad,Travel,Card,Laptop,0
+T1334,1031,914.21,1,Nagpur,Entertainment,UPI,Mobile,0
+T1335,1157,2835.52,2,Pune,Grocery,Card,Mobile,1
+T1336,1028,2173.89,13,Nagpur,Electronics,Card,Tablet,0
+T1337,1048,73.16,3,Bangalore,Electronics,UPI,Mobile,0
+T1338,1172,6295.47,18,Pune,Food,Card,Mobile,0
+T1339,1029,286.18,12,Kolkata,Fashion,Card,Tablet,0
+T1340,1143,2571.76,6,Pune,Travel,Card,Mobile,0
+T1341,1167,3290.09,11,Nagpur,Grocery,Card,Mobile,0
+T1342,1018,3960.03,2,Delhi,Electronics,Card,Laptop,1
+T1343,1017,4667.11,22,Kolkata,Grocery,Card,Laptop,0
+T1344,1000,1168.22,22,Pune,Travel,Card,Mobile,0
+T1345,1077,40.12,8,Bangalore,Grocery,Card,Mobile,0
+T1346,1114,5141.36,1,Hyderabad,Fashion,Net Banking,Laptop,0
+T1347,1174,3068.52,21,Delhi,Food,Card,Laptop,0
+T1348,1193,7234.43,8,Delhi,Grocery,Card,Mobile,0
+T1349,1112,6890.17,11,Delhi,Entertainment,UPI,Mobile,0
+T1350,1113,7414.36,11,Pune,Food,Net Banking,Mobile,0
+T1351,1165,2655.09,14,Delhi,Travel,UPI,Laptop,0
+T1352,1178,1623.63,1,Nagpur,Food,Card,Laptop,1
+T1353,1062,6272.38,17,Delhi,Grocery,UPI,Tablet,0
+T1354,1131,2400.77,12,Bangalore,Grocery,UPI,Laptop,0
+T1355,1128,810.63,13,Kolkata,Entertainment,UPI,Mobile,0
+T1356,1007,7723.37,4,Kolkata,Electronics,UPI,Mobile,0
+T1357,1156,8567.31,9,Mumbai,Entertainment,Net Banking,Laptop,0
+T1358,1054,2511.76,11,Bangalore,Grocery,Net Banking,Laptop,0
+T1359,1102,314.87,9,Pune,Food,UPI,Mobile,0
+T1360,1130,1962.96,23,Delhi,Entertainment,Card,Mobile,0
+T1361,1031,6509.14,10,Delhi,Entertainment,UPI,Tablet,0
+T1362,1009,9281.94,1,Nagpur,Electronics,UPI,Mobile,0
+T1363,1109,909.98,4,Hyderabad,Grocery,Card,Mobile,0
+T1364,1161,277.29,6,Delhi,Grocery,Net Banking,Mobile,0
+T1365,1123,8393.7,5,Chennai,Travel,Card,Laptop,0
+T1366,1086,1973.29,21,Bangalore,Electronics,UPI,Mobile,0
+T1367,1054,3121.46,22,Pune,Travel,Net Banking,Laptop,0
+T1368,1031,13776.31,2,Kolkata,Travel,Card,Mobile,1
+T1369,1177,275.53,12,Mumbai,Travel,UPI,Mobile,0
+T1370,1134,4180.11,2,Delhi,Fashion,Card,Mobile,1
+T1371,1092,307.98,23,Mumbai,Travel,Card,Laptop,0
+T1372,1007,1883.02,20,Delhi,Entertainment,Card,Tablet,0
+T1373,1064,6514.78,5,Pune,Food,Card,Laptop,0
+T1374,1056,2272.92,10,Hyderabad,Entertainment,Card,Tablet,0
+T1375,1066,23487.41,16,Bangalore,Entertainment,Net Banking,Mobile,1
+T1376,1186,3275.38,9,Kolkata,Grocery,Net Banking,Mobile,0
+T1377,1071,1549.49,11,Pune,Fashion,Card,Mobile,0
+T1378,1053,994.42,16,Mumbai,Travel,UPI,Mobile,0
+T1379,1066,1726.34,3,Delhi,Grocery,Card,Laptop,1
+T1380,1050,1864.26,1,Mumbai,Electronics,Card,Laptop,1
+T1381,1096,284.75,10,Bangalore,Electronics,Card,Tablet,0
+T1382,1091,1845.44,6,Chennai,Grocery,Net Banking,Mobile,0
+T1383,1007,2496.26,1,Kolkata,Food,Net Banking,Mobile,0
+T1384,1161,5131.17,17,Pune,Grocery,Card,Mobile,0
+T1385,1034,4276.95,20,Mumbai,Grocery,Card,Mobile,0
+T1386,1095,4934.51,3,Mumbai,Fashion,Card,Mobile,1
+T1387,1087,33.6,7,Bangalore,Electronics,UPI,Mobile,0
+T1388,1077,981.9,19,Chennai,Electronics,UPI,Mobile,0
+T1389,1031,4335.1,13,Delhi,Travel,Card,Mobile,0
+T1390,1119,2646.51,11,Chennai,Entertainment,UPI,Mobile,0
+T1391,1045,21.31,21,Mumbai,Grocery,Card,Mobile,0
+T1392,1143,6528.67,20,Bangalore,Grocery,Net Banking,Mobile,0
+T1393,1195,5927.87,17,Delhi,Food,UPI,Mobile,0
+T1394,1164,3180.0,10,Chennai,Electronics,Card,Mobile,0
+T1395,1181,275.1,7,Kolkata,Food,UPI,Mobile,0
+T1396,1141,5818.55,1,Chennai,Fashion,UPI,Mobile,0
+T1397,1054,3505.53,14,Kolkata,Travel,Card,Mobile,0
+T1398,1175,6092.31,8,Chennai,Food,Card,Mobile,0
+T1399,1006,5573.23,18,Hyderabad,Electronics,Net Banking,Laptop,0
+T1400,1073,6498.25,19,Delhi,Fashion,Card,Mobile,0
+T1401,1006,2919.31,7,Chennai,Grocery,Card,Laptop,0
+T1402,1160,604.8,18,Hyderabad,Fashion,UPI,Mobile,0
+T1403,1150,4448.71,4,Pune,Entertainment,UPI,Mobile,0
+T1404,1084,3875.33,10,Bangalore,Food,UPI,Laptop,0
+T1405,1146,5423.11,14,Chennai,Electronics,Net Banking,Mobile,0
+T1406,1111,744.74,7,Kolkata,Food,UPI,Laptop,0
+T1407,1124,867.53,18,Delhi,Grocery,Card,Mobile,0
+T1408,1146,8844.02,22,Kolkata,Grocery,UPI,Mobile,0
+T1409,1035,5544.82,7,Hyderabad,Electronics,UPI,Laptop,0
+T1410,1028,9553.81,18,Hyderabad,Entertainment,Card,Mobile,0
+T1411,1187,5687.11,17,Pune,Travel,Card,Mobile,0
+T1412,1081,3636.82,9,Kolkata,Fashion,Card,Mobile,0
+T1413,1001,4246.8,6,Nagpur,Fashion,UPI,Mobile,0
+T1414,1128,8797.51,8,Bangalore,Grocery,Net Banking,Mobile,0
+T1415,1046,3458.65,0,Kolkata,Food,UPI,Mobile,0
+T1416,1196,4002.95,18,Nagpur,Food,Net Banking,Laptop,0
+T1417,1147,680.67,4,Delhi,Entertainment,Card,Laptop,0
+T1418,1010,2569.22,18,Bangalore,Travel,Net Banking,Mobile,0
+T1419,1129,5040.72,0,Kolkata,Food,UPI,Tablet,0
+T1420,1194,1264.01,14,Pune,Fashion,Card,Mobile,0
+T1421,1118,903.86,15,Delhi,Food,Net Banking,Mobile,0
+T1422,1139,1506.5,22,Bangalore,Travel,Card,Laptop,0
+T1423,1019,1105.65,6,Kolkata,Fashion,Net Banking,Laptop,0
+T1424,1004,967.84,11,Kolkata,Food,Net Banking,Laptop,0
+T1425,1036,2212.5,7,Bangalore,Fashion,UPI,Mobile,0
+T1426,1165,9536.85,4,Nagpur,Grocery,UPI,Mobile,0
+T1427,1136,2829.47,9,Delhi,Grocery,Card,Laptop,0
+T1428,1052,832.63,20,Pune,Entertainment,UPI,Mobile,0
+T1429,1171,320.38,4,Pune,Grocery,Card,Laptop,0
+T1430,1098,4764.97,16,Delhi,Food,UPI,Mobile,0
+T1431,1085,1930.24,4,Delhi,Travel,UPI,Laptop,0
+T1432,1107,6900.09,21,Hyderabad,Fashion,Net Banking,Mobile,0
+T1433,1023,4309.49,14,Mumbai,Electronics,Card,Mobile,0
+T1434,1080,6363.28,12,Kolkata,Grocery,UPI,Mobile,0
+T1435,1157,1269.52,0,Nagpur,Grocery,Net Banking,Laptop,0
+T1436,1119,4715.29,10,Delhi,Electronics,UPI,Laptop,0
+T1437,1058,1226.44,22,Delhi,Electronics,Card,Mobile,0
+T1438,1127,11192.02,0,Mumbai,Food,Card,Laptop,1
+T1439,1113,4046.52,10,Mumbai,Fashion,Card,Mobile,0
+T1440,1114,1569.28,17,Bangalore,Grocery,UPI,Mobile,0
+T1441,1013,1256.17,17,Chennai,Travel,UPI,Mobile,0
+T1442,1008,847.46,20,Pune,Food,Net Banking,Mobile,0
+T1443,1039,4745.07,15,Nagpur,Food,Card,Mobile,0
+T1444,1193,987.26,12,Bangalore,Travel,Card,Mobile,0
+T1445,1024,3618.47,6,Delhi,Travel,UPI,Laptop,0
+T1446,1102,1229.55,0,Kolkata,Entertainment,UPI,Laptop,0
+T1447,1021,4338.47,15,Mumbai,Travel,Net Banking,Mobile,0
+T1448,1003,6748.29,0,Hyderabad,Electronics,UPI,Mobile,0
+T1449,1153,6020.77,16,Pune,Grocery,Card,Tablet,0
+T1450,1185,5722.68,5,Bangalore,Entertainment,UPI,Laptop,0
+T1451,1028,831.65,1,Hyderabad,Electronics,Net Banking,Mobile,0
+T1452,1108,370.15,16,Pune,Entertainment,UPI,Laptop,0
+T1453,1097,4801.9,5,Chennai,Grocery,Card,Mobile,0
+T1454,1036,1837.66,13,Chennai,Entertainment,Card,Mobile,0
+T1455,1074,2264.97,17,Hyderabad,Electronics,Card,Mobile,0
+T1456,1069,126.58,5,Mumbai,Fashion,UPI,Mobile,0
+T1457,1145,1202.13,9,Bangalore,Grocery,Card,Laptop,0
+T1458,1127,137.03,23,Bangalore,Food,Card,Mobile,0
+T1459,1084,8454.0,17,Chennai,Grocery,Card,Mobile,0
+T1460,1041,1115.66,8,Pune,Grocery,UPI,Tablet,0
+T1461,1099,3259.79,7,Hyderabad,Grocery,Card,Tablet,0
+T1462,1040,159.04,9,Mumbai,Fashion,UPI,Laptop,0
+T1463,1165,4396.62,16,Delhi,Electronics,Card,Mobile,0
+T1464,1033,1560.5,22,Bangalore,Food,Card,Mobile,0
+T1465,1016,9127.96,5,Kolkata,Electronics,UPI,Laptop,0
+T1466,1164,8761.25,13,Delhi,Entertainment,Card,Mobile,0
+T1467,1152,1573.89,21,Mumbai,Entertainment,Card,Mobile,0
+T1468,1121,9248.96,21,Chennai,Entertainment,Card,Mobile,0
+T1469,1075,22246.71,5,Kolkata,Electronics,Net Banking,Mobile,1
+T1470,1086,6981.39,6,Bangalore,Travel,UPI,Mobile,0
+T1471,1116,7454.0,11,Bangalore,Fashion,Card,Mobile,0
+T1472,1105,1145.45,2,Hyderabad,Travel,Card,Mobile,1
+T1473,1085,3438.72,13,Kolkata,Entertainment,Net Banking,Mobile,0
+T1474,1026,278.5,21,Delhi,Fashion,UPI,Mobile,0
+T1475,1056,398.92,18,Chennai,Electronics,Card,Mobile,0
+T1476,1030,27223.0,22,Hyderabad,Entertainment,UPI,Laptop,1
+T1477,1133,1581.9,15,Nagpur,Electronics,UPI,Laptop,0
+T1478,1167,5516.23,6,Delhi,Fashion,UPI,Mobile,0
+T1479,1097,6573.32,7,Delhi,Electronics,UPI,Mobile,0
+T1480,1011,7808.37,17,Nagpur,Electronics,Card,Mobile,0
+T1481,1052,24176.59,12,Mumbai,Food,Card,Mobile,1
+T1482,1198,1105.63,20,Kolkata,Travel,Net Banking,Mobile,0
+T1483,1137,164.75,8,Kolkata,Travel,UPI,Mobile,0
+T1484,1172,2118.62,9,Mumbai,Travel,Card,Laptop,0
+T1485,1144,557.42,20,Bangalore,Grocery,Net Banking,Mobile,0
+T1486,1153,90.72,22,Pune,Food,Net Banking,Mobile,0
+T1487,1189,1787.82,8,Hyderabad,Entertainment,Net Banking,Mobile,0
+T1488,1121,6125.06,14,Pune,Entertainment,Net Banking,Laptop,0
+T1489,1045,3340.51,19,Bangalore,Entertainment,Net Banking,Mobile,0
+T1490,1063,1500.39,1,Kolkata,Travel,Card,Laptop,1
+T1491,1129,4249.22,12,Pune,Travel,UPI,Mobile,0
+T1492,1053,1055.96,1,Delhi,Food,UPI,Laptop,0
+T1493,1106,57.94,18,Delhi,Electronics,Card,Tablet,0
+T1494,1192,5781.69,1,Nagpur,Travel,Card,Tablet,1
+T1495,1050,3909.93,2,Nagpur,Entertainment,Net Banking,Mobile,0
+T1496,1180,5747.03,5,Bangalore,Electronics,Card,Mobile,0
+T1497,1035,158.87,2,Bangalore,Travel,Net Banking,Mobile,0
+T1498,1114,7258.96,9,Chennai,Fashion,Card,Tablet,0
+T1499,1025,3865.35,23,Bangalore,Grocery,Card,Mobile,0
+T1500,1028,3314.91,5,Delhi,Travel,UPI,Mobile,0
+T1501,1148,3919.2,22,Pune,Fashion,Card,Mobile,0
+T1502,1010,7993.16,15,Hyderabad,Food,UPI,Mobile,0
+T1503,1039,3536.62,16,Chennai,Fashion,UPI,Mobile,0
+T1504,1010,3479.06,18,Chennai,Food,Card,Mobile,0
+T1505,1163,18702.01,2,Kolkata,Travel,Card,Mobile,1
+T1506,1112,5654.34,17,Chennai,Food,Card,Mobile,0
+T1507,1186,2335.69,6,Bangalore,Fashion,Card,Tablet,0
+T1508,1038,4915.75,8,Bangalore,Grocery,UPI,Laptop,0
+T1509,1053,1972.14,19,Delhi,Electronics,Card,Laptop,0
+T1510,1097,1039.62,11,Hyderabad,Electronics,Card,Mobile,0
+T1511,1054,3633.8,4,Delhi,Grocery,UPI,Laptop,0
+T1512,1110,10534.49,2,Hyderabad,Entertainment,Card,Mobile,1
+T1513,1151,10588.17,10,Delhi,Electronics,Card,Mobile,0
+T1514,1149,1673.63,3,Pune,Travel,Card,Mobile,1
+T1515,1068,3000.37,4,Kolkata,Entertainment,Net Banking,Mobile,0
+T1516,1055,951.18,0,Bangalore,Travel,Net Banking,Mobile,0
+T1517,1032,21732.98,17,Mumbai,Fashion,UPI,Tablet,1
+T1518,1035,15878.17,11,Mumbai,Fashion,Card,Mobile,0
+T1519,1147,4193.68,12,Kolkata,Entertainment,Card,Mobile,0
+T1520,1080,6527.02,8,Bangalore,Entertainment,UPI,Mobile,0
+T1521,1189,5022.47,1,Chennai,Entertainment,UPI,Mobile,0
+T1522,1108,3597.32,4,Bangalore,Entertainment,Net Banking,Mobile,0
+T1523,1153,219.29,12,Bangalore,Food,Card,Mobile,0
+T1524,1193,2426.15,15,Kolkata,Entertainment,Card,Laptop,0
+T1525,1072,4493.09,15,Bangalore,Entertainment,UPI,Mobile,0
+T1526,1039,4527.0,23,Chennai,Fashion,UPI,Mobile,0
+T1527,1016,1868.02,2,Hyderabad,Travel,UPI,Laptop,0
+T1528,1128,11368.06,21,Kolkata,Fashion,UPI,Laptop,0
+T1529,1060,732.6,3,Pune,Electronics,Net Banking,Laptop,0
+T1530,1170,2775.47,10,Mumbai,Food,UPI,Mobile,0
+T1531,1103,4696.15,22,Kolkata,Food,Net Banking,Mobile,0
+T1532,1041,4777.88,13,Nagpur,Travel,Net Banking,Mobile,0
+T1533,1024,4183.76,2,Mumbai,Entertainment,UPI,Laptop,0
+T1534,1038,1287.92,15,Mumbai,Fashion,Card,Laptop,0
+T1535,1034,679.39,21,Chennai,Electronics,Card,Mobile,0
+T1536,1130,4041.75,14,Delhi,Fashion,UPI,Mobile,0
+T1537,1107,3658.19,9,Bangalore,Entertainment,UPI,Laptop,0
+T1538,1171,790.66,8,Bangalore,Entertainment,Net Banking,Mobile,0
+T1539,1178,4885.01,10,Bangalore,Grocery,Card,Mobile,0
+T1540,1101,2429.14,15,Delhi,Fashion,Card,Mobile,0
+T1541,1097,4407.6,9,Chennai,Travel,UPI,Mobile,0
+T1542,1011,7265.04,16,Kolkata,Fashion,Card,Tablet,0
+T1543,1018,744.01,18,Pune,Food,Card,Mobile,0
+T1544,1100,77.32,1,Pune,Electronics,Card,Mobile,1
+T1545,1043,6040.23,23,Chennai,Travel,UPI,Mobile,0
+T1546,1186,3763.33,22,Nagpur,Grocery,Card,Mobile,0
+T1547,1048,4811.09,1,Pune,Electronics,Net Banking,Mobile,0
+T1548,1188,7284.46,5,Chennai,Electronics,Card,Mobile,0
+T1549,1016,6494.37,18,Kolkata,Food,Net Banking,Mobile,0
+T1550,1073,12968.59,7,Pune,Food,UPI,Laptop,0
+T1551,1056,3070.92,2,Bangalore,Food,Card,Laptop,1
+T1552,1054,2681.6,13,Hyderabad,Travel,Card,Mobile,0
+T1553,1046,2055.9,15,Chennai,Fashion,Card,Mobile,0
+T1554,1011,667.48,0,Mumbai,Electronics,UPI,Tablet,0
+T1555,1061,3400.21,20,Pune,Fashion,Card,Mobile,0
+T1556,1079,1297.45,2,Pune,Fashion,Card,Laptop,1
+T1557,1082,10168.83,21,Delhi,Food,UPI,Mobile,0
+T1558,1007,3500.51,17,Nagpur,Fashion,Card,Laptop,0
+T1559,1148,3594.2,8,Hyderabad,Electronics,Card,Laptop,0
+T1560,1080,1753.55,5,Kolkata,Electronics,UPI,Laptop,0
+T1561,1117,213.56,22,Delhi,Entertainment,Net Banking,Laptop,0
+T1562,1197,129.03,20,Bangalore,Grocery,Card,Tablet,0
+T1563,1199,2201.98,0,Mumbai,Travel,Card,Mobile,1
+T1564,1024,353.43,20,Nagpur,Fashion,Net Banking,Mobile,0
+T1565,1088,3734.23,9,Delhi,Travel,Card,Mobile,0
+T1566,1011,8513.62,5,Chennai,Travel,Net Banking,Laptop,0
+T1567,1142,8579.41,22,Pune,Travel,Card,Laptop,0
+T1568,1058,4304.02,11,Pune,Entertainment,Net Banking,Mobile,0
+T1569,1153,949.13,3,Nagpur,Travel,Card,Mobile,1
+T1570,1108,7951.0,12,Pune,Entertainment,Net Banking,Laptop,0
+T1571,1025,8689.51,16,Chennai,Electronics,Card,Mobile,0
+T1572,1046,875.88,7,Delhi,Fashion,UPI,Mobile,0
+T1573,1031,5348.89,19,Delhi,Entertainment,Card,Laptop,0
+T1574,1009,1350.4,2,Pune,Grocery,Card,Mobile,1
+T1575,1015,6490.91,11,Pune,Travel,UPI,Mobile,0
+T1576,1198,23567.06,6,Bangalore,Grocery,UPI,Mobile,1
+T1577,1144,121.94,11,Mumbai,Electronics,Net Banking,Mobile,0
+T1578,1150,9106.34,1,Kolkata,Electronics,Card,Mobile,1
+T1579,1025,3898.12,23,Nagpur,Food,Net Banking,Mobile,0
+T1580,1085,14504.76,13,Delhi,Travel,Card,Mobile,0
+T1581,1134,2502.03,21,Nagpur,Food,Net Banking,Mobile,0
+T1582,1013,7519.42,22,Bangalore,Grocery,Net Banking,Mobile,0
+T1583,1078,257.7,4,Delhi,Fashion,Card,Mobile,0
+T1584,1116,1633.55,8,Bangalore,Food,Net Banking,Tablet,0
+T1585,1006,277.47,20,Bangalore,Electronics,UPI,Mobile,0
+T1586,1136,14810.8,10,Hyderabad,Travel,Card,Laptop,0
+T1587,1114,6792.51,4,Pune,Grocery,UPI,Laptop,0
+T1588,1175,7656.99,2,Chennai,Entertainment,Card,Mobile,1
+T1589,1071,11120.24,16,Hyderabad,Electronics,UPI,Laptop,0
+T1590,1058,355.78,1,Kolkata,Entertainment,Card,Mobile,1
+T1591,1081,1948.42,23,Nagpur,Fashion,Card,Laptop,0
+T1592,1115,294.74,0,Chennai,Travel,Card,Mobile,1
+T1593,1166,946.91,6,Nagpur,Fashion,UPI,Laptop,0
+T1594,1145,1042.17,13,Pune,Fashion,Net Banking,Mobile,0
+T1595,1186,2532.78,4,Chennai,Travel,Net Banking,Laptop,0
+T1596,1102,1250.97,18,Hyderabad,Travel,Card,Mobile,0
+T1597,1016,425.79,10,Nagpur,Entertainment,Card,Laptop,0
+T1598,1013,733.25,22,Hyderabad,Fashion,UPI,Mobile,0
+T1599,1158,637.28,1,Pune,Grocery,UPI,Laptop,0
+T1600,1151,14459.07,7,Chennai,Entertainment,Card,Mobile,0
+T1601,1107,5696.69,8,Chennai,Travel,Card,Mobile,0
+T1602,1187,13738.37,2,Delhi,Electronics,UPI,Mobile,0
+T1603,1044,2317.42,1,Bangalore,Entertainment,Card,Tablet,1
+T1604,1097,1304.96,6,Bangalore,Food,UPI,Mobile,0
+T1605,1130,6403.76,4,Hyderabad,Grocery,UPI,Tablet,0
+T1606,1036,1579.61,20,Chennai,Entertainment,Net Banking,Mobile,0
+T1607,1170,1423.18,4,Nagpur,Travel,UPI,Laptop,0
+T1608,1167,1058.5,19,Hyderabad,Travel,Card,Mobile,0
+T1609,1182,555.57,12,Hyderabad,Grocery,Net Banking,Mobile,0
+T1610,1107,1185.35,20,Mumbai,Food,UPI,Laptop,0
+T1611,1038,1756.0,19,Kolkata,Entertainment,Card,Mobile,0
+T1612,1014,4483.36,5,Chennai,Entertainment,UPI,Mobile,0
+T1613,1119,258.43,19,Bangalore,Fashion,Card,Mobile,0
+T1614,1003,945.46,17,Chennai,Electronics,UPI,Mobile,0
+T1615,1092,6622.42,1,Pune,Travel,UPI,Mobile,0
+T1616,1152,635.62,5,Hyderabad,Entertainment,UPI,Laptop,0
+T1617,1140,1678.13,8,Mumbai,Entertainment,Card,Mobile,0
+T1618,1160,7999.83,2,Mumbai,Entertainment,Card,Mobile,1
+T1619,1015,673.32,0,Bangalore,Food,Net Banking,Mobile,0
+T1620,1169,345.44,0,Bangalore,Electronics,UPI,Mobile,0
+T1621,1107,2650.77,18,Bangalore,Entertainment,Card,Mobile,0
+T1622,1125,1440.55,4,Pune,Grocery,Card,Laptop,0
+T1623,1193,3315.03,12,Mumbai,Travel,Card,Laptop,0
+T1624,1054,6514.58,18,Nagpur,Fashion,UPI,Mobile,0
+T1625,1169,590.05,11,Pune,Grocery,UPI,Laptop,0
+T1626,1033,3476.67,15,Delhi,Travel,UPI,Mobile,0
+T1627,1157,2816.9,18,Kolkata,Food,UPI,Laptop,0
+T1628,1012,622.31,2,Kolkata,Electronics,UPI,Mobile,0
+T1629,1140,3912.65,11,Hyderabad,Electronics,Card,Laptop,0
+T1630,1017,1278.84,4,Kolkata,Travel,Card,Mobile,0
+T1631,1159,2676.43,1,Bangalore,Grocery,UPI,Mobile,0
+T1632,1095,343.42,21,Mumbai,Fashion,Net Banking,Mobile,0
+T1633,1122,2461.66,6,Kolkata,Food,UPI,Mobile,0
+T1634,1038,1463.81,12,Hyderabad,Travel,UPI,Mobile,0
+T1635,1045,6912.46,14,Kolkata,Food,UPI,Mobile,0
+T1636,1028,234.67,21,Chennai,Electronics,Net Banking,Mobile,0
+T1637,1189,2169.32,2,Pune,Entertainment,Card,Laptop,1
+T1638,1061,2453.14,20,Delhi,Entertainment,Card,Mobile,0
+T1639,1184,5164.03,19,Chennai,Fashion,Net Banking,Mobile,0
+T1640,1015,3415.96,4,Pune,Food,Net Banking,Mobile,0
+T1641,1183,4401.0,23,Pune,Travel,Card,Tablet,0
+T1642,1120,6003.22,7,Nagpur,Fashion,UPI,Tablet,0
+T1643,1009,7927.89,21,Kolkata,Grocery,Card,Mobile,0
+T1644,1157,1506.78,0,Hyderabad,Entertainment,Card,Mobile,1
+T1645,1152,3088.96,7,Nagpur,Travel,Net Banking,Mobile,0
+T1646,1102,7333.03,23,Pune,Food,Card,Tablet,0
+T1647,1083,18206.95,17,Kolkata,Fashion,Net Banking,Mobile,0
+T1648,1132,8811.66,19,Delhi,Travel,Card,Mobile,0
+T1649,1064,1857.47,15,Mumbai,Fashion,UPI,Mobile,0
+T1650,1176,868.48,17,Mumbai,Fashion,Card,Mobile,0
+T1651,1002,2688.62,19,Kolkata,Fashion,UPI,Mobile,0
+T1652,1172,5413.63,11,Chennai,Food,UPI,Laptop,0
+T1653,1141,2713.58,12,Hyderabad,Travel,UPI,Mobile,0
+T1654,1119,2640.25,12,Bangalore,Electronics,Card,Mobile,0
+T1655,1157,7286.33,9,Bangalore,Electronics,Card,Mobile,0
+T1656,1067,1793.93,6,Mumbai,Food,Card,Mobile,0
+T1657,1145,7858.59,13,Pune,Food,Card,Mobile,0
+T1658,1189,2088.93,23,Pune,Entertainment,UPI,Laptop,0
+T1659,1036,1591.38,15,Nagpur,Fashion,UPI,Mobile,0
+T1660,1152,2420.47,14,Kolkata,Travel,UPI,Mobile,0
+T1661,1175,5749.46,11,Hyderabad,Travel,UPI,Mobile,0
+T1662,1192,538.71,8,Kolkata,Grocery,Card,Mobile,0
+T1663,1180,874.71,7,Kolkata,Grocery,Card,Mobile,0
+T1664,1072,12100.22,17,Nagpur,Electronics,Card,Mobile,0
+T1665,1142,771.87,22,Bangalore,Grocery,UPI,Mobile,0
+T1666,1048,3354.79,17,Kolkata,Grocery,UPI,Mobile,0
+T1667,1120,3463.48,12,Mumbai,Electronics,Card,Mobile,0
+T1668,1087,2690.43,17,Chennai,Entertainment,Card,Mobile,0
+T1669,1195,4139.68,14,Kolkata,Electronics,Net Banking,Mobile,0
+T1670,1139,1044.56,3,Pune,Grocery,UPI,Laptop,0
+T1671,1186,3217.77,16,Kolkata,Travel,UPI,Mobile,0
+T1672,1036,1861.96,4,Mumbai,Grocery,Card,Mobile,0
+T1673,1060,4334.9,21,Delhi,Fashion,Card,Mobile,0
+T1674,1170,608.99,15,Mumbai,Fashion,Net Banking,Mobile,0
+T1675,1123,3384.05,8,Delhi,Fashion,UPI,Mobile,0
+T1676,1197,819.6,9,Nagpur,Entertainment,Card,Laptop,0
+T1677,1038,1306.48,23,Nagpur,Food,UPI,Laptop,0
+T1678,1183,987.23,17,Bangalore,Fashion,UPI,Mobile,0
+T1679,1062,807.67,16,Mumbai,Travel,Card,Mobile,0
+T1680,1045,6988.16,17,Mumbai,Entertainment,Card,Mobile,0
+T1681,1087,1345.85,6,Delhi,Food,Card,Mobile,0
+T1682,1010,10475.97,3,Nagpur,Food,Card,Laptop,1
+T1683,1061,14016.45,4,Delhi,Fashion,UPI,Laptop,0
+T1684,1076,3387.62,22,Nagpur,Grocery,Card,Tablet,0
+T1685,1152,617.27,15,Delhi,Electronics,UPI,Mobile,0
+T1686,1198,1877.12,2,Nagpur,Grocery,Net Banking,Mobile,0
+T1687,1051,6392.65,17,Delhi,Grocery,Card,Laptop,0
+T1688,1003,1831.61,22,Chennai,Food,UPI,Laptop,0
+T1689,1058,364.15,20,Nagpur,Food,UPI,Laptop,0
+T1690,1071,3254.8,13,Hyderabad,Entertainment,UPI,Mobile,0
+T1691,1147,7460.44,14,Delhi,Entertainment,UPI,Mobile,0
+T1692,1092,6357.1,16,Mumbai,Food,Card,Mobile,0
+T1693,1062,770.08,0,Bangalore,Travel,UPI,Mobile,0
+T1694,1053,4468.3,20,Hyderabad,Travel,UPI,Mobile,0
+T1695,1116,996.43,16,Hyderabad,Electronics,Net Banking,Mobile,0
+T1696,1109,984.66,22,Delhi,Food,Card,Mobile,0
+T1697,1073,8288.17,10,Bangalore,Fashion,Net Banking,Mobile,0
+T1698,1106,1148.96,16,Mumbai,Entertainment,Card,Mobile,0
+T1699,1056,1222.01,13,Hyderabad,Food,Net Banking,Mobile,0
+T1700,1168,2.61,19,Mumbai,Travel,UPI,Laptop,0
+T1701,1002,8181.52,18,Nagpur,Food,UPI,Mobile,0
+T1702,1119,6292.32,20,Kolkata,Travel,UPI,Mobile,0
+T1703,1005,3948.24,6,Chennai,Food,Card,Tablet,0
+T1704,1004,5549.43,23,Kolkata,Fashion,Card,Tablet,0
+T1705,1004,659.73,12,Kolkata,Electronics,Card,Mobile,0
+T1706,1053,2452.35,17,Bangalore,Fashion,Card,Laptop,0
+T1707,1046,1730.64,22,Chennai,Travel,Card,Mobile,0
+T1708,1176,393.88,13,Pune,Entertainment,UPI,Mobile,0
+T1709,1008,2663.14,0,Nagpur,Entertainment,UPI,Mobile,0
+T1710,1098,10140.07,6,Bangalore,Grocery,Card,Mobile,0
+T1711,1019,163.53,7,Delhi,Fashion,Net Banking,Laptop,0
+T1712,1121,1378.2,17,Chennai,Food,UPI,Laptop,0
+T1713,1060,930.46,8,Delhi,Electronics,Net Banking,Tablet,0
+T1714,1122,1088.0,0,Mumbai,Food,UPI,Laptop,0
+T1715,1162,9562.81,21,Kolkata,Food,Card,Mobile,0
+T1716,1177,2524.97,16,Hyderabad,Fashion,UPI,Laptop,0
+T1717,1081,2511.68,18,Chennai,Electronics,UPI,Tablet,0
+T1718,1061,5718.07,5,Pune,Grocery,Card,Laptop,0
+T1719,1144,671.27,2,Delhi,Food,Card,Laptop,1
+T1720,1002,2671.99,23,Bangalore,Electronics,Card,Tablet,0
+T1721,1159,2248.37,4,Chennai,Grocery,Card,Mobile,0
+T1722,1012,3634.39,1,Chennai,Food,Card,Laptop,1
+T1723,1119,30894.12,19,Hyderabad,Electronics,UPI,Laptop,1
+T1724,1124,5869.13,3,Hyderabad,Fashion,Card,Tablet,1
+T1725,1088,2029.1,9,Bangalore,Entertainment,UPI,Mobile,0
+T1726,1072,7030.66,9,Hyderabad,Entertainment,UPI,Mobile,0
+T1727,1067,748.73,23,Delhi,Food,Card,Laptop,0
+T1728,1141,123.75,20,Bangalore,Food,Card,Mobile,0
+T1729,1100,914.88,10,Kolkata,Electronics,Card,Mobile,0
+T1730,1097,1664.56,15,Bangalore,Entertainment,Card,Mobile,0
+T1731,1010,2858.14,16,Mumbai,Food,Card,Mobile,0
+T1732,1104,3819.39,15,Pune,Grocery,Card,Mobile,0
+T1733,1183,9658.79,6,Chennai,Food,UPI,Mobile,0
+T1734,1066,2852.21,15,Mumbai,Entertainment,UPI,Mobile,0
+T1735,1122,2782.81,2,Pune,Travel,Card,Mobile,1
+T1736,1028,206.2,15,Bangalore,Entertainment,Card,Mobile,0
+T1737,1136,142.14,7,Chennai,Grocery,UPI,Mobile,0
+T1738,1194,3204.35,11,Hyderabad,Electronics,Net Banking,Mobile,0
+T1739,1152,2306.29,2,Pune,Grocery,UPI,Mobile,0
+T1740,1075,7309.89,16,Bangalore,Travel,UPI,Mobile,0
+T1741,1169,700.65,20,Bangalore,Travel,Card,Laptop,0
+T1742,1008,101.15,17,Mumbai,Food,Card,Mobile,0
+T1743,1039,2384.36,10,Mumbai,Food,Net Banking,Mobile,0
+T1744,1024,1084.5,3,Hyderabad,Entertainment,Card,Laptop,1
+T1745,1004,203.55,15,Kolkata,Fashion,Net Banking,Mobile,0
+T1746,1138,5158.1,16,Nagpur,Grocery,UPI,Tablet,0
+T1747,1186,473.3,8,Delhi,Entertainment,UPI,Laptop,0
+T1748,1123,3749.24,5,Nagpur,Fashion,Card,Mobile,0
+T1749,1037,1319.85,23,Nagpur,Entertainment,UPI,Mobile,0
+T1750,1071,762.2,19,Chennai,Travel,UPI,Mobile,0
+T1751,1132,1910.54,1,Kolkata,Food,Card,Mobile,1
+T1752,1175,6466.77,8,Chennai,Food,Card,Mobile,0
+T1753,1089,1990.94,20,Hyderabad,Entertainment,Net Banking,Mobile,0
+T1754,1145,5557.51,5,Chennai,Food,UPI,Laptop,0
+T1755,1197,536.35,2,Pune,Electronics,Card,Mobile,1
+T1756,1036,5927.2,19,Hyderabad,Entertainment,Card,Mobile,0
+T1757,1059,1081.64,5,Hyderabad,Travel,UPI,Laptop,0
+T1758,1175,4525.28,6,Bangalore,Entertainment,UPI,Mobile,0
+T1759,1027,3336.83,0,Bangalore,Entertainment,UPI,Mobile,0
+T1760,1196,10588.46,22,Bangalore,Food,UPI,Mobile,0
+T1761,1080,1959.67,0,Delhi,Travel,Card,Mobile,1
+T1762,1113,273.82,4,Pune,Entertainment,UPI,Tablet,0
+T1763,1039,77.37,5,Pune,Food,Card,Mobile,0
+T1764,1044,7014.59,12,Bangalore,Grocery,Net Banking,Mobile,0
+T1765,1061,2975.54,1,Nagpur,Travel,UPI,Mobile,0
+T1766,1092,5970.96,14,Delhi,Fashion,Card,Mobile,0
+T1767,1114,1068.52,14,Nagpur,Electronics,Card,Mobile,0
+T1768,1185,1692.99,12,Mumbai,Fashion,UPI,Laptop,0
+T1769,1066,122.27,13,Pune,Travel,Card,Tablet,0
+T1770,1055,13027.59,21,Pune,Entertainment,Card,Mobile,0
+T1771,1039,4408.89,6,Nagpur,Food,UPI,Mobile,0
+T1772,1097,10824.51,13,Delhi,Travel,Card,Mobile,0
+T1773,1039,1234.24,23,Pune,Electronics,UPI,Mobile,0
+T1774,1090,3781.47,9,Nagpur,Travel,Card,Mobile,0
+T1775,1032,4539.03,16,Hyderabad,Food,UPI,Mobile,0
+T1776,1005,1528.26,13,Hyderabad,Fashion,Card,Mobile,0
+T1777,1146,7538.37,7,Chennai,Grocery,Card,Mobile,0
+T1778,1079,11762.06,3,Delhi,Fashion,Net Banking,Laptop,0
+T1779,1167,8646.26,15,Nagpur,Food,UPI,Laptop,0
+T1780,1091,5373.97,23,Chennai,Food,Card,Mobile,0
+T1781,1096,1299.96,12,Hyderabad,Electronics,Card,Mobile,0
+T1782,1058,1323.0,21,Delhi,Travel,UPI,Tablet,0
+T1783,1058,13226.49,19,Kolkata,Travel,UPI,Mobile,0
+T1784,1047,41.35,17,Chennai,Fashion,Net Banking,Laptop,0
+T1785,1168,5035.83,13,Kolkata,Grocery,Net Banking,Mobile,0
+T1786,1012,4900.05,17,Bangalore,Grocery,UPI,Mobile,0
+T1787,1106,3898.75,4,Delhi,Electronics,Card,Mobile,0
+T1788,1044,18464.46,8,Mumbai,Food,UPI,Laptop,1
+T1789,1088,1495.16,2,Bangalore,Electronics,UPI,Mobile,0
+T1790,1180,1661.89,7,Chennai,Travel,Card,Mobile,0
+T1791,1169,328.92,19,Nagpur,Entertainment,Card,Mobile,0
+T1792,1099,2339.31,21,Bangalore,Entertainment,Card,Laptop,0
+T1793,1190,1210.09,9,Bangalore,Entertainment,Card,Tablet,0
+T1794,1154,1682.64,21,Chennai,Food,Card,Tablet,0
+T1795,1165,7196.87,18,Nagpur,Electronics,UPI,Tablet,0
+T1796,1187,10963.4,20,Nagpur,Fashion,UPI,Mobile,0
+T1797,1006,821.87,2,Hyderabad,Travel,UPI,Mobile,0
+T1798,1132,1864.1,10,Mumbai,Entertainment,Card,Mobile,0
+T1799,1044,10559.54,10,Nagpur,Grocery,Card,Mobile,0
+T1800,1057,255.2,16,Pune,Electronics,UPI,Laptop,0
+T1801,1030,387.63,15,Pune,Travel,Card,Laptop,0
+T1802,1022,710.73,6,Mumbai,Travel,UPI,Mobile,0
+T1803,1169,3617.58,3,Delhi,Grocery,Net Banking,Mobile,0
+T1804,1137,652.3,22,Chennai,Grocery,Card,Tablet,0
+T1805,1159,13777.64,18,Delhi,Grocery,Card,Mobile,0
+T1806,1106,2367.52,11,Pune,Entertainment,UPI,Mobile,0
+T1807,1180,2784.75,14,Nagpur,Entertainment,Net Banking,Mobile,0
+T1808,1157,1132.95,10,Mumbai,Electronics,UPI,Mobile,0
+T1809,1038,2546.77,4,Delhi,Grocery,Net Banking,Mobile,0
+T1810,1158,4337.82,4,Delhi,Fashion,Card,Mobile,0
+T1811,1081,5564.06,14,Kolkata,Travel,Net Banking,Mobile,0
+T1812,1099,5607.55,17,Chennai,Grocery,Card,Tablet,0
+T1813,1001,3449.97,10,Bangalore,Travel,Card,Mobile,0
+T1814,1076,9388.65,11,Pune,Food,Net Banking,Mobile,0
+T1815,1011,6802.0,1,Nagpur,Food,Net Banking,Tablet,0
+T1816,1038,5659.57,19,Mumbai,Grocery,Card,Mobile,0
+T1817,1193,228.85,14,Delhi,Travel,Card,Mobile,0
+T1818,1012,27.61,19,Chennai,Food,Card,Laptop,0
+T1819,1045,955.3,3,Bangalore,Grocery,Card,Mobile,1
+T1820,1154,4356.91,21,Pune,Travel,Card,Laptop,0
+T1821,1112,2118.66,17,Pune,Grocery,Net Banking,Mobile,0
+T1822,1016,2059.38,5,Chennai,Entertainment,UPI,Mobile,0
+T1823,1103,8636.95,22,Kolkata,Travel,UPI,Mobile,0
+T1824,1097,9036.68,18,Mumbai,Food,UPI,Mobile,0
+T1825,1187,9595.29,10,Delhi,Grocery,UPI,Laptop,0
+T1826,1191,1506.8,23,Mumbai,Food,UPI,Mobile,0
+T1827,1087,4698.38,1,Chennai,Grocery,UPI,Tablet,0
+T1828,1108,1267.8,7,Chennai,Electronics,Card,Laptop,0
+T1829,1162,845.9,10,Mumbai,Food,UPI,Mobile,0
+T1830,1069,816.47,4,Hyderabad,Food,UPI,Laptop,0
+T1831,1157,1674.86,17,Bangalore,Fashion,UPI,Mobile,0
+T1832,1198,2248.18,22,Pune,Entertainment,Net Banking,Laptop,0
+T1833,1073,7110.22,17,Hyderabad,Food,Card,Laptop,0
+T1834,1062,510.84,13,Nagpur,Travel,UPI,Mobile,0
+T1835,1155,5310.98,21,Pune,Grocery,Card,Mobile,0
+T1836,1059,3032.49,9,Pune,Electronics,UPI,Mobile,0
+T1837,1078,1358.4,2,Bangalore,Travel,Card,Mobile,1
+T1838,1036,2715.55,8,Nagpur,Travel,Card,Mobile,0
+T1839,1021,1426.37,2,Delhi,Travel,Card,Mobile,1
+T1840,1195,3626.17,10,Nagpur,Travel,UPI,Mobile,0
+T1841,1147,2275.54,11,Delhi,Electronics,Card,Mobile,0
+T1842,1095,718.45,11,Kolkata,Fashion,Net Banking,Mobile,0
+T1843,1067,495.83,2,Kolkata,Entertainment,Card,Mobile,1
+T1844,1191,3164.77,20,Nagpur,Food,Net Banking,Mobile,0
+T1845,1016,9308.05,6,Mumbai,Travel,UPI,Laptop,0
+T1846,1011,1686.12,13,Chennai,Food,Card,Mobile,0
+T1847,1149,5282.03,23,Nagpur,Food,Card,Mobile,0
+T1848,1144,4299.52,10,Hyderabad,Travel,UPI,Mobile,0
+T1849,1137,10726.89,6,Hyderabad,Fashion,UPI,Laptop,0
+T1850,1117,6881.05,20,Bangalore,Food,UPI,Mobile,0
+T1851,1192,3344.43,9,Chennai,Grocery,Card,Tablet,0
+T1852,1021,4280.46,10,Chennai,Food,UPI,Tablet,0
+T1853,1119,9146.31,14,Delhi,Entertainment,Net Banking,Laptop,0
+T1854,1049,2040.1,18,Pune,Travel,Card,Tablet,0
+T1855,1013,1582.82,15,Bangalore,Electronics,Card,Mobile,0
+T1856,1191,43.48,21,Hyderabad,Food,Card,Mobile,0
+T1857,1174,7007.49,20,Hyderabad,Fashion,UPI,Laptop,0
+T1858,1028,6457.41,19,Kolkata,Grocery,UPI,Laptop,0
+T1859,1163,441.29,11,Delhi,Grocery,Card,Laptop,0
+T1860,1179,3440.18,17,Hyderabad,Electronics,Card,Laptop,0
+T1861,1124,2494.35,22,Hyderabad,Entertainment,Card,Tablet,0
+T1862,1006,505.47,12,Delhi,Electronics,Card,Mobile,0
+T1863,1028,15763.38,4,Hyderabad,Entertainment,Card,Laptop,1
+T1864,1138,966.74,3,Pune,Food,Net Banking,Laptop,0
+T1865,1032,278.4,13,Mumbai,Travel,UPI,Laptop,0
+T1866,1133,3613.97,7,Bangalore,Fashion,Card,Mobile,0
+T1867,1110,5370.9,8,Pune,Grocery,Net Banking,Laptop,0
+T1868,1078,131.93,18,Pune,Electronics,UPI,Tablet,0
+T1869,1159,4300.18,2,Mumbai,Fashion,UPI,Mobile,0
+T1870,1178,3039.64,4,Kolkata,Entertainment,Card,Mobile,0
+T1871,1057,435.98,20,Chennai,Travel,Card,Mobile,0
+T1872,1025,757.5,17,Bangalore,Grocery,Net Banking,Tablet,0
+T1873,1173,3357.08,0,Kolkata,Grocery,UPI,Mobile,0
+T1874,1028,1405.94,7,Kolkata,Entertainment,Card,Mobile,0
+T1875,1003,11142.91,18,Pune,Travel,UPI,Mobile,0
+T1876,1098,6831.3,16,Hyderabad,Grocery,Net Banking,Laptop,0
+T1877,1140,16433.91,16,Kolkata,Travel,Card,Mobile,0
+T1878,1038,1202.64,10,Mumbai,Grocery,UPI,Mobile,0
+T1879,1014,13989.55,1,Chennai,Food,Net Banking,Tablet,0
+T1880,1118,2257.14,5,Bangalore,Entertainment,Card,Laptop,0
+T1881,1028,1707.89,21,Nagpur,Travel,UPI,Mobile,0
+T1882,1156,206.65,13,Delhi,Fashion,UPI,Tablet,0
+T1883,1074,216.83,2,Hyderabad,Food,UPI,Laptop,0
+T1884,1115,4710.77,11,Mumbai,Fashion,Card,Mobile,0
+T1885,1031,2449.43,3,Delhi,Entertainment,Card,Mobile,1
+T1886,1129,1027.43,11,Chennai,Grocery,UPI,Mobile,0
+T1887,1174,3807.36,12,Chennai,Fashion,Card,Laptop,0
+T1888,1083,1166.0,1,Nagpur,Food,Card,Mobile,1
+T1889,1021,3447.51,1,Kolkata,Travel,Card,Mobile,1
+T1890,1026,1780.21,14,Pune,Electronics,Card,Laptop,0
+T1891,1194,6938.92,22,Pune,Fashion,Net Banking,Mobile,0
+T1892,1080,6874.69,16,Bangalore,Electronics,Card,Laptop,0
+T1893,1125,2595.38,6,Mumbai,Entertainment,Net Banking,Laptop,0
+T1894,1183,1728.18,13,Mumbai,Fashion,Card,Mobile,0
+T1895,1091,1801.18,11,Kolkata,Fashion,UPI,Laptop,0
+T1896,1020,6553.71,16,Chennai,Travel,Card,Mobile,0
+T1897,1046,1591.06,13,Bangalore,Grocery,UPI,Mobile,0
+T1898,1100,938.13,5,Kolkata,Food,UPI,Mobile,0
+T1899,1186,353.96,18,Delhi,Food,Card,Mobile,0
+T1900,1083,2514.63,23,Pune,Food,Net Banking,Tablet,0
+T1901,1005,2632.14,5,Pune,Entertainment,Card,Mobile,0
+T1902,1146,7353.11,17,Chennai,Grocery,UPI,Mobile,0
+T1903,1184,1000.2,23,Mumbai,Electronics,Net Banking,Tablet,0
+T1904,1196,1918.54,4,Chennai,Food,Net Banking,Mobile,0
+T1905,1130,6609.5,23,Kolkata,Electronics,Net Banking,Laptop,0
+T1906,1000,6940.54,23,Mumbai,Grocery,Card,Mobile,0
+T1907,1057,1942.0,5,Bangalore,Entertainment,Card,Laptop,0
+T1908,1123,2458.26,1,Kolkata,Grocery,Card,Mobile,1
+T1909,1165,1445.52,7,Nagpur,Travel,UPI,Mobile,0
+T1910,1014,10785.76,14,Delhi,Food,UPI,Mobile,0
+T1911,1161,505.17,14,Hyderabad,Entertainment,Card,Mobile,0
+T1912,1188,10857.24,10,Nagpur,Travel,UPI,Laptop,0
+T1913,1162,4606.36,21,Kolkata,Food,Card,Mobile,0
+T1914,1063,3033.49,21,Nagpur,Grocery,Card,Mobile,0
+T1915,1024,132.82,23,Mumbai,Grocery,UPI,Mobile,0
+T1916,1023,2581.97,0,Mumbai,Fashion,UPI,Laptop,0
+T1917,1011,2095.29,17,Mumbai,Fashion,UPI,Laptop,0
+T1918,1017,703.22,11,Nagpur,Grocery,Card,Mobile,0
+T1919,1014,4273.22,11,Chennai,Grocery,UPI,Mobile,0
+T1920,1026,14182.71,10,Delhi,Electronics,Card,Mobile,0
+T1921,1071,3303.87,7,Chennai,Electronics,Card,Mobile,0
+T1922,1059,5017.6,6,Mumbai,Travel,UPI,Mobile,0
+T1923,1173,283.62,22,Kolkata,Fashion,Net Banking,Mobile,0
+T1924,1144,2162.85,20,Kolkata,Fashion,Card,Mobile,0
+T1925,1092,494.82,1,Pune,Grocery,Card,Tablet,1
+T1926,1052,3795.21,10,Chennai,Grocery,UPI,Mobile,0
+T1927,1007,11153.71,21,Delhi,Travel,Card,Laptop,0
+T1928,1078,4336.21,9,Kolkata,Entertainment,UPI,Mobile,0
+T1929,1026,319.65,2,Pune,Entertainment,UPI,Tablet,0
+T1930,1173,1751.95,19,Delhi,Entertainment,Card,Mobile,0
+T1931,1049,3199.93,9,Mumbai,Fashion,UPI,Mobile,0
+T1932,1198,2064.74,17,Chennai,Electronics,UPI,Laptop,0
+T1933,1130,7174.5,13,Hyderabad,Entertainment,Card,Mobile,0
+T1934,1092,6742.49,17,Bangalore,Food,UPI,Mobile,0
+T1935,1191,3785.26,23,Mumbai,Travel,Card,Mobile,0
+T1936,1171,1870.16,7,Kolkata,Entertainment,UPI,Laptop,0
+T1937,1180,1179.29,9,Nagpur,Food,Card,Mobile,0
+T1938,1023,447.64,21,Hyderabad,Entertainment,UPI,Laptop,0
+T1939,1059,1753.39,12,Nagpur,Electronics,Card,Mobile,0
+T1940,1121,2132.1,20,Delhi,Electronics,Card,Mobile,0
+T1941,1130,4505.86,7,Nagpur,Entertainment,UPI,Mobile,0
+T1942,1147,4293.65,3,Hyderabad,Food,Card,Mobile,1
+T1943,1045,290.75,3,Hyderabad,Travel,Card,Mobile,1
+T1944,1014,2011.82,4,Mumbai,Food,Card,Laptop,0
+T1945,1152,802.49,0,Pune,Travel,Card,Mobile,1
+T1946,1198,682.26,16,Mumbai,Entertainment,Net Banking,Mobile,0
+T1947,1016,7024.85,1,Delhi,Travel,UPI,Laptop,0
+T1948,1125,171.28,7,Kolkata,Grocery,Card,Laptop,0
+T1949,1083,2173.28,6,Nagpur,Fashion,UPI,Laptop,0
+T1950,1008,736.67,14,Pune,Fashion,UPI,Laptop,0
+T1951,1165,8458.79,4,Chennai,Electronics,Net Banking,Mobile,0
+T1952,1175,3257.11,1,Bangalore,Grocery,Card,Laptop,1
+T1953,1187,1052.64,6,Hyderabad,Fashion,UPI,Mobile,0
+T1954,1062,2792.05,7,Pune,Entertainment,UPI,Mobile,0
+T1955,1116,5259.41,6,Kolkata,Travel,UPI,Laptop,0
+T1956,1129,12691.6,6,Chennai,Travel,UPI,Tablet,0
+T1957,1087,996.13,13,Pune,Food,Card,Laptop,0
+T1958,1071,8692.61,20,Mumbai,Food,UPI,Mobile,0
+T1959,1138,10890.88,17,Chennai,Travel,UPI,Mobile,0
+T1960,1063,9927.83,5,Bangalore,Entertainment,Net Banking,Mobile,0
+T1961,1071,4035.98,3,Kolkata,Travel,Card,Laptop,1
+T1962,1020,3975.07,9,Hyderabad,Food,UPI,Mobile,0
+T1963,1017,2064.76,17,Kolkata,Fashion,Net Banking,Laptop,0
+T1964,1063,5583.73,11,Delhi,Electronics,UPI,Mobile,0
+T1965,1081,3031.12,15,Delhi,Food,Net Banking,Laptop,0
+T1966,1109,4525.84,6,Pune,Entertainment,UPI,Tablet,0
+T1967,1094,2237.67,5,Chennai,Fashion,Card,Mobile,0
+T1968,1165,5259.56,4,Pune,Fashion,UPI,Mobile,0
+T1969,1031,6959.82,2,Nagpur,Fashion,Card,Laptop,1
+T1970,1010,633.34,11,Bangalore,Grocery,UPI,Mobile,0
+T1971,1044,7157.36,14,Hyderabad,Grocery,Card,Laptop,0
+T1972,1032,3108.69,9,Pune,Fashion,UPI,Mobile,0
+T1973,1101,7448.71,19,Nagpur,Entertainment,UPI,Mobile,0
+T1974,1168,2257.62,18,Chennai,Travel,Card,Laptop,0
+T1975,1135,1905.96,15,Bangalore,Entertainment,Card,Mobile,0
+T1976,1010,9863.28,10,Hyderabad,Grocery,Net Banking,Tablet,0
+T1977,1178,1156.97,7,Delhi,Food,Card,Mobile,0
+T1978,1087,7437.05,2,Nagpur,Grocery,Card,Laptop,1
+T1979,1040,2646.75,22,Chennai,Travel,Card,Mobile,0
+T1980,1144,2886.97,6,Bangalore,Electronics,Net Banking,Mobile,0
+T1981,1075,1475.39,22,Nagpur,Grocery,Net Banking,Mobile,0
+T1982,1120,3404.28,6,Pune,Entertainment,UPI,Laptop,0
+T1983,1045,1573.42,13,Mumbai,Entertainment,Net Banking,Mobile,0
+T1984,1159,160.25,1,Delhi,Fashion,Card,Laptop,1
+T1985,1079,1269.81,9,Pune,Fashion,Net Banking,Mobile,0
+T1986,1053,25.6,18,Pune,Fashion,Card,Laptop,0
+T1987,1085,15331.88,8,Chennai,Electronics,Card,Laptop,1
+T1988,1091,13495.95,15,Chennai,Travel,Card,Mobile,0
+T1989,1147,2011.13,18,Bangalore,Food,UPI,Mobile,0
+T1990,1160,5213.27,17,Chennai,Entertainment,UPI,Mobile,0
+T1991,1167,1697.41,8,Nagpur,Entertainment,Card,Mobile,0
+T1992,1159,4447.92,15,Delhi,Travel,Net Banking,Mobile,0
+T1993,1096,6547.85,12,Pune,Electronics,Card,Laptop,0
+T1994,1001,11731.5,9,Bangalore,Fashion,Card,Mobile,0
+T1995,1032,2044.72,19,Kolkata,Travel,UPI,Laptop,0
+T1996,1157,6116.93,13,Kolkata,Food,UPI,Tablet,0
+T1997,1160,1236.6,11,Delhi,Fashion,UPI,Mobile,0
+T1998,1076,18555.86,18,Chennai,Food,UPI,Mobile,0
+T1999,1115,104.43,6,Chennai,Grocery,UPI,Mobile,0
+T2000,1153,3700.61,22,Nagpur,Food,Card,Laptop,0
+T2001,1149,4309.43,14,Chennai,Fashion,UPI,Mobile,0
+T2002,1102,4659.59,15,Kolkata,Grocery,Net Banking,Mobile,0
+T2003,1193,513.1,7,Pune,Fashion,Card,Tablet,0
+T2004,1165,11156.81,9,Kolkata,Entertainment,Net Banking,Mobile,0
+T2005,1102,799.58,3,Hyderabad,Fashion,UPI,Laptop,0
+T2006,1089,3899.42,18,Pune,Grocery,Card,Mobile,0
+T2007,1173,1007.59,18,Pune,Food,Net Banking,Mobile,0
+T2008,1121,1468.15,20,Chennai,Entertainment,UPI,Laptop,0
+T2009,1142,3162.67,14,Delhi,Electronics,Card,Mobile,0
+T2010,1105,2159.6,13,Chennai,Electronics,Card,Laptop,0
+T2011,1118,698.49,0,Delhi,Electronics,Card,Mobile,1
+T2012,1171,749.83,15,Delhi,Electronics,UPI,Laptop,0
+T2013,1048,2166.13,9,Kolkata,Travel,UPI,Mobile,0
+T2014,1103,5663.44,18,Delhi,Electronics,Net Banking,Mobile,0
+T2015,1060,9129.74,21,Bangalore,Grocery,Card,Mobile,0
+T2016,1194,351.51,2,Mumbai,Electronics,Card,Mobile,1
+T2017,1122,1997.59,4,Chennai,Fashion,Card,Mobile,0
+T2018,1133,422.53,8,Bangalore,Electronics,UPI,Mobile,0
+T2019,1008,66.93,17,Pune,Food,Net Banking,Mobile,0
+T2020,1005,4335.51,10,Bangalore,Grocery,UPI,Mobile,0
+T2021,1072,3689.73,15,Nagpur,Grocery,Card,Mobile,0
+T2022,1102,711.82,1,Hyderabad,Entertainment,Net Banking,Mobile,0
+T2023,1159,1065.32,11,Delhi,Travel,UPI,Mobile,0
+T2024,1040,95.97,21,Chennai,Fashion,Card,Tablet,0
+T2025,1113,7205.96,5,Nagpur,Grocery,UPI,Mobile,0
+T2026,1007,14706.32,10,Chennai,Food,Card,Mobile,0
+T2027,1071,582.23,7,Kolkata,Electronics,Card,Mobile,0
+T2028,1177,1053.13,11,Hyderabad,Grocery,Card,Laptop,0
+T2029,1091,8112.24,1,Nagpur,Food,UPI,Mobile,0
+T2030,1061,10439.91,8,Chennai,Electronics,Card,Laptop,0
+T2031,1083,2176.34,14,Pune,Travel,Card,Mobile,0
+T2032,1061,207.79,1,Delhi,Grocery,Card,Mobile,1
+T2033,1110,160.75,0,Nagpur,Grocery,UPI,Laptop,0
+T2034,1126,3412.79,9,Pune,Food,Net Banking,Mobile,0
+T2035,1006,1996.21,1,Delhi,Entertainment,UPI,Mobile,0
+T2036,1083,116.28,11,Mumbai,Fashion,Card,Laptop,0
+T2037,1131,3501.1,22,Pune,Travel,Card,Mobile,0
+T2038,1133,45.47,7,Bangalore,Fashion,Card,Laptop,0
+T2039,1057,6192.84,4,Chennai,Grocery,Card,Mobile,0
+T2040,1021,1463.63,21,Kolkata,Fashion,UPI,Laptop,0
+T2041,1153,164.36,0,Delhi,Electronics,UPI,Laptop,0
+T2042,1126,3550.35,14,Nagpur,Travel,UPI,Mobile,0
+T2043,1002,2027.89,5,Hyderabad,Fashion,UPI,Laptop,0
+T2044,1126,14568.05,11,Nagpur,Electronics,Card,Mobile,0
+T2045,1040,3142.79,7,Bangalore,Food,Card,Mobile,0
+T2046,1187,1287.65,12,Chennai,Fashion,UPI,Mobile,0
+T2047,1105,4943.77,18,Bangalore,Travel,Card,Mobile,0
+T2048,1013,1267.03,0,Nagpur,Electronics,Card,Laptop,1
+T2049,1011,9383.78,10,Kolkata,Fashion,Card,Mobile,0
+T2050,1086,1878.24,19,Chennai,Food,Card,Tablet,0
+T2051,1011,3192.86,0,Hyderabad,Fashion,Card,Mobile,1
+T2052,1140,207.59,7,Delhi,Electronics,UPI,Mobile,0
+T2053,1024,2221.35,4,Chennai,Fashion,Net Banking,Mobile,0
+T2054,1044,7143.83,16,Pune,Travel,Card,Mobile,0
+T2055,1121,6552.35,7,Chennai,Grocery,Card,Laptop,0
+T2056,1146,1016.05,9,Bangalore,Electronics,UPI,Laptop,0
+T2057,1054,1025.14,1,Bangalore,Electronics,Card,Laptop,1
+T2058,1099,6799.76,8,Bangalore,Electronics,Card,Laptop,0
+T2059,1172,10659.87,23,Hyderabad,Electronics,Card,Mobile,0
+T2060,1135,400.88,22,Chennai,Fashion,Card,Mobile,0
+T2061,1118,2391.77,2,Kolkata,Travel,UPI,Laptop,0
+T2062,1052,1646.66,17,Kolkata,Food,UPI,Mobile,0
+T2063,1182,8182.12,6,Chennai,Travel,Card,Mobile,0
+T2064,1031,348.88,14,Kolkata,Electronics,Card,Mobile,0
+T2065,1050,948.59,20,Mumbai,Entertainment,Card,Mobile,0
+T2066,1043,5584.87,21,Hyderabad,Fashion,Card,Mobile,0
+T2067,1081,210.62,19,Delhi,Entertainment,Net Banking,Laptop,0
+T2068,1197,2713.31,17,Delhi,Fashion,UPI,Mobile,0
+T2069,1145,2334.35,2,Delhi,Electronics,UPI,Mobile,0
+T2070,1149,1628.27,22,Delhi,Fashion,UPI,Mobile,0
+T2071,1036,2007.28,13,Delhi,Electronics,UPI,Laptop,0
+T2072,1095,3019.58,23,Kolkata,Travel,UPI,Tablet,0
+T2073,1055,703.93,1,Nagpur,Grocery,Card,Laptop,1
+T2074,1104,3394.49,13,Bangalore,Fashion,Card,Mobile,0
+T2075,1058,6547.9,21,Hyderabad,Electronics,UPI,Tablet,0
+T2076,1130,5711.15,10,Nagpur,Entertainment,Card,Laptop,0
+T2077,1155,668.47,15,Hyderabad,Electronics,Net Banking,Laptop,0
+T2078,1034,646.55,7,Mumbai,Entertainment,UPI,Laptop,0
+T2079,1188,1248.85,6,Chennai,Fashion,Net Banking,Mobile,0
+T2080,1092,1791.87,10,Pune,Food,Card,Mobile,0
+T2081,1181,2100.07,2,Bangalore,Entertainment,Net Banking,Mobile,0
+T2082,1190,4553.95,16,Mumbai,Electronics,Card,Mobile,0
+T2083,1096,233.4,13,Nagpur,Fashion,Net Banking,Laptop,0
+T2084,1134,141.15,5,Pune,Electronics,Card,Laptop,0
+T2085,1075,1989.73,7,Chennai,Food,UPI,Laptop,0
+T2086,1048,4778.25,21,Mumbai,Grocery,UPI,Mobile,0
+T2087,1093,859.88,4,Chennai,Food,Card,Mobile,0
+T2088,1158,4103.36,7,Chennai,Travel,UPI,Mobile,0
+T2089,1185,1203.49,1,Kolkata,Fashion,Net Banking,Mobile,0
+T2090,1188,8689.25,14,Hyderabad,Food,Card,Mobile,0
+T2091,1023,9041.55,11,Pune,Grocery,UPI,Mobile,0
+T2092,1147,1411.23,16,Hyderabad,Electronics,Card,Mobile,0
+T2093,1036,1045.43,0,Chennai,Fashion,UPI,Tablet,0
+T2094,1003,2119.38,14,Kolkata,Entertainment,UPI,Mobile,0
+T2095,1107,1100.55,13,Mumbai,Food,Card,Laptop,0
+T2096,1125,4463.65,19,Chennai,Grocery,Card,Mobile,0
+T2097,1019,6996.29,21,Nagpur,Food,UPI,Mobile,0
+T2098,1187,4472.31,15,Chennai,Travel,Card,Laptop,0
+T2099,1151,6957.06,8,Hyderabad,Fashion,Card,Laptop,0
+T2100,1049,2023.3,0,Pune,Electronics,UPI,Mobile,0
+T2101,1176,679.91,16,Mumbai,Grocery,Card,Mobile,0
+T2102,1178,5356.89,12,Hyderabad,Food,Card,Mobile,0
+T2103,1095,1788.12,20,Chennai,Fashion,UPI,Laptop,0
+T2104,1104,4450.08,20,Nagpur,Food,Card,Tablet,0
+T2105,1163,1262.37,4,Bangalore,Fashion,Card,Mobile,0
+T2106,1116,338.88,9,Kolkata,Travel,Card,Mobile,0
+T2107,1097,19615.27,5,Nagpur,Food,UPI,Tablet,0
+T2108,1065,679.37,23,Chennai,Travel,UPI,Mobile,0
+T2109,1078,17834.25,18,Nagpur,Entertainment,UPI,Laptop,1
+T2110,1161,15138.03,12,Kolkata,Entertainment,Card,Mobile,0
+T2111,1163,6315.99,0,Bangalore,Grocery,Card,Mobile,1
+T2112,1005,4308.46,19,Nagpur,Travel,Card,Mobile,0
+T2113,1038,3449.17,14,Bangalore,Fashion,Card,Mobile,0
+T2114,1169,8042.69,13,Chennai,Grocery,Net Banking,Mobile,0
+T2115,1114,1366.8,7,Bangalore,Food,Card,Laptop,0
+T2116,1185,2522.05,9,Hyderabad,Food,Card,Laptop,0
+T2117,1124,3863.92,8,Hyderabad,Fashion,Card,Laptop,0
+T2118,1011,2118.61,16,Bangalore,Electronics,UPI,Mobile,0
+T2119,1130,2230.88,8,Mumbai,Electronics,UPI,Mobile,0
+T2120,1017,1603.61,2,Pune,Food,UPI,Mobile,0
+T2121,1039,3322.58,10,Mumbai,Fashion,Net Banking,Laptop,0
+T2122,1020,7603.83,11,Bangalore,Electronics,UPI,Mobile,0
+T2123,1142,900.22,9,Pune,Travel,Card,Mobile,0
+T2124,1098,10898.73,16,Hyderabad,Food,Card,Mobile,0
+T2125,1025,4672.98,16,Pune,Entertainment,UPI,Mobile,0
+T2126,1007,6932.6,10,Bangalore,Travel,UPI,Mobile,0
+T2127,1099,3249.44,21,Hyderabad,Fashion,UPI,Laptop,0
+T2128,1086,6047.73,3,Pune,Entertainment,UPI,Tablet,0
+T2129,1041,65.33,6,Pune,Travel,UPI,Laptop,0
+T2130,1171,6823.36,20,Mumbai,Electronics,Net Banking,Tablet,0
+T2131,1013,163.87,13,Pune,Electronics,UPI,Tablet,0
+T2132,1077,8825.95,6,Chennai,Entertainment,UPI,Mobile,0
+T2133,1001,19294.67,23,Bangalore,Grocery,Card,Mobile,0
+T2134,1118,1392.94,7,Delhi,Food,UPI,Laptop,0
+T2135,1036,944.5,0,Delhi,Entertainment,Net Banking,Mobile,0
+T2136,1068,5798.87,23,Delhi,Fashion,Card,Mobile,0
+T2137,1165,1166.9,21,Bangalore,Food,UPI,Mobile,0
+T2138,1040,8026.62,3,Delhi,Travel,UPI,Mobile,0
+T2139,1061,434.1,11,Mumbai,Fashion,Card,Mobile,0
+T2140,1059,538.49,23,Bangalore,Fashion,UPI,Mobile,0
+T2141,1124,15481.9,2,Chennai,Electronics,Card,Mobile,1
+T2142,1110,4481.46,12,Hyderabad,Travel,Net Banking,Laptop,0
+T2143,1013,7506.32,19,Chennai,Electronics,UPI,Mobile,0
+T2144,1083,1568.2,5,Bangalore,Electronics,Card,Laptop,0
+T2145,1129,4514.02,10,Bangalore,Grocery,Card,Mobile,0
+T2146,1069,3607.99,22,Pune,Electronics,UPI,Mobile,0
+T2147,1144,3696.79,3,Pune,Food,Card,Mobile,1
+T2148,1122,4589.52,19,Pune,Fashion,Card,Mobile,0
+T2149,1088,3426.05,15,Kolkata,Electronics,UPI,Laptop,0
+T2150,1027,2241.9,6,Kolkata,Entertainment,Card,Laptop,0
+T2151,1065,1291.43,21,Nagpur,Food,Card,Laptop,0
+T2152,1162,5854.11,10,Kolkata,Travel,UPI,Tablet,0
+T2153,1004,1026.14,23,Mumbai,Fashion,Net Banking,Mobile,0
+T2154,1192,4715.23,0,Bangalore,Entertainment,UPI,Mobile,0
+T2155,1167,1062.81,6,Chennai,Entertainment,UPI,Mobile,0
+T2156,1183,3926.84,11,Bangalore,Travel,Card,Mobile,0
+T2157,1163,5498.7,6,Pune,Entertainment,Card,Mobile,0
+T2158,1044,987.26,22,Bangalore,Food,Card,Mobile,0
+T2159,1150,247.26,6,Hyderabad,Travel,UPI,Mobile,0
+T2160,1046,561.53,9,Kolkata,Entertainment,Net Banking,Mobile,0
+T2161,1030,3725.59,15,Bangalore,Travel,UPI,Mobile,0
+T2162,1138,7573.74,7,Chennai,Travel,Net Banking,Laptop,0
+T2163,1009,184.16,8,Delhi,Electronics,UPI,Mobile,0
+T2164,1194,5299.31,8,Hyderabad,Electronics,Card,Laptop,0
+T2165,1117,1670.06,1,Hyderabad,Electronics,Card,Laptop,1
+T2166,1013,2604.4,12,Bangalore,Entertainment,Card,Mobile,0
+T2167,1079,10572.4,12,Nagpur,Fashion,Card,Mobile,0
+T2168,1092,1613.7,22,Pune,Food,UPI,Mobile,0
+T2169,1009,2504.47,22,Mumbai,Entertainment,Card,Laptop,0
+T2170,1075,55.11,3,Mumbai,Electronics,UPI,Laptop,0
+T2171,1093,340.48,23,Delhi,Travel,UPI,Mobile,0
+T2172,1104,1196.81,11,Mumbai,Entertainment,Card,Mobile,0
+T2173,1000,112.99,16,Mumbai,Travel,UPI,Tablet,0
+T2174,1132,3991.91,1,Pune,Travel,UPI,Mobile,0
+T2175,1019,2223.28,12,Kolkata,Travel,Card,Laptop,0
+T2176,1007,3177.58,17,Pune,Grocery,UPI,Mobile,0
+T2177,1170,767.78,14,Nagpur,Fashion,UPI,Mobile,0
+T2178,1000,1403.52,7,Chennai,Food,UPI,Laptop,0
+T2179,1056,4360.49,14,Delhi,Food,Net Banking,Laptop,0
+T2180,1063,13444.38,0,Mumbai,Electronics,Net Banking,Laptop,0
+T2181,1117,206.93,19,Nagpur,Grocery,Net Banking,Mobile,0
+T2182,1027,8843.1,9,Delhi,Entertainment,Card,Mobile,0
+T2183,1120,3440.41,11,Hyderabad,Entertainment,Card,Laptop,0
+T2184,1106,3319.71,4,Mumbai,Food,Card,Mobile,0
+T2185,1164,2774.82,8,Mumbai,Fashion,Card,Mobile,0
+T2186,1174,287.68,22,Pune,Travel,Net Banking,Laptop,0
+T2187,1164,376.7,7,Bangalore,Electronics,UPI,Mobile,0
+T2188,1048,3674.29,15,Delhi,Fashion,Card,Mobile,0
+T2189,1119,1667.88,13,Mumbai,Food,Card,Laptop,0
+T2190,1043,9968.6,12,Kolkata,Grocery,Card,Tablet,0
+T2191,1055,2087.48,22,Delhi,Electronics,UPI,Mobile,0
+T2192,1155,618.58,20,Chennai,Food,UPI,Mobile,0
+T2193,1110,5017.12,12,Kolkata,Entertainment,Net Banking,Laptop,0
+T2194,1133,1388.9,4,Nagpur,Electronics,Net Banking,Laptop,0
+T2195,1107,2981.72,15,Kolkata,Food,Card,Laptop,0
+T2196,1188,4787.1,10,Nagpur,Entertainment,Card,Mobile,0
+T2197,1147,9220.92,21,Bangalore,Entertainment,Card,Mobile,0
+T2198,1113,6284.55,4,Mumbai,Travel,Card,Mobile,0
+T2199,1077,4512.51,12,Kolkata,Grocery,Net Banking,Laptop,0
+T2200,1129,4553.15,10,Chennai,Travel,UPI,Laptop,0
+T2201,1036,11669.51,18,Pune,Food,UPI,Mobile,0
+T2202,1019,1402.91,2,Mumbai,Fashion,UPI,Mobile,0
+T2203,1025,4.45,14,Delhi,Travel,Card,Mobile,0
+T2204,1028,1269.57,6,Hyderabad,Fashion,Card,Tablet,0
+T2205,1000,983.05,6,Nagpur,Entertainment,UPI,Laptop,0
+T2206,1118,4336.88,5,Delhi,Food,UPI,Mobile,0
+T2207,1034,4017.34,2,Bangalore,Grocery,Card,Mobile,1
+T2208,1197,3600.31,12,Nagpur,Fashion,UPI,Mobile,0
+T2209,1058,65.51,6,Pune,Food,UPI,Mobile,0
+T2210,1068,5219.27,4,Nagpur,Fashion,Card,Laptop,0
+T2211,1160,1563.47,22,Hyderabad,Travel,UPI,Laptop,0
+T2212,1178,4375.17,17,Kolkata,Food,Card,Mobile,0
+T2213,1011,3252.94,21,Chennai,Travel,UPI,Mobile,0
+T2214,1019,1678.65,7,Kolkata,Electronics,UPI,Laptop,0
+T2215,1180,578.14,16,Mumbai,Food,Net Banking,Mobile,0
+T2216,1042,396.71,19,Hyderabad,Fashion,Card,Mobile,0
+T2217,1125,7123.71,0,Chennai,Electronics,Card,Tablet,1
+T2218,1049,10023.58,13,Hyderabad,Travel,Card,Laptop,0
+T2219,1028,4196.87,16,Mumbai,Travel,Card,Laptop,0
+T2220,1184,436.73,9,Nagpur,Fashion,UPI,Mobile,0
+T2221,1038,2056.84,11,Bangalore,Electronics,Net Banking,Mobile,0
+T2222,1183,5221.65,15,Mumbai,Entertainment,Card,Mobile,0
+T2223,1170,6053.26,13,Mumbai,Grocery,Card,Mobile,0
+T2224,1177,503.24,15,Chennai,Fashion,Card,Laptop,0
+T2225,1150,0.12,7,Pune,Travel,UPI,Mobile,0
+T2226,1171,4981.08,22,Kolkata,Food,Card,Laptop,0
+T2227,1037,1763.93,9,Nagpur,Electronics,Card,Mobile,0
+T2228,1083,1174.7,16,Mumbai,Entertainment,UPI,Mobile,0
+T2229,1150,51.93,17,Bangalore,Grocery,Card,Tablet,0
+T2230,1127,3108.72,19,Delhi,Food,UPI,Mobile,0
+T2231,1125,7619.28,15,Nagpur,Electronics,UPI,Mobile,0
+T2232,1044,12645.41,16,Pune,Entertainment,Card,Mobile,0
+T2233,1051,3336.49,15,Hyderabad,Fashion,UPI,Mobile,0
+T2234,1079,2889.99,18,Mumbai,Entertainment,UPI,Mobile,0
+T2235,1177,355.57,23,Bangalore,Fashion,UPI,Mobile,0
+T2236,1123,3184.02,23,Nagpur,Electronics,Card,Laptop,0
+T2237,1118,1912.01,7,Bangalore,Entertainment,Card,Laptop,0
+T2238,1007,3737.16,5,Bangalore,Grocery,UPI,Mobile,0
+T2239,1084,1968.84,5,Kolkata,Entertainment,UPI,Mobile,0
+T2240,1128,1099.32,20,Chennai,Electronics,Card,Mobile,0
+T2241,1007,399.13,8,Hyderabad,Food,Card,Mobile,0
+T2242,1156,1512.87,3,Pune,Food,Card,Mobile,1
+T2243,1095,406.56,11,Kolkata,Entertainment,Card,Laptop,0
+T2244,1101,778.7,11,Nagpur,Entertainment,UPI,Mobile,0
+T2245,1004,17476.02,22,Mumbai,Fashion,Card,Laptop,1
+T2246,1085,2348.69,16,Pune,Electronics,Card,Tablet,0
+T2247,1174,3036.05,14,Mumbai,Fashion,UPI,Laptop,0
+T2248,1033,8273.8,8,Delhi,Grocery,Card,Mobile,0
+T2249,1192,21676.43,6,Bangalore,Food,UPI,Mobile,1
+T2250,1054,3495.94,9,Delhi,Travel,UPI,Tablet,0
+T2251,1118,6695.35,15,Chennai,Travel,Card,Mobile,0
+T2252,1170,1583.69,11,Bangalore,Electronics,UPI,Laptop,0
+T2253,1157,1459.66,6,Hyderabad,Electronics,UPI,Mobile,0
+T2254,1113,2061.37,17,Pune,Travel,Card,Mobile,0
+T2255,1144,4465.16,14,Mumbai,Electronics,Card,Laptop,0
+T2256,1025,4585.23,5,Kolkata,Food,UPI,Laptop,0
+T2257,1135,1514.74,11,Chennai,Grocery,Net Banking,Laptop,0
+T2258,1046,571.83,10,Hyderabad,Grocery,UPI,Tablet,0
+T2259,1112,4003.0,19,Mumbai,Fashion,Card,Mobile,0
+T2260,1075,549.36,2,Pune,Food,UPI,Mobile,0
+T2261,1071,3455.67,1,Nagpur,Electronics,Card,Tablet,1
+T2262,1088,4729.13,5,Chennai,Electronics,UPI,Mobile,0
+T2263,1045,4824.05,23,Delhi,Fashion,UPI,Laptop,0
+T2264,1195,5601.12,21,Delhi,Fashion,UPI,Mobile,0
+T2265,1032,8249.85,4,Kolkata,Electronics,UPI,Mobile,0
+T2266,1000,2772.26,17,Mumbai,Electronics,UPI,Mobile,0
+T2267,1146,5241.03,15,Mumbai,Food,UPI,Mobile,0
+T2268,1030,3861.64,7,Mumbai,Fashion,Card,Laptop,0
+T2269,1141,826.33,19,Chennai,Food,UPI,Laptop,0
+T2270,1052,104.1,21,Pune,Entertainment,Net Banking,Mobile,0
+T2271,1047,1339.33,10,Nagpur,Electronics,Card,Mobile,0
+T2272,1068,2341.0,9,Delhi,Travel,UPI,Mobile,0
+T2273,1104,3839.99,23,Hyderabad,Travel,Card,Mobile,0
+T2274,1089,7587.4,11,Bangalore,Entertainment,UPI,Mobile,0
+T2275,1189,873.85,20,Chennai,Electronics,UPI,Mobile,0
+T2276,1193,536.64,5,Chennai,Fashion,Card,Mobile,0
+T2277,1191,13239.58,19,Pune,Travel,Net Banking,Mobile,0
+T2278,1197,457.36,4,Delhi,Fashion,Card,Mobile,0
+T2279,1062,2604.12,22,Kolkata,Travel,UPI,Mobile,0
+T2280,1072,3523.34,8,Nagpur,Fashion,UPI,Mobile,0
+T2281,1160,3118.08,15,Pune,Travel,Card,Mobile,0
+T2282,1168,359.84,21,Hyderabad,Fashion,Card,Mobile,0
+T2283,1088,234.87,13,Delhi,Entertainment,Card,Tablet,0
+T2284,1175,445.89,21,Pune,Food,UPI,Mobile,0
+T2285,1012,3523.58,7,Delhi,Fashion,UPI,Laptop,0
+T2286,1072,3144.08,19,Delhi,Food,Card,Mobile,0
+T2287,1076,1064.94,18,Kolkata,Food,Card,Laptop,0
+T2288,1158,4061.95,13,Chennai,Electronics,Card,Mobile,0
+T2289,1067,6860.69,6,Nagpur,Entertainment,UPI,Laptop,0
+T2290,1097,169.87,4,Chennai,Food,UPI,Mobile,0
+T2291,1124,2757.66,17,Bangalore,Grocery,Card,Laptop,0
+T2292,1101,4675.84,1,Nagpur,Food,UPI,Mobile,0
+T2293,1131,1163.08,10,Delhi,Fashion,Card,Mobile,0
+T2294,1101,1471.35,21,Pune,Food,Net Banking,Laptop,0
+T2295,1018,3803.92,7,Hyderabad,Fashion,Net Banking,Mobile,0
+T2296,1197,9128.59,0,Kolkata,Fashion,UPI,Tablet,0
+T2297,1081,6641.33,21,Nagpur,Grocery,Net Banking,Mobile,0
+T2298,1140,3499.93,11,Bangalore,Food,UPI,Mobile,0
+T2299,1022,5240.62,1,Delhi,Food,UPI,Laptop,0
+T2300,1082,1815.4,17,Hyderabad,Travel,UPI,Mobile,0
+T2301,1108,4097.35,6,Nagpur,Travel,Card,Mobile,0
+T2302,1074,2510.8,16,Chennai,Electronics,Card,Laptop,0
+T2303,1128,842.57,21,Chennai,Fashion,Card,Laptop,0
+T2304,1087,4839.14,22,Nagpur,Grocery,UPI,Tablet,0
+T2305,1053,3251.91,13,Nagpur,Travel,Card,Mobile,0
+T2306,1198,1776.54,23,Nagpur,Food,Card,Mobile,0
+T2307,1088,9691.75,6,Hyderabad,Electronics,UPI,Mobile,0
+T2308,1142,84.63,21,Chennai,Grocery,Card,Mobile,0
+T2309,1064,1517.86,2,Pune,Entertainment,UPI,Laptop,0
+T2310,1075,234.25,5,Bangalore,Food,Net Banking,Mobile,0
+T2311,1198,5818.76,19,Bangalore,Food,UPI,Mobile,0
+T2312,1142,4844.09,1,Kolkata,Entertainment,UPI,Mobile,0
+T2313,1148,1609.99,16,Delhi,Fashion,UPI,Laptop,0
+T2314,1146,4503.89,11,Mumbai,Fashion,UPI,Tablet,0
+T2315,1059,2016.31,11,Pune,Travel,Card,Laptop,0
+T2316,1092,5646.51,16,Chennai,Travel,Net Banking,Mobile,0
+T2317,1160,2421.89,9,Delhi,Food,Card,Laptop,0
+T2318,1048,2126.02,2,Kolkata,Food,Card,Mobile,1
+T2319,1034,10916.89,19,Delhi,Travel,UPI,Mobile,0
+T2320,1171,1155.42,17,Nagpur,Entertainment,Card,Mobile,0
+T2321,1101,513.37,12,Mumbai,Travel,Card,Mobile,0
+T2322,1010,3513.51,11,Chennai,Food,Card,Mobile,0
+T2323,1098,13936.81,16,Mumbai,Grocery,Card,Laptop,0
+T2324,1199,1898.23,3,Pune,Food,Card,Mobile,1
+T2325,1109,256.18,22,Mumbai,Grocery,Card,Mobile,0
+T2326,1073,1657.85,9,Delhi,Grocery,UPI,Tablet,0
+T2327,1193,2820.33,10,Mumbai,Food,UPI,Laptop,0
+T2328,1173,706.58,5,Mumbai,Electronics,Card,Laptop,0
+T2329,1008,4292.97,5,Bangalore,Travel,Net Banking,Mobile,0
+T2330,1002,24386.21,8,Chennai,Fashion,Card,Mobile,1
+T2331,1084,2404.02,14,Chennai,Food,Card,Mobile,0
+T2332,1025,1752.34,1,Delhi,Grocery,Card,Mobile,1
+T2333,1071,2048.0,3,Hyderabad,Food,UPI,Mobile,0
+T2334,1047,489.33,4,Mumbai,Travel,Card,Mobile,0
+T2335,1193,8591.69,16,Mumbai,Entertainment,UPI,Mobile,0
+T2336,1197,2143.38,7,Nagpur,Grocery,UPI,Mobile,0
+T2337,1155,1959.35,7,Chennai,Fashion,UPI,Mobile,0
+T2338,1116,4311.6,21,Mumbai,Fashion,UPI,Mobile,0
+T2339,1153,2333.82,11,Chennai,Fashion,Net Banking,Mobile,0
+T2340,1152,4179.15,20,Mumbai,Entertainment,Card,Mobile,0
+T2341,1011,253.66,7,Bangalore,Electronics,Card,Mobile,0
+T2342,1132,6722.09,18,Delhi,Grocery,UPI,Mobile,0
+T2343,1047,11287.38,2,Chennai,Entertainment,UPI,Mobile,0
+T2344,1036,4185.2,17,Pune,Grocery,Card,Mobile,0
+T2345,1043,12365.97,20,Delhi,Entertainment,Card,Laptop,0
+T2346,1014,656.82,18,Nagpur,Entertainment,UPI,Tablet,0
+T2347,1042,2595.88,18,Delhi,Electronics,Card,Mobile,0
+T2348,1175,3683.27,14,Mumbai,Grocery,Card,Tablet,0
+T2349,1086,3486.58,5,Nagpur,Entertainment,Net Banking,Mobile,0
+T2350,1069,2053.06,15,Delhi,Electronics,UPI,Mobile,0
+T2351,1045,1650.47,7,Kolkata,Food,UPI,Tablet,0
+T2352,1107,542.47,15,Nagpur,Travel,UPI,Mobile,0
+T2353,1122,1988.63,17,Kolkata,Entertainment,Net Banking,Laptop,0
+T2354,1170,710.1,19,Pune,Fashion,Card,Mobile,0
+T2355,1020,5302.54,15,Delhi,Electronics,Card,Mobile,0
+T2356,1150,936.97,10,Chennai,Electronics,UPI,Mobile,0
+T2357,1106,241.4,6,Chennai,Entertainment,UPI,Mobile,0
+T2358,1079,3215.12,16,Hyderabad,Electronics,Card,Mobile,0
+T2359,1046,3617.74,16,Mumbai,Food,Net Banking,Mobile,0
+T2360,1116,8220.18,11,Kolkata,Electronics,UPI,Mobile,0
+T2361,1123,3441.36,12,Nagpur,Travel,Card,Tablet,0
+T2362,1142,1695.42,9,Hyderabad,Travel,Card,Laptop,0
+T2363,1024,6498.45,6,Hyderabad,Fashion,Card,Mobile,0
+T2364,1035,3108.54,13,Bangalore,Food,UPI,Mobile,0
+T2365,1050,330.4,22,Kolkata,Travel,Net Banking,Laptop,0
+T2366,1014,3337.47,0,Nagpur,Entertainment,Card,Mobile,1
+T2367,1067,9544.67,16,Hyderabad,Grocery,Net Banking,Mobile,0
+T2368,1020,2018.8,3,Bangalore,Grocery,UPI,Mobile,0
+T2369,1140,1405.76,20,Hyderabad,Grocery,UPI,Laptop,0
+T2370,1018,619.46,4,Mumbai,Entertainment,UPI,Mobile,0
+T2371,1033,656.88,19,Pune,Electronics,Card,Mobile,0
+T2372,1077,2267.97,23,Kolkata,Entertainment,UPI,Mobile,0
+T2373,1124,3622.19,22,Bangalore,Electronics,Card,Mobile,0
+T2374,1195,336.2,6,Pune,Grocery,UPI,Mobile,0
+T2375,1116,11224.99,9,Nagpur,Fashion,Card,Mobile,0
+T2376,1051,5628.17,16,Mumbai,Fashion,UPI,Mobile,0
+T2377,1026,3533.59,6,Bangalore,Electronics,UPI,Mobile,0
+T2378,1156,7051.26,0,Nagpur,Grocery,Card,Mobile,1
+T2379,1155,334.34,6,Hyderabad,Entertainment,Card,Laptop,0
+T2380,1034,2591.46,23,Chennai,Fashion,UPI,Laptop,0
+T2381,1135,3978.02,10,Delhi,Electronics,UPI,Mobile,0
+T2382,1143,7056.26,8,Nagpur,Entertainment,Card,Mobile,0
+T2383,1105,6120.1,11,Pune,Grocery,UPI,Mobile,0
+T2384,1163,1297.77,2,Mumbai,Food,Card,Mobile,1
+T2385,1157,11312.76,3,Mumbai,Grocery,Card,Laptop,1
+T2386,1145,531.14,3,Nagpur,Grocery,Card,Mobile,1
+T2387,1001,8322.04,12,Hyderabad,Entertainment,Card,Laptop,0
+T2388,1176,14153.6,22,Delhi,Entertainment,UPI,Laptop,0
+T2389,1076,779.94,18,Kolkata,Travel,Net Banking,Tablet,0
+T2390,1131,5121.49,9,Pune,Travel,Card,Mobile,0
+T2391,1089,164.48,4,Nagpur,Entertainment,UPI,Mobile,0
+T2392,1088,2079.62,6,Nagpur,Entertainment,Card,Mobile,0
+T2393,1093,2905.02,23,Chennai,Food,UPI,Laptop,0
+T2394,1006,3476.15,15,Mumbai,Food,Card,Laptop,0
+T2395,1094,10991.57,0,Pune,Grocery,UPI,Mobile,0
+T2396,1107,4462.03,11,Delhi,Fashion,Net Banking,Mobile,0
+T2397,1073,2625.55,1,Mumbai,Food,Card,Mobile,1
+T2398,1038,6636.09,6,Nagpur,Grocery,UPI,Mobile,0
+T2399,1140,12025.78,10,Mumbai,Electronics,Card,Mobile,0
+T2400,1158,89.25,12,Mumbai,Travel,Card,Mobile,0
+T2401,1070,16187.08,1,Bangalore,Fashion,Card,Mobile,1
+T2402,1190,360.28,6,Mumbai,Grocery,Card,Laptop,0
+T2403,1055,6736.36,14,Hyderabad,Entertainment,Card,Mobile,0
+T2404,1169,1315.88,10,Mumbai,Electronics,Card,Mobile,0
+T2405,1188,567.08,1,Kolkata,Travel,Card,Mobile,1
+T2406,1041,2318.24,6,Hyderabad,Electronics,Card,Laptop,0
+T2407,1183,4130.81,3,Pune,Grocery,UPI,Mobile,0
+T2408,1035,1918.29,10,Mumbai,Food,Net Banking,Tablet,0
+T2409,1083,224.44,1,Delhi,Travel,Card,Mobile,1
+T2410,1195,3659.78,15,Hyderabad,Electronics,Card,Tablet,0
+T2411,1117,9307.65,6,Hyderabad,Food,Card,Laptop,0
+T2412,1006,1932.94,12,Nagpur,Fashion,Net Banking,Mobile,0
+T2413,1053,975.08,4,Pune,Grocery,UPI,Tablet,0
+T2414,1128,2337.73,16,Mumbai,Grocery,UPI,Mobile,0
+T2415,1171,198.29,20,Chennai,Travel,Card,Mobile,0
+T2416,1119,6870.04,11,Delhi,Electronics,Card,Mobile,0
+T2417,1172,7002.64,18,Nagpur,Fashion,Card,Mobile,0
+T2418,1105,3546.93,6,Pune,Entertainment,Net Banking,Laptop,0
+T2419,1046,1742.27,5,Kolkata,Travel,Net Banking,Laptop,0
+T2420,1122,6433.42,7,Hyderabad,Entertainment,Card,Mobile,0
+T2421,1140,3235.91,12,Delhi,Travel,UPI,Mobile,0
+T2422,1118,6993.24,4,Kolkata,Electronics,Card,Mobile,0
+T2423,1149,3992.81,1,Mumbai,Fashion,Card,Laptop,1
+T2424,1117,6137.42,8,Chennai,Electronics,Net Banking,Mobile,0
+T2425,1020,3650.82,10,Bangalore,Grocery,UPI,Tablet,0
+T2426,1136,2138.7,23,Bangalore,Entertainment,Card,Mobile,0
+T2427,1025,12675.19,5,Pune,Food,Card,Mobile,0
+T2428,1008,3115.81,6,Chennai,Grocery,UPI,Laptop,0
+T2429,1014,3716.38,6,Delhi,Grocery,UPI,Mobile,0
+T2430,1009,996.35,18,Nagpur,Entertainment,UPI,Mobile,0
+T2431,1121,3930.26,5,Delhi,Travel,Card,Mobile,0
+T2432,1120,3390.86,10,Chennai,Grocery,Card,Mobile,0
+T2433,1124,817.48,10,Kolkata,Fashion,Net Banking,Tablet,0
+T2434,1169,245.74,6,Hyderabad,Grocery,UPI,Mobile,0
+T2435,1071,3709.0,1,Bangalore,Fashion,Card,Mobile,1
+T2436,1151,5770.48,18,Pune,Electronics,UPI,Mobile,0
+T2437,1048,2964.32,3,Mumbai,Travel,UPI,Mobile,0
+T2438,1153,1028.73,5,Delhi,Fashion,Card,Laptop,0
+T2439,1090,4392.71,16,Bangalore,Grocery,Card,Tablet,0
+T2440,1036,333.99,4,Nagpur,Travel,UPI,Laptop,0
+T2441,1067,2332.39,6,Pune,Travel,UPI,Mobile,0
+T2442,1049,713.48,8,Mumbai,Fashion,UPI,Mobile,0
+T2443,1151,815.61,0,Delhi,Fashion,Net Banking,Mobile,0
+T2444,1018,904.06,0,Nagpur,Food,Card,Laptop,1
+T2445,1099,1955.65,18,Mumbai,Food,Card,Mobile,0
+T2446,1059,210.02,5,Hyderabad,Travel,Net Banking,Mobile,0
+T2447,1166,2028.62,17,Bangalore,Entertainment,Card,Tablet,0
+T2448,1088,2867.36,9,Hyderabad,Entertainment,UPI,Mobile,0
+T2449,1145,2641.13,10,Bangalore,Food,UPI,Mobile,0
+T2450,1146,1930.15,0,Nagpur,Grocery,UPI,Mobile,0
+T2451,1163,7309.05,0,Kolkata,Electronics,Card,Mobile,1
+T2452,1182,628.14,12,Hyderabad,Travel,UPI,Mobile,0
+T2453,1068,2818.42,4,Bangalore,Electronics,UPI,Mobile,0
+T2454,1174,256.2,19,Pune,Food,UPI,Mobile,0
+T2455,1048,295.26,0,Nagpur,Fashion,UPI,Mobile,0
+T2456,1107,3412.0,19,Bangalore,Travel,Card,Laptop,0
+T2457,1160,3339.01,2,Delhi,Food,Card,Mobile,1
+T2458,1118,8416.04,17,Bangalore,Grocery,Card,Laptop,0
+T2459,1148,3264.64,8,Hyderabad,Travel,Card,Mobile,0
+T2460,1149,12854.66,13,Pune,Travel,Net Banking,Mobile,0
+T2461,1175,199.68,16,Mumbai,Entertainment,UPI,Tablet,0
+T2462,1036,412.6,22,Kolkata,Fashion,UPI,Mobile,0
+T2463,1142,180.27,13,Mumbai,Travel,UPI,Mobile,0
+T2464,1162,819.63,3,Bangalore,Fashion,Card,Laptop,1
+T2465,1198,3117.17,4,Mumbai,Food,Net Banking,Mobile,0
+T2466,1159,4149.0,20,Bangalore,Grocery,Card,Mobile,0
+T2467,1010,186.63,16,Pune,Grocery,Card,Mobile,0
+T2468,1137,11672.93,21,Mumbai,Travel,UPI,Laptop,0
+T2469,1077,7384.83,1,Hyderabad,Travel,Net Banking,Laptop,0
+T2470,1076,1407.39,22,Hyderabad,Food,Net Banking,Mobile,0
+T2471,1184,321.32,21,Delhi,Entertainment,Card,Mobile,0
+T2472,1152,744.77,4,Bangalore,Entertainment,Net Banking,Mobile,0
+T2473,1001,543.02,3,Mumbai,Entertainment,Card,Mobile,1
+T2474,1063,526.29,3,Hyderabad,Fashion,Card,Mobile,1
+T2475,1034,2923.91,5,Chennai,Entertainment,UPI,Mobile,0
+T2476,1006,1128.64,19,Pune,Grocery,Net Banking,Mobile,0
+T2477,1084,1773.54,20,Kolkata,Fashion,UPI,Mobile,0
+T2478,1145,18227.55,12,Pune,Food,UPI,Tablet,0
+T2479,1066,4612.03,21,Chennai,Grocery,UPI,Mobile,0
+T2480,1041,11902.2,4,Chennai,Grocery,UPI,Mobile,0
+T2481,1117,615.2,22,Delhi,Electronics,Net Banking,Mobile,0
+T2482,1124,1925.97,22,Pune,Food,UPI,Tablet,0
+T2483,1166,3236.31,6,Pune,Food,Net Banking,Laptop,0
+T2484,1168,319.46,19,Mumbai,Electronics,Net Banking,Laptop,0
+T2485,1023,16.78,0,Bangalore,Fashion,Card,Mobile,1
+T2486,1187,4439.92,13,Nagpur,Entertainment,UPI,Laptop,0
+T2487,1045,4106.87,23,Kolkata,Entertainment,UPI,Mobile,0
+T2488,1018,2115.88,3,Pune,Entertainment,Card,Mobile,1
+T2489,1067,2690.59,16,Kolkata,Entertainment,UPI,Mobile,0
+T2490,1101,2147.6,20,Kolkata,Entertainment,Card,Laptop,0
+T2491,1041,97.19,13,Kolkata,Electronics,UPI,Laptop,0
+T2492,1031,1634.11,15,Pune,Food,Net Banking,Laptop,0
+T2493,1166,779.6,13,Nagpur,Fashion,Card,Tablet,0
+T2494,1108,414.44,15,Pune,Grocery,Card,Mobile,0
+T2495,1035,12560.3,23,Mumbai,Entertainment,Net Banking,Mobile,0
+T2496,1096,3658.77,19,Mumbai,Electronics,Card,Mobile,0
+T2497,1163,5217.48,7,Nagpur,Fashion,Card,Laptop,0
+T2498,1130,1515.47,23,Hyderabad,Fashion,Card,Mobile,0
+T2499,1072,1997.88,2,Pune,Fashion,UPI,Laptop,0
+T2500,1135,1081.59,18,Hyderabad,Electronics,UPI,Mobile,0
+T2501,1096,407.98,0,Kolkata,Grocery,UPI,Mobile,0
+T2502,1122,789.08,1,Pune,Entertainment,UPI,Mobile,0
+T2503,1069,6388.34,14,Bangalore,Fashion,UPI,Mobile,0
+T2504,1168,4527.18,21,Pune,Electronics,UPI,Laptop,0
+T2505,1195,3166.82,9,Mumbai,Food,Card,Mobile,0
+T2506,1012,2578.11,17,Delhi,Electronics,UPI,Mobile,0
+T2507,1048,10226.52,21,Chennai,Electronics,UPI,Mobile,0
+T2508,1059,302.06,13,Delhi,Electronics,UPI,Mobile,0
+T2509,1129,1317.36,16,Delhi,Fashion,Card,Mobile,0
+T2510,1187,1722.75,12,Delhi,Electronics,Card,Mobile,0
+T2511,1004,6100.86,0,Chennai,Food,Card,Laptop,1
+T2512,1171,19579.21,4,Hyderabad,Fashion,Card,Mobile,0
+T2513,1026,1101.28,12,Chennai,Food,UPI,Mobile,0
+T2514,1159,8295.66,13,Hyderabad,Travel,Card,Mobile,0
+T2515,1148,7102.51,23,Chennai,Electronics,UPI,Mobile,0
+T2516,1007,1017.8,2,Chennai,Entertainment,Card,Mobile,1
+T2517,1199,2038.86,14,Pune,Entertainment,Card,Mobile,0
+T2518,1049,2108.31,18,Hyderabad,Fashion,UPI,Mobile,0
+T2519,1066,15307.18,16,Pune,Entertainment,Card,Laptop,1
+T2520,1043,798.16,2,Bangalore,Fashion,Net Banking,Mobile,0
+T2521,1124,6420.95,15,Pune,Electronics,Card,Laptop,0
+T2522,1057,1627.02,13,Delhi,Grocery,Card,Tablet,0
+T2523,1002,5250.25,11,Nagpur,Grocery,UPI,Mobile,0
+T2524,1085,2178.98,11,Nagpur,Food,UPI,Mobile,0
+T2525,1069,3454.41,10,Mumbai,Electronics,Card,Mobile,0
+T2526,1129,7149.76,16,Mumbai,Entertainment,Card,Mobile,0
+T2527,1171,6521.94,7,Kolkata,Electronics,UPI,Laptop,0
+T2528,1001,8052.31,16,Pune,Travel,Net Banking,Laptop,0
+T2529,1101,245.87,20,Chennai,Grocery,Net Banking,Mobile,0
+T2530,1034,4711.28,22,Chennai,Entertainment,Card,Mobile,0
+T2531,1097,603.23,19,Nagpur,Grocery,Net Banking,Mobile,0
+T2532,1029,2150.17,10,Delhi,Electronics,Card,Mobile,0
+T2533,1115,3181.5,1,Hyderabad,Entertainment,Card,Laptop,1
+T2534,1007,2061.61,9,Delhi,Food,UPI,Mobile,0
+T2535,1149,2932.64,9,Kolkata,Electronics,Card,Mobile,0
+T2536,1043,22650.15,10,Delhi,Food,Card,Laptop,1
+T2537,1185,581.11,5,Pune,Entertainment,Card,Mobile,0
+T2538,1035,4501.34,3,Pune,Grocery,Card,Mobile,1
+T2539,1196,2016.73,23,Bangalore,Travel,UPI,Mobile,0
+T2540,1076,570.91,11,Kolkata,Fashion,UPI,Mobile,0
+T2541,1030,691.4,10,Delhi,Grocery,Card,Laptop,0
+T2542,1046,11925.2,22,Chennai,Food,UPI,Laptop,0
+T2543,1054,8467.79,22,Chennai,Electronics,Net Banking,Mobile,0
+T2544,1105,9502.43,12,Kolkata,Entertainment,UPI,Tablet,0
+T2545,1189,19086.21,4,Delhi,Grocery,Card,Mobile,0
+T2546,1157,934.37,5,Pune,Travel,Net Banking,Laptop,0
+T2547,1120,1756.75,0,Pune,Entertainment,UPI,Laptop,0
+T2548,1054,4425.2,5,Bangalore,Food,Card,Mobile,0
+T2549,1143,2645.06,17,Bangalore,Entertainment,Card,Laptop,0
+T2550,1011,2167.82,21,Mumbai,Entertainment,Card,Mobile,0
+T2551,1144,1771.49,8,Kolkata,Electronics,UPI,Mobile,0
+T2552,1143,3603.45,23,Nagpur,Fashion,Card,Laptop,0
+T2553,1139,3428.25,14,Delhi,Food,UPI,Laptop,0
+T2554,1135,704.36,7,Kolkata,Electronics,Card,Laptop,0
+T2555,1002,2552.67,18,Chennai,Fashion,Net Banking,Mobile,0
+T2556,1143,3225.01,23,Delhi,Electronics,Card,Mobile,0
+T2557,1029,3378.55,15,Bangalore,Fashion,Net Banking,Mobile,0
+T2558,1022,943.43,5,Bangalore,Fashion,Net Banking,Tablet,0
+T2559,1091,5423.39,5,Mumbai,Fashion,Card,Mobile,0
+T2560,1114,102.09,21,Nagpur,Electronics,UPI,Laptop,0
+T2561,1103,1752.98,2,Mumbai,Entertainment,Card,Mobile,1
+T2562,1117,6060.38,9,Chennai,Fashion,Net Banking,Mobile,0
+T2563,1004,3319.47,0,Nagpur,Entertainment,UPI,Mobile,0
+T2564,1103,1210.71,13,Hyderabad,Food,Card,Tablet,0
+T2565,1107,4749.16,3,Delhi,Travel,Card,Mobile,1
+T2566,1064,3351.68,11,Mumbai,Entertainment,Card,Tablet,0
+T2567,1120,6363.32,5,Bangalore,Travel,Net Banking,Mobile,0
+T2568,1029,5312.48,10,Mumbai,Fashion,UPI,Mobile,0
+T2569,1148,3767.54,11,Hyderabad,Travel,Net Banking,Laptop,0
+T2570,1083,2679.11,9,Mumbai,Travel,Card,Laptop,0
+T2571,1197,571.71,17,Delhi,Fashion,Card,Tablet,0
+T2572,1149,1211.63,6,Hyderabad,Entertainment,Net Banking,Mobile,0
+T2573,1199,2172.7,6,Kolkata,Fashion,Card,Mobile,0
+T2574,1031,3658.16,10,Kolkata,Food,Net Banking,Mobile,0
+T2575,1160,2883.78,3,Kolkata,Grocery,Card,Mobile,1
+T2576,1015,1359.75,19,Bangalore,Electronics,Card,Tablet,0
+T2577,1037,25.94,0,Bangalore,Fashion,UPI,Mobile,0
+T2578,1141,2742.62,12,Kolkata,Fashion,Net Banking,Mobile,0
+T2579,1035,1345.39,17,Kolkata,Travel,Net Banking,Mobile,0
+T2580,1150,5306.19,8,Kolkata,Food,Card,Mobile,0
+T2581,1113,96.95,23,Pune,Travel,Card,Mobile,0
+T2582,1065,3516.25,23,Kolkata,Entertainment,UPI,Mobile,0
+T2583,1104,11353.15,8,Hyderabad,Fashion,UPI,Mobile,0
+T2584,1084,766.62,22,Pune,Fashion,UPI,Mobile,0
+T2585,1001,2551.98,8,Pune,Travel,Card,Tablet,0
+T2586,1192,383.5,9,Delhi,Fashion,Net Banking,Mobile,0
+T2587,1074,3930.6,1,Mumbai,Entertainment,UPI,Mobile,0
+T2588,1066,3198.76,5,Bangalore,Grocery,UPI,Tablet,0
+T2589,1179,2092.71,14,Bangalore,Electronics,UPI,Laptop,0
+T2590,1189,2947.37,2,Mumbai,Electronics,Card,Tablet,1
+T2591,1150,9075.62,10,Bangalore,Electronics,Net Banking,Tablet,0
+T2592,1153,874.09,5,Mumbai,Grocery,UPI,Mobile,0
+T2593,1195,91.29,2,Hyderabad,Fashion,Net Banking,Laptop,0
+T2594,1054,7912.3,23,Delhi,Travel,Net Banking,Mobile,0
+T2595,1005,3442.64,10,Kolkata,Food,UPI,Mobile,0
+T2596,1162,8853.12,14,Delhi,Fashion,UPI,Laptop,0
+T2597,1149,3634.73,12,Chennai,Grocery,Card,Mobile,0
+T2598,1170,6646.32,19,Delhi,Entertainment,Card,Laptop,0
+T2599,1142,2246.18,9,Mumbai,Grocery,Card,Laptop,0
+T2600,1085,5542.94,5,Chennai,Electronics,Card,Mobile,0
+T2601,1059,9769.3,14,Mumbai,Fashion,Card,Laptop,0
+T2602,1100,3395.68,17,Kolkata,Electronics,Card,Mobile,0
+T2603,1011,797.64,17,Nagpur,Food,Card,Mobile,0
+T2604,1048,1252.26,6,Chennai,Entertainment,Card,Laptop,0
+T2605,1041,885.8,14,Kolkata,Electronics,Card,Mobile,0
+T2606,1165,1134.0,17,Kolkata,Food,Card,Laptop,0
+T2607,1081,1463.53,17,Bangalore,Grocery,UPI,Mobile,0
+T2608,1172,3239.93,19,Bangalore,Electronics,UPI,Mobile,0
+T2609,1034,3546.85,8,Nagpur,Electronics,Card,Laptop,0
+T2610,1157,2223.99,23,Nagpur,Travel,UPI,Mobile,0
+T2611,1157,3822.42,1,Delhi,Entertainment,UPI,Mobile,0
+T2612,1133,340.38,7,Kolkata,Entertainment,Card,Mobile,0
+T2613,1066,367.53,19,Nagpur,Grocery,UPI,Laptop,0
+T2614,1079,754.14,1,Mumbai,Travel,Net Banking,Mobile,0
+T2615,1006,2919.89,10,Kolkata,Food,UPI,Laptop,0
+T2616,1179,963.17,6,Pune,Food,Card,Mobile,0
+T2617,1013,1332.3,5,Mumbai,Grocery,UPI,Mobile,0
+T2618,1072,2045.39,9,Chennai,Entertainment,Card,Tablet,0
+T2619,1142,6682.41,4,Nagpur,Food,UPI,Mobile,0
+T2620,1148,55.84,10,Bangalore,Grocery,Net Banking,Mobile,0
+T2621,1162,4192.2,0,Mumbai,Food,UPI,Laptop,0
+T2622,1065,4421.06,1,Bangalore,Fashion,Net Banking,Laptop,0
+T2623,1090,6410.96,23,Mumbai,Electronics,Card,Mobile,0
+T2624,1129,10797.53,0,Bangalore,Entertainment,Net Banking,Mobile,0
+T2625,1162,81.37,18,Hyderabad,Fashion,UPI,Laptop,0
+T2626,1019,667.92,1,Mumbai,Grocery,Card,Laptop,1
+T2627,1009,8692.24,20,Chennai,Grocery,UPI,Laptop,0
+T2628,1024,2453.79,19,Bangalore,Fashion,Card,Mobile,0
+T2629,1193,3325.87,22,Pune,Electronics,Card,Tablet,0
+T2630,1024,4351.01,20,Chennai,Electronics,UPI,Mobile,0
+T2631,1053,4546.09,23,Delhi,Travel,Card,Mobile,0
+T2632,1032,10737.75,3,Mumbai,Food,UPI,Mobile,0
+T2633,1163,23169.69,11,Pune,Travel,Card,Mobile,1
+T2634,1094,5094.11,21,Delhi,Electronics,Card,Mobile,0
+T2635,1013,1354.34,19,Mumbai,Fashion,Net Banking,Mobile,0
+T2636,1064,8472.81,17,Pune,Food,Card,Mobile,0
+T2637,1109,201.89,0,Pune,Fashion,UPI,Laptop,0
+T2638,1079,1051.08,0,Chennai,Travel,UPI,Mobile,0
+T2639,1053,9107.11,23,Hyderabad,Grocery,UPI,Mobile,0
+T2640,1124,1183.89,13,Pune,Fashion,Net Banking,Mobile,0
+T2641,1179,997.19,3,Hyderabad,Travel,UPI,Mobile,0
+T2642,1130,594.58,4,Nagpur,Travel,Card,Mobile,0
+T2643,1168,7839.15,10,Chennai,Travel,Net Banking,Mobile,0
+T2644,1133,2773.05,23,Kolkata,Grocery,Card,Tablet,0
+T2645,1024,4494.41,22,Bangalore,Grocery,UPI,Laptop,0
+T2646,1140,1092.84,12,Chennai,Grocery,Net Banking,Laptop,0
+T2647,1116,5675.94,15,Delhi,Food,UPI,Mobile,0
+T2648,1135,5708.56,23,Bangalore,Grocery,UPI,Mobile,0
+T2649,1148,1499.34,12,Bangalore,Grocery,UPI,Mobile,0
+T2650,1195,2115.16,23,Kolkata,Grocery,UPI,Laptop,0
+T2651,1024,941.32,21,Hyderabad,Fashion,Net Banking,Mobile,0
+T2652,1078,15013.42,1,Kolkata,Grocery,Card,Mobile,1
+T2653,1067,4149.35,15,Kolkata,Food,Card,Mobile,0
+T2654,1172,10905.5,5,Bangalore,Travel,UPI,Mobile,0
+T2655,1187,1446.09,13,Pune,Fashion,UPI,Tablet,0
+T2656,1011,6091.04,0,Hyderabad,Electronics,Card,Laptop,1
+T2657,1031,5807.32,16,Bangalore,Grocery,Card,Laptop,0
+T2658,1127,4706.15,10,Hyderabad,Travel,Card,Mobile,0
+T2659,1095,13483.33,18,Nagpur,Travel,Net Banking,Laptop,0
+T2660,1091,2000.57,2,Hyderabad,Fashion,UPI,Mobile,0
+T2661,1140,560.35,10,Mumbai,Electronics,Card,Tablet,0
+T2662,1030,4455.42,4,Pune,Entertainment,Card,Mobile,0
+T2663,1077,5227.12,16,Delhi,Food,Card,Mobile,0
+T2664,1019,3423.23,21,Mumbai,Entertainment,Card,Laptop,0
+T2665,1145,926.81,6,Mumbai,Travel,Card,Mobile,0
+T2666,1059,2808.4,9,Kolkata,Entertainment,Net Banking,Laptop,0
+T2667,1190,1496.97,10,Kolkata,Travel,Net Banking,Tablet,0
+T2668,1133,2230.74,2,Mumbai,Entertainment,Card,Mobile,1
+T2669,1159,4145.01,19,Bangalore,Travel,Card,Mobile,0
+T2670,1092,5469.34,9,Hyderabad,Travel,Card,Mobile,0
+T2671,1042,1057.03,9,Hyderabad,Fashion,UPI,Laptop,0
+T2672,1129,2078.96,13,Chennai,Electronics,Card,Mobile,0
+T2673,1059,1254.25,11,Bangalore,Travel,Card,Mobile,0
+T2674,1150,885.74,14,Pune,Food,Card,Mobile,0
+T2675,1030,6118.58,9,Bangalore,Food,UPI,Mobile,0
+T2676,1004,9598.71,9,Bangalore,Grocery,UPI,Laptop,0
+T2677,1161,1849.62,18,Bangalore,Travel,UPI,Mobile,0
+T2678,1009,5565.69,0,Pune,Travel,Card,Mobile,1
+T2679,1088,9091.92,23,Chennai,Travel,Net Banking,Laptop,0
+T2680,1129,7486.44,9,Pune,Entertainment,Net Banking,Mobile,0
+T2681,1125,807.55,1,Nagpur,Travel,Card,Mobile,1
+T2682,1010,12520.89,16,Chennai,Travel,Card,Mobile,0
+T2683,1177,1890.76,23,Nagpur,Food,UPI,Mobile,0
+T2684,1158,1657.46,6,Nagpur,Electronics,Card,Mobile,0
+T2685,1055,257.86,6,Nagpur,Electronics,Card,Tablet,0
+T2686,1082,2663.48,19,Hyderabad,Grocery,UPI,Laptop,0
+T2687,1136,461.7,8,Mumbai,Food,UPI,Laptop,0
+T2688,1098,1142.95,21,Mumbai,Travel,Card,Tablet,0
+T2689,1148,1524.71,1,Nagpur,Electronics,UPI,Mobile,0
+T2690,1072,6618.29,13,Nagpur,Fashion,Net Banking,Mobile,0
+T2691,1155,8333.43,16,Delhi,Fashion,Card,Mobile,0
+T2692,1189,1440.82,0,Kolkata,Fashion,UPI,Laptop,0
+T2693,1114,7827.43,8,Mumbai,Travel,Card,Laptop,0
+T2694,1006,7786.11,19,Kolkata,Travel,Card,Mobile,0
+T2695,1079,5786.74,20,Kolkata,Grocery,UPI,Mobile,0
+T2696,1143,634.55,18,Delhi,Grocery,Card,Mobile,0
+T2697,1096,4688.9,3,Kolkata,Grocery,Card,Mobile,1
+T2698,1003,11603.44,7,Chennai,Entertainment,Card,Laptop,0
+T2699,1003,4589.62,12,Delhi,Fashion,UPI,Mobile,0
+T2700,1102,1611.57,3,Kolkata,Travel,UPI,Tablet,0
+T2701,1039,2777.23,8,Kolkata,Fashion,Card,Mobile,0
+T2702,1016,4150.73,8,Bangalore,Grocery,UPI,Laptop,0
+T2703,1100,2858.06,21,Kolkata,Travel,Card,Tablet,0
+T2704,1102,511.12,17,Hyderabad,Food,UPI,Tablet,0
+T2705,1123,1496.24,11,Chennai,Electronics,Card,Mobile,0
+T2706,1051,6485.96,9,Pune,Electronics,UPI,Mobile,0
+T2707,1051,7905.17,10,Mumbai,Grocery,Net Banking,Mobile,0
+T2708,1163,590.75,6,Nagpur,Fashion,Net Banking,Mobile,0
+T2709,1123,12178.58,8,Kolkata,Food,Card,Mobile,0
+T2710,1165,1594.89,5,Chennai,Travel,Net Banking,Tablet,0
+T2711,1177,4342.55,18,Nagpur,Fashion,Card,Mobile,0
+T2712,1062,5574.49,15,Pune,Grocery,Net Banking,Mobile,0
+T2713,1115,6684.11,14,Chennai,Fashion,Card,Mobile,0
+T2714,1190,11656.59,6,Mumbai,Grocery,Card,Laptop,0
+T2715,1061,1501.22,15,Chennai,Entertainment,Card,Tablet,0
+T2716,1006,7822.0,4,Nagpur,Electronics,Card,Mobile,0
+T2717,1154,564.81,15,Nagpur,Electronics,UPI,Mobile,0
+T2718,1091,4883.67,0,Bangalore,Fashion,Net Banking,Laptop,0
+T2719,1013,5418.84,18,Kolkata,Food,UPI,Laptop,0
+T2720,1198,4529.38,4,Delhi,Travel,UPI,Mobile,0
+T2721,1085,1163.09,6,Chennai,Grocery,UPI,Laptop,0
+T2722,1132,8255.63,18,Nagpur,Travel,Card,Tablet,0
+T2723,1182,739.82,21,Hyderabad,Electronics,Card,Mobile,0
+T2724,1129,220.51,4,Mumbai,Food,Card,Mobile,0
+T2725,1061,5055.81,16,Hyderabad,Food,Card,Mobile,0
+T2726,1148,2581.05,21,Pune,Travel,Card,Mobile,0
+T2727,1078,7564.5,7,Chennai,Electronics,Card,Mobile,0
+T2728,1148,1934.12,0,Bangalore,Travel,Card,Mobile,1
+T2729,1137,737.03,1,Mumbai,Fashion,Card,Mobile,1
+T2730,1057,7242.36,14,Bangalore,Food,Net Banking,Mobile,0
+T2731,1119,3184.35,19,Delhi,Food,Card,Mobile,0
+T2732,1166,838.91,17,Nagpur,Fashion,UPI,Mobile,0
+T2733,1132,5097.35,10,Kolkata,Electronics,UPI,Mobile,0
+T2734,1064,2862.5,9,Mumbai,Food,UPI,Mobile,0
+T2735,1012,3708.53,23,Pune,Entertainment,Card,Mobile,0
+T2736,1180,2471.4,23,Kolkata,Entertainment,Card,Mobile,0
+T2737,1081,7057.57,3,Chennai,Entertainment,Card,Laptop,1
+T2738,1172,7077.55,4,Delhi,Grocery,Card,Mobile,0
+T2739,1159,4943.08,3,Delhi,Grocery,Card,Tablet,1
+T2740,1163,445.52,12,Bangalore,Electronics,UPI,Mobile,0
+T2741,1187,7301.77,12,Delhi,Fashion,UPI,Mobile,0
+T2742,1138,4446.95,17,Mumbai,Travel,UPI,Mobile,0
+T2743,1190,4776.41,23,Bangalore,Electronics,Card,Laptop,0
+T2744,1148,1803.83,1,Kolkata,Travel,Card,Laptop,1
+T2745,1051,8457.11,15,Delhi,Electronics,UPI,Tablet,0
+T2746,1182,5169.35,0,Chennai,Grocery,Card,Tablet,1
+T2747,1116,477.79,18,Kolkata,Entertainment,UPI,Mobile,0
+T2748,1025,2095.5,8,Pune,Fashion,UPI,Mobile,0
+T2749,1195,8699.6,2,Chennai,Grocery,Card,Mobile,1
+T2750,1033,193.39,6,Hyderabad,Fashion,Card,Mobile,0
+T2751,1051,13019.73,9,Mumbai,Travel,UPI,Mobile,0
+T2752,1111,4547.28,0,Pune,Electronics,Card,Laptop,1
+T2753,1081,3991.91,9,Pune,Food,Card,Tablet,0
+T2754,1179,1261.91,20,Bangalore,Food,Card,Mobile,0
+T2755,1156,1144.29,8,Nagpur,Fashion,Card,Mobile,0
+T2756,1165,11393.27,14,Bangalore,Entertainment,UPI,Mobile,0
+T2757,1041,1416.84,14,Mumbai,Entertainment,UPI,Laptop,0
+T2758,1020,5975.61,2,Mumbai,Fashion,Card,Mobile,1
+T2759,1041,1997.71,4,Bangalore,Grocery,Net Banking,Tablet,0
+T2760,1140,599.82,8,Nagpur,Food,Net Banking,Laptop,0
+T2761,1112,43.09,21,Chennai,Grocery,Net Banking,Mobile,0
+T2762,1104,3143.31,8,Bangalore,Travel,UPI,Mobile,0
+T2763,1191,14882.11,22,Mumbai,Food,Card,Mobile,0
+T2764,1016,1842.66,6,Nagpur,Travel,Card,Tablet,0
+T2765,1119,1767.64,23,Mumbai,Electronics,UPI,Mobile,0
+T2766,1136,1686.94,22,Nagpur,Grocery,UPI,Tablet,0
+T2767,1168,2940.41,11,Nagpur,Fashion,UPI,Mobile,0
+T2768,1128,2324.03,8,Kolkata,Food,Net Banking,Laptop,0
+T2769,1129,8478.21,5,Bangalore,Grocery,UPI,Mobile,0
+T2770,1059,2817.0,22,Bangalore,Fashion,Card,Mobile,0
+T2771,1047,2835.14,1,Bangalore,Electronics,Card,Laptop,1
+T2772,1028,595.72,8,Nagpur,Food,Card,Laptop,0
+T2773,1096,16237.35,16,Nagpur,Travel,UPI,Laptop,1
+T2774,1009,1150.58,0,Mumbai,Electronics,UPI,Mobile,0
+T2775,1057,304.78,18,Pune,Entertainment,UPI,Tablet,0
+T2776,1187,4352.43,5,Bangalore,Fashion,UPI,Tablet,0
+T2777,1020,3619.09,4,Kolkata,Food,Net Banking,Mobile,0
+T2778,1027,2145.57,1,Hyderabad,Food,UPI,Tablet,0
+T2779,1033,2194.06,8,Mumbai,Electronics,UPI,Mobile,0
+T2780,1007,6149.66,13,Mumbai,Food,Card,Laptop,0
+T2781,1186,871.19,3,Delhi,Fashion,Net Banking,Mobile,0
+T2782,1199,6864.83,3,Bangalore,Electronics,UPI,Tablet,0
+T2783,1176,4185.0,20,Chennai,Travel,Card,Mobile,0
+T2784,1078,2171.81,14,Mumbai,Electronics,Card,Mobile,0
+T2785,1144,2450.17,7,Delhi,Electronics,Net Banking,Mobile,0
+T2786,1187,1186.34,3,Hyderabad,Travel,Card,Mobile,1
+T2787,1086,5579.15,15,Kolkata,Entertainment,UPI,Mobile,0
+T2788,1087,2876.94,20,Hyderabad,Fashion,Card,Mobile,0
+T2789,1172,1547.68,3,Chennai,Entertainment,UPI,Laptop,0
+T2790,1068,3625.86,15,Bangalore,Entertainment,UPI,Tablet,0
+T2791,1159,21828.74,21,Nagpur,Entertainment,Card,Laptop,1
+T2792,1171,2285.58,11,Delhi,Grocery,Card,Laptop,0
+T2793,1192,10137.63,15,Nagpur,Entertainment,Net Banking,Mobile,0
+T2794,1086,1692.58,18,Hyderabad,Grocery,UPI,Mobile,0
+T2795,1100,225.15,7,Hyderabad,Travel,Net Banking,Mobile,0
+T2796,1007,913.84,5,Pune,Fashion,Card,Mobile,0
+T2797,1076,2169.92,9,Pune,Entertainment,Card,Tablet,0
+T2798,1199,991.97,4,Kolkata,Food,Card,Mobile,0
+T2799,1086,0.91,17,Chennai,Travel,UPI,Tablet,0
+T2800,1042,9860.49,9,Pune,Grocery,Card,Mobile,0
+T2801,1128,7428.51,9,Pune,Fashion,Card,Laptop,0
+T2802,1108,5423.72,6,Chennai,Electronics,Card,Mobile,0
+T2803,1178,734.8,17,Mumbai,Fashion,Card,Mobile,0
+T2804,1151,512.99,0,Pune,Fashion,UPI,Laptop,0
+T2805,1151,279.99,6,Mumbai,Entertainment,Card,Mobile,0
+T2806,1016,5149.84,20,Mumbai,Entertainment,UPI,Laptop,0
+T2807,1132,10569.5,0,Bangalore,Grocery,Net Banking,Mobile,0
+T2808,1147,2252.24,14,Mumbai,Grocery,Card,Mobile,0
+T2809,1020,507.43,3,Mumbai,Entertainment,UPI,Tablet,0
+T2810,1057,2872.98,19,Pune,Entertainment,Net Banking,Mobile,0
+T2811,1158,1715.95,9,Mumbai,Food,Net Banking,Laptop,0
+T2812,1109,1878.89,22,Nagpur,Food,Card,Mobile,0
+T2813,1138,3884.37,8,Chennai,Travel,Card,Mobile,0
+T2814,1179,5073.59,1,Pune,Entertainment,Card,Mobile,1
+T2815,1142,468.85,13,Chennai,Electronics,UPI,Mobile,0
+T2816,1134,144.96,15,Delhi,Food,UPI,Mobile,0
+T2817,1027,20690.48,0,Pune,Grocery,UPI,Mobile,1
+T2818,1050,1059.66,1,Mumbai,Fashion,Card,Mobile,1
+T2819,1185,221.33,6,Nagpur,Travel,Card,Laptop,0
+T2820,1004,842.27,9,Chennai,Food,UPI,Laptop,0
+T2821,1004,158.95,21,Pune,Fashion,UPI,Mobile,0
+T2822,1093,1989.08,19,Nagpur,Fashion,UPI,Mobile,0
+T2823,1095,6486.08,0,Chennai,Food,Card,Mobile,1
+T2824,1007,1669.61,12,Delhi,Electronics,Card,Mobile,0
+T2825,1063,2349.27,0,Hyderabad,Electronics,Card,Mobile,1
+T2826,1137,4502.95,4,Kolkata,Travel,Card,Mobile,0
+T2827,1037,2844.38,15,Kolkata,Electronics,Card,Tablet,0
+T2828,1110,7905.97,14,Delhi,Travel,Card,Laptop,0
+T2829,1111,8040.73,16,Hyderabad,Grocery,Card,Mobile,0
+T2830,1080,39.84,22,Bangalore,Food,Card,Mobile,0
+T2831,1135,6021.15,15,Hyderabad,Fashion,Card,Laptop,0
+T2832,1103,2470.18,12,Bangalore,Travel,UPI,Mobile,0
+T2833,1152,17981.87,10,Pune,Electronics,Card,Laptop,1
+T2834,1072,2640.65,16,Bangalore,Travel,UPI,Tablet,0
+T2835,1193,17339.33,16,Kolkata,Entertainment,UPI,Mobile,0
+T2836,1177,5618.96,1,Kolkata,Travel,UPI,Mobile,0
+T2837,1194,1143.29,12,Nagpur,Electronics,Net Banking,Laptop,0
+T2838,1048,3092.18,13,Bangalore,Entertainment,Card,Tablet,0
+T2839,1035,19381.66,10,Nagpur,Entertainment,UPI,Mobile,0
+T2840,1125,7794.51,9,Kolkata,Electronics,Net Banking,Laptop,0
+T2841,1067,409.76,2,Chennai,Entertainment,Net Banking,Mobile,0
+T2842,1077,4901.77,16,Chennai,Food,Card,Mobile,0
+T2843,1104,1696.02,14,Hyderabad,Fashion,Card,Laptop,0
+T2844,1168,28.03,8,Hyderabad,Food,Card,Tablet,0
+T2845,1121,2066.58,9,Hyderabad,Food,UPI,Mobile,0
+T2846,1118,1070.23,7,Bangalore,Electronics,UPI,Laptop,0
+T2847,1189,6834.14,20,Hyderabad,Electronics,Card,Mobile,0
+T2848,1113,1645.92,12,Bangalore,Fashion,UPI,Mobile,0
+T2849,1009,7029.98,17,Bangalore,Travel,UPI,Mobile,0
+T2850,1148,2.39,4,Mumbai,Food,Card,Mobile,0
+T2851,1163,1471.63,5,Mumbai,Entertainment,Net Banking,Mobile,0
+T2852,1139,1103.88,16,Bangalore,Fashion,UPI,Mobile,0
+T2853,1090,1064.03,10,Chennai,Food,Card,Laptop,0
+T2854,1001,282.49,19,Nagpur,Travel,UPI,Laptop,0
+T2855,1117,828.71,15,Kolkata,Entertainment,Card,Mobile,0
+T2856,1012,3243.67,8,Kolkata,Food,UPI,Mobile,0
+T2857,1180,1377.64,1,Pune,Grocery,Net Banking,Mobile,0
+T2858,1159,2160.98,4,Delhi,Fashion,Net Banking,Tablet,0
+T2859,1094,1891.98,0,Mumbai,Electronics,Card,Mobile,1
+T2860,1143,8346.83,3,Bangalore,Food,Card,Mobile,1
+T2861,1031,9428.12,3,Delhi,Entertainment,Card,Mobile,1
+T2862,1031,2716.64,21,Mumbai,Entertainment,UPI,Mobile,0
+T2863,1123,1602.84,2,Pune,Fashion,Card,Mobile,1
+T2864,1010,451.78,8,Kolkata,Fashion,UPI,Laptop,0
+T2865,1009,12264.87,21,Nagpur,Entertainment,Card,Laptop,0
+T2866,1014,248.47,22,Bangalore,Entertainment,Card,Mobile,0
+T2867,1016,1413.3,11,Pune,Entertainment,Card,Mobile,0
+T2868,1167,1415.66,9,Kolkata,Food,Net Banking,Mobile,0
+T2869,1145,1545.01,1,Chennai,Entertainment,UPI,Tablet,0
+T2870,1182,717.88,10,Mumbai,Electronics,Card,Mobile,0
+T2871,1152,6114.41,9,Bangalore,Entertainment,Card,Laptop,0
+T2872,1058,522.7,21,Delhi,Electronics,UPI,Mobile,0
+T2873,1077,4030.41,5,Chennai,Food,Card,Mobile,0
+T2874,1123,528.85,17,Kolkata,Fashion,UPI,Mobile,0
+T2875,1113,292.59,1,Chennai,Electronics,UPI,Mobile,0
+T2876,1021,9606.51,1,Hyderabad,Food,UPI,Mobile,0
+T2877,1157,843.52,9,Nagpur,Entertainment,UPI,Mobile,0
+T2878,1171,6887.07,15,Kolkata,Food,UPI,Mobile,0
+T2879,1031,3146.59,11,Chennai,Entertainment,Net Banking,Mobile,0
+T2880,1178,324.22,0,Mumbai,Food,Net Banking,Mobile,0
+T2881,1173,12444.41,20,Nagpur,Fashion,UPI,Mobile,0
+T2882,1112,1134.55,7,Bangalore,Electronics,Card,Mobile,0
+T2883,1119,7854.33,15,Hyderabad,Fashion,UPI,Tablet,0
+T2884,1148,739.59,17,Kolkata,Grocery,Card,Mobile,0
+T2885,1121,7695.03,12,Pune,Entertainment,UPI,Mobile,0
+T2886,1031,53.27,14,Nagpur,Electronics,UPI,Mobile,0
+T2887,1118,2867.96,20,Delhi,Fashion,Card,Mobile,0
+T2888,1038,5869.02,11,Mumbai,Electronics,Card,Mobile,0
+T2889,1011,10920.91,7,Kolkata,Grocery,UPI,Laptop,0
+T2890,1174,9596.48,9,Delhi,Travel,Net Banking,Mobile,0
+T2891,1017,6850.87,13,Nagpur,Entertainment,UPI,Mobile,0
+T2892,1148,8763.87,4,Kolkata,Entertainment,UPI,Laptop,0
+T2893,1140,888.67,17,Hyderabad,Food,Card,Tablet,0
+T2894,1148,1337.33,18,Pune,Entertainment,UPI,Tablet,0
+T2895,1125,1364.15,14,Pune,Entertainment,Card,Laptop,0
+T2896,1135,1893.18,5,Delhi,Fashion,UPI,Tablet,0
+T2897,1045,1999.02,10,Bangalore,Entertainment,Card,Mobile,0
+T2898,1103,3145.92,20,Bangalore,Entertainment,UPI,Mobile,0
+T2899,1134,696.84,10,Hyderabad,Grocery,Card,Mobile,0
+T2900,1150,4700.85,19,Pune,Grocery,Card,Laptop,0
+T2901,1085,733.61,19,Delhi,Electronics,Net Banking,Tablet,0
+T2902,1149,1486.04,20,Delhi,Electronics,Card,Mobile,0
+T2903,1088,2799.44,17,Kolkata,Entertainment,Card,Mobile,0
+T2904,1021,6367.19,17,Kolkata,Entertainment,UPI,Laptop,0
+T2905,1091,5380.14,9,Delhi,Food,Net Banking,Tablet,0
+T2906,1028,4148.58,1,Kolkata,Electronics,Card,Mobile,1
+T2907,1012,677.34,8,Nagpur,Fashion,UPI,Tablet,0
+T2908,1001,3167.85,13,Kolkata,Entertainment,Net Banking,Mobile,0
+T2909,1028,366.03,18,Hyderabad,Fashion,Card,Mobile,0
+T2910,1179,1895.17,9,Bangalore,Entertainment,Card,Mobile,0
+T2911,1026,2134.44,22,Bangalore,Fashion,Card,Mobile,0
+T2912,1049,162.5,3,Nagpur,Travel,UPI,Mobile,0
+T2913,1094,1280.76,5,Mumbai,Fashion,Card,Laptop,0
+T2914,1150,12462.52,13,Nagpur,Electronics,Card,Laptop,0
+T2915,1087,12284.64,3,Hyderabad,Entertainment,UPI,Laptop,0
+T2916,1043,1737.48,14,Delhi,Electronics,UPI,Mobile,0
+T2917,1021,176.23,15,Nagpur,Fashion,Card,Mobile,0
+T2918,1170,789.39,6,Delhi,Grocery,UPI,Mobile,0
+T2919,1164,1991.75,16,Hyderabad,Grocery,Card,Mobile,0
+T2920,1188,11809.14,18,Chennai,Grocery,Card,Mobile,0
+T2921,1096,608.87,18,Hyderabad,Entertainment,UPI,Mobile,0
+T2922,1183,5767.5,16,Pune,Food,Net Banking,Mobile,0
+T2923,1002,460.22,5,Delhi,Travel,Card,Laptop,0
+T2924,1190,15907.86,10,Bangalore,Fashion,Net Banking,Mobile,0
+T2925,1117,1922.59,15,Nagpur,Food,UPI,Tablet,0
+T2926,1018,5970.79,7,Chennai,Grocery,Card,Mobile,0
+T2927,1022,1677.8,10,Hyderabad,Fashion,UPI,Tablet,0
+T2928,1156,3951.89,6,Delhi,Food,Card,Mobile,0
+T2929,1029,852.85,23,Chennai,Electronics,Net Banking,Mobile,0
+T2930,1038,631.39,21,Mumbai,Grocery,Net Banking,Mobile,0
+T2931,1107,11126.62,18,Pune,Food,Card,Laptop,0
+T2932,1110,9986.98,9,Mumbai,Entertainment,Card,Mobile,0
+T2933,1024,8738.1,8,Hyderabad,Electronics,Card,Mobile,0
+T2934,1127,3927.94,3,Mumbai,Grocery,Card,Laptop,1
+T2935,1110,6606.63,22,Mumbai,Travel,Card,Mobile,0
+T2936,1135,286.14,14,Pune,Grocery,Card,Mobile,0
+T2937,1105,1630.6,12,Pune,Entertainment,UPI,Mobile,0
+T2938,1185,1505.78,1,Kolkata,Travel,Card,Laptop,1
+T2939,1143,4038.51,1,Pune,Travel,UPI,Mobile,0
+T2940,1071,1759.96,15,Chennai,Travel,UPI,Mobile,0
+T2941,1128,643.05,8,Kolkata,Fashion,UPI,Mobile,0
+T2942,1107,3629.99,12,Pune,Fashion,Net Banking,Mobile,0
+T2943,1004,6736.3,2,Mumbai,Travel,Card,Laptop,1
+T2944,1002,1925.87,8,Bangalore,Electronics,Card,Mobile,0
+T2945,1192,567.49,12,Bangalore,Travel,UPI,Mobile,0
+T2946,1131,876.05,20,Kolkata,Food,UPI,Mobile,0
+T2947,1103,1084.52,21,Pune,Travel,UPI,Mobile,0
+T2948,1063,1426.11,1,Chennai,Fashion,Net Banking,Mobile,0
+T2949,1105,4117.78,7,Nagpur,Fashion,Net Banking,Mobile,0
+T2950,1097,3674.63,8,Delhi,Food,UPI,Mobile,0
+T2951,1009,4763.96,15,Hyderabad,Food,UPI,Tablet,0
+T2952,1148,1800.82,1,Chennai,Grocery,Card,Mobile,1
+T2953,1127,6949.03,5,Nagpur,Electronics,Card,Mobile,0
+T2954,1045,913.06,21,Hyderabad,Electronics,UPI,Mobile,0
+T2955,1154,2532.28,7,Nagpur,Electronics,Card,Mobile,0
+T2956,1065,6456.57,4,Nagpur,Entertainment,Card,Laptop,0
+T2957,1168,794.58,8,Kolkata,Fashion,Card,Mobile,0
+T2958,1111,465.52,0,Bangalore,Electronics,UPI,Mobile,0
+T2959,1012,8605.78,8,Delhi,Grocery,Card,Laptop,0
+T2960,1136,1679.86,9,Nagpur,Grocery,UPI,Mobile,0
+T2961,1163,4606.41,22,Pune,Electronics,Card,Mobile,0
+T2962,1085,102.7,3,Hyderabad,Food,Card,Mobile,1
+T2963,1089,4685.34,2,Chennai,Grocery,Card,Mobile,1
+T2964,1057,1519.78,9,Bangalore,Food,Card,Mobile,0
+T2965,1053,229.42,14,Hyderabad,Fashion,Net Banking,Mobile,0
+T2966,1011,3764.51,10,Kolkata,Entertainment,Card,Mobile,0
+T2967,1013,1101.98,13,Pune,Grocery,Card,Mobile,0
+T2968,1120,1956.3,5,Pune,Food,UPI,Mobile,0
+T2969,1161,336.05,11,Nagpur,Electronics,UPI,Tablet,0
+T2970,1180,636.75,12,Pune,Fashion,Card,Mobile,0
+T2971,1120,1415.16,16,Delhi,Travel,Card,Tablet,0
+T2972,1019,376.19,15,Kolkata,Travel,Net Banking,Mobile,0
+T2973,1074,9668.67,2,Pune,Electronics,UPI,Laptop,0
+T2974,1143,24.26,1,Nagpur,Fashion,Card,Mobile,1
+T2975,1069,2645.51,10,Hyderabad,Fashion,UPI,Mobile,0
+T2976,1055,526.12,8,Kolkata,Fashion,Card,Laptop,0
+T2977,1100,1470.82,2,Pune,Fashion,Card,Laptop,1
+T2978,1185,10417.98,17,Bangalore,Travel,UPI,Mobile,0
+T2979,1131,705.49,19,Kolkata,Food,Net Banking,Mobile,0
+T2980,1110,13505.9,14,Kolkata,Fashion,Card,Mobile,0
+T2981,1124,921.65,13,Chennai,Food,UPI,Tablet,0
+T2982,1131,5412.46,1,Bangalore,Fashion,Card,Mobile,1
+T2983,1019,3164.6,16,Bangalore,Grocery,Card,Laptop,0
+T2984,1137,8633.2,21,Hyderabad,Entertainment,Card,Laptop,0
+T2985,1023,3229.68,7,Mumbai,Grocery,Card,Laptop,0
+T2986,1153,3059.08,9,Chennai,Entertainment,Net Banking,Mobile,0
+T2987,1036,869.93,17,Bangalore,Grocery,UPI,Mobile,0
+T2988,1053,727.19,18,Bangalore,Fashion,Card,Tablet,0
+T2989,1102,9931.11,7,Mumbai,Food,Net Banking,Mobile,0
+T2990,1148,1589.02,7,Hyderabad,Entertainment,Net Banking,Laptop,0
+T2991,1037,1861.38,2,Chennai,Travel,UPI,Mobile,0
+T2992,1173,5705.53,2,Bangalore,Electronics,Net Banking,Laptop,0
+T2993,1003,1654.94,11,Nagpur,Entertainment,Card,Mobile,0
+T2994,1187,12151.42,21,Hyderabad,Entertainment,UPI,Mobile,0
+T2995,1056,5356.54,16,Chennai,Travel,UPI,Laptop,0
+T2996,1172,3639.54,3,Bangalore,Fashion,Net Banking,Mobile,0
+T2997,1019,8511.0,16,Bangalore,Grocery,UPI,Laptop,0
+T2998,1016,203.51,13,Mumbai,Grocery,Card,Mobile,0
+T2999,1118,1188.57,18,Chennai,Food,UPI,Mobile,0
+T3000,1070,2502.23,8,Nagpur,Fashion,Card,Mobile,0
