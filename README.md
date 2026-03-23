@@ -62,12 +62,12 @@ SQL queries were written to answer business-driven questions such as:
 * Time-based fraud trends
 
 
-## Dashboard (Coming Soon)
+## Here is the Power BI dashboard:
+[Dashboard.png]
 
-Power BI dashboard will include:
-
-* Fraud transaction percentage
-* Fraud trends over time
+The dashboard includes:
+* Fraud transaction percentage analysis
+* Time-based fraud trends
 * High-risk transaction insights
 
 
