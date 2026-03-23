@@ -63,7 +63,7 @@ SQL queries were written to answer business-driven questions such as:
 
 
 ## Here is the Power BI dashboard:
-(Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 The dashboard includes:
 * Fraud transaction percentage analysis
